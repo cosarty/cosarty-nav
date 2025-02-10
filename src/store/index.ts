@@ -1,4 +1,4 @@
-import {db as dbJson} from '../../data/db/db'
+import  {db as dbJson} from '../../data/db/db'
 import searchJson from '../../data/search.json'
 import settingsJson from '../../data/settings.json'
 import tagJson from '../../data/tag.json'

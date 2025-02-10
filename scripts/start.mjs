@@ -13,7 +13,7 @@ import {
 import { generateDefaultDb } from './default_db.mjs'
 import { generateComponent } from './defaul_component.mjs'
 import { generateTags } from './defaule_tags.mjs'
-import {db} from '../data/db/db'
+import {db} from '../data/db/db.mjs'
 dayjs.extend(utc)
 dayjs.extend(timezone)
 dayjs.tz.setDefault('Asia/Shanghai')

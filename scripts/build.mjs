@@ -4,7 +4,7 @@ import dayjs from 'dayjs'
 import utc from 'dayjs/plugin/utc.js'
 import timezone from 'dayjs/plugin/timezone.js'
 import { writeSEO, writeTemplate, spiderWeb } from './util.mjs'
-import { db } from '../data/db/db'
+import { db } from '../data/db/db.mjs'
 dayjs.extend(utc)
 dayjs.extend(timezone)
 dayjs.tz.setDefault('Asia/Shanghai')
