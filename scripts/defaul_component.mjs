@@ -72,7 +72,7 @@ const getCountdown = (components, settings) => {
     title: '距离春节还有',
     dateColor: '#fff',
     dayColor: '#fff',
-    date: '2025-01-29',
+    date: '2026-02-17',
   }
   if (idx >= 0) {
     components[idx] = {

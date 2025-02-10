@@ -3,7 +3,7 @@ import path from 'path'
 import dayjs from 'dayjs'
 import utc from 'dayjs/plugin/utc.js'
 import timezone from 'dayjs/plugin/timezone.js'
-import { writeSEO, writeTemplate, spiderWeb } from './util.mjs'
+import { writeSEO, writeTemplate, spiderWeb, formattedJson } from './util.mjs'
 import { db } from '../data/db/db.mjs'
 dayjs.extend(utc)
 dayjs.extend(timezone)
@@ -27,9 +27,11 @@ fs.writeFileSync(writePath, html)
 
 let errorUrlCount = 0
 
-process.on('exit', () => {
+process.on('exit', async () => {
   settings.errorUrlCount = errorUrlCount
-  fs.writeFileSync(setPath, JSON.stringify(settings), { encoding: 'utf-8' })
+  fs.writeFileSync(setPath, await formattedJson(settings), {
+    encoding: 'utf-8',
+  })
   // fs.writeFileSync(dbPath, JSON.stringify(db), { encoding: 'utf-8' })
   console.log('All success!')
 })

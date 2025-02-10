@@ -121,10 +121,10 @@ tags = await generateTags(tagPath, settings)
   settings.lightOverType ||= 'overflow'
   settings.lightFooterHTML ||= ''
   settings.simThemeImages ||= [
-    // {
-    //   src: banner1,
-    //   url: '',
-    // },
+    {
+      src: banner1,
+      url: '',
+    },
     // {
     //   src: banner2,
     //   url: '',
@@ -175,10 +175,10 @@ tags = await generateTags(tagPath, settings)
     //   src: banner2,
     //   url: '',
     // },
-    // {
-    //   src: banner1,
-    //   url: '',
-    // },
+    {
+      src: banner1,
+      url: '',
+    },
   ]
   settings.shortcutTitle ??= ''
   settings.shortcutDocTitle ||= ''
