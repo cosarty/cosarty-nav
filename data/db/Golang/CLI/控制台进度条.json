@@ -1,0 +1,24 @@
+[
+  {
+    "name": "pb",
+    "desc": "Golang的控制台进度栏",
+    "url": "https://github.com/cheggaaa/pb",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "控制台进度条"],
+    "id": 87,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "mpb",
+    "desc": "Go cli应用程序的多进度条",
+    "url": "https://github.com/vbauerster/mpb",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "控制台进度条"],
+    "id": 88,
+    "icon": "",
+    "tags": []
+  }
+]

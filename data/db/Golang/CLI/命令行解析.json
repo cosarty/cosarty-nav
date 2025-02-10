@@ -1,0 +1,24 @@
+[
+  {
+    "name": "cli",
+    "desc": "一个简单，快速且有趣的软件包，用于在Go中构建命令行应用",
+    "url": "https://github.com/urfave/cli/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "命令行解析"],
+    "id": 85,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "cobra",
+    "desc": "Cobra既是用于创建功能强大的现代CLI应用程序的库，又是用于生成应用程序和命令文件的程序",
+    "url": "https://github.com/spf13/cobra",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "命令行解析"],
+    "id": 86,
+    "icon": "",
+    "tags": []
+  }
+]

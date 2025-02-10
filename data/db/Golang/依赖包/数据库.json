@@ -1,0 +1,76 @@
+[
+  {
+    "name": "gorm",
+    "desc": "适用于Golang的绝佳ORM库，旨在对开发人员友好",
+    "url": "https://gorm.io/zh_CN/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 54,
+    "icon": "",
+    "tags": [
+      { "id": "-2", "url": "https://gorm.io/" },
+      { "id": "-1", "url": "https://gorm.io/zh_CN/" },
+      { "id": "-3", "url": "https://github.com/go-gorm/gorm" }
+    ]
+  },
+  {
+    "icon": "https://entgo.io/img/favicon.ico",
+    "name": "ent",
+    "desc": "用于Go的简单但功能强大的实体框架，可轻松构建和维护具有大型数据模型的应用程序。",
+    "url": "https://entgo.io/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 55,
+    "tags": [
+      { "id": "-3", "url": "https://github.com/facebook/ent" }
+    ]
+  },
+  {
+    "name": "mysql",
+    "desc": "Go MySQL驱动程序是Go（golang）数据库/ sql包的MySQL驱动程序",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 56,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "sqlite3",
+    "desc": "sqlite3驱动程序",
+    "url": "https://github.com/mattn/go-sqlite3",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 57,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "pq",
+    "desc": "适用于database/sql的Pure Go Postgres驱动程序",
+    "url": "https://github.com/lib/pq",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 58,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "icon": "https://redis.uptrace.dev/assets/images/favicon.png",
+    "name": "redis",
+    "desc": "用于Golang的类型安全的Redis客户端",
+    "url": "https://redis.uptrace.dev/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "数据库"],
+    "id": 59,
+    "tags": [
+      { "id": "-3", "url": "https://github.com/go-redis/redis" }
+    ]
+  }
+]

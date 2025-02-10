@@ -1,0 +1,35 @@
+[
+  {
+    "name": "promptui",
+    "desc": "命令行应用程序的交互式提示",
+    "url": "https://github.com/manifoldco/promptui",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "其他"],
+    "id": 89,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "godotenv",
+    "desc": "从`.env`文件加载环境变量。",
+    "url": "https://github.com/joho/godotenv",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "其他"],
+    "id": 90,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "go-prompt",
+    "desc": "受python-prompt-toolkit启发，在Go中构建强大的交互式提示。",
+    "url": "https://github.com/c-bata/go-prompt",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "CLI", "其他"],
+    "id": 91,
+    "icon": "",
+    "tags": []
+  }
+]

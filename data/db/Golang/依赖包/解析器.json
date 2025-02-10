@@ -1,0 +1,70 @@
+[
+  {
+    "name": "json-iterator",
+    "desc": "高性能100％兼容的“ encoding / json”替代产品",
+    "url": "http://jsoniter.com/migrate-from-go-std.html",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 60,
+    "icon": "",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/json-iterator/go" }
+    ]
+  },
+  {
+    "name": "blackfriday",
+    "desc": "Markdown处理器，安全、快速。",
+    "url": "https://github.com/russross/blackfriday",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 61,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "goldmark",
+    "desc": "用Go语言编写的markdown解析器。易于扩展，符合标准（CommonMark），结构合理。",
+    "url": "https://github.com/yuin/goldmark",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 62,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "goquery",
+    "desc": "接近jQuery语法的DOM解析库",
+    "url": "https://github.com/PuerkitoBio/goquery",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 63,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "go-yaml",
+    "desc": "yaml包使Go程序能够轻松地对yaml值进行编码和解码, 可以快速可靠地解析和生成YAML数据。",
+    "url": "https://github.com/go-yaml/yaml/tree/v3",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 64,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "name": "xurls",
+    "desc": "从文本中提取Urls",
+    "url": "https://github.com/mvdan/xurls",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Golang", "依赖包", "解析器"],
+    "id": 65,
+    "icon": "",
+    "tags": []
+  }
+]
