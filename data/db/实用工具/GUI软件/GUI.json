@@ -1,0 +1,90 @@
+[
+  {
+    "icon": "https://typora.io/img/favicon-48.png",
+    "name": "Typeora",
+    "desc": "Typora是一款跨平台的最小Markdown编辑器，可为Markdown读者和作家提供无缝的体验",
+    "url": "https://typora.io/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 27,
+    "tags": []
+  },
+  {
+    "icon": "https://www.iterm2.com/favicon.ico",
+    "name": "iterm2",
+    "desc": "iTerm2是Terminal的替代品，是iTerm的后续产品",
+    "url": "https://www.iterm2.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 28,
+    "tags": []
+  },
+  {
+    "icon": "https://www.sourcetreeapp.com/assets/img/favicons/sourcetree/favicon-32x32.png",
+    "name": "Sourcetree",
+    "desc": "美丽的Git GUI中的简单性和强大功能",
+    "url": "https://www.sourcetreeapp.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 29,
+    "tags": []
+  },
+  {
+    "icon": "https://www.keka.io/img/Keka-120x120.png",
+    "name": "Keka",
+    "desc": "macOS文件存档器, 储存更多，私密分享",
+    "url": "https://www.keka.io/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 31,
+    "tags": []
+  },
+  {
+    "icon": "https://getkap.co/static/favicon/kap.ico",
+    "name": "Kap",
+    "desc": "使用Web技术构建的开源屏幕录像机。",
+    "url": "https://getkap.co/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 32,
+    "tags": []
+  },
+  {
+    "icon": "https://obsproject.com/favicon-32x32.png",
+    "name": "obsproject",
+    "desc": "免费和开源软件，用于视频录制和实时流。",
+    "url": "https://obsproject.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 33,
+    "tags": []
+  },
+  {
+    "icon": "https://avatars1.githubusercontent.com/u/14985020?s=200&v=4",
+    "name": "hyper",
+    "desc": "基于WEB技术的终端",
+    "url": "https://hyper.is/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 34,
+    "tags": [{ "id": "-3", "url": "https://github.com/zeit/hyper" }]
+  },
+  {
+    "icon": "https://www.listary.com/wp-content/themes/listary5/images/favicon.ico",
+    "name": "Listary",
+    "desc": "Listary是Windows的革命性搜索实用程序，它使休闲用户和高级用户都能快速找到文件并启动应用程序！",
+    "url": "https://www.listary.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "GUI"],
+    "id": 35,
+    "tags": []
+  }
+]

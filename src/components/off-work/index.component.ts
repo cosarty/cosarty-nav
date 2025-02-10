@@ -1,4 +1,3 @@
-
 import { Component, Input } from '@angular/core'
 import { CommonModule } from '@angular/common'
 import { IComponentProps } from 'src/types'
@@ -21,7 +20,7 @@ export class OffWorkComponent {
   constructor() {
     document.addEventListener(
       'visibilitychange',
-      this.visibilitychange.bind(this)
+      this.visibilitychange.bind(this),
     )
   }
 
@@ -52,15 +51,19 @@ export class OffWorkComponent {
     if (this.data) {
       const now = new Date()
       const nowTime = now.getTime()
-      const startDate = new Date(this.data['startDate'])
-      startDate.setFullYear(now.getFullYear())
-      startDate.setMonth(now.getMonth())
-      startDate.setDate(now.getDate())
+      // const startDate = new Date(this.data['startDate'])
+      const startDate = new Date()
+      // startDate.setFullYear(now.getFullYear())
+      // startDate.setMonth(now.getMonth())
+      // startDate.setDate(now.getDate())
+      startDate.setHours(11, 0, 0, 0)
       const startTime = startDate.getTime()
-      const date = new Date(this.data['date'])
-      date.setFullYear(now.getFullYear())
-      date.setMonth(now.getMonth())
-      date.setDate(now.getDate())
+      // const date = new Date(this.data['date'])
+      const date = new Date()
+      // date.setFullYear(now.getFullYear())
+      // date.setMonth(now.getMonth())
+      // date.setDate(now.getDate())
+      date.setHours(22, 0, 0, 0)
       const dateTime = date.getTime()
       const diffTime = (dateTime - nowTime) / 1000
       const hours = diffTime / (60 * 60)

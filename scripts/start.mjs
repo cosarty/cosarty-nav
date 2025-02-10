@@ -1,31 +1,22 @@
-// 开源项目，未经作者同意，不得以抄袭/复制代码/修改源代码版权信息。
-// Copyright @ 2018-present x.iejiahe. All rights reserved.
-// See https://github.com/xjh22222228/nav
-
 import fs from 'fs'
 import path from 'path'
 import dayjs from 'dayjs'
 import utc from 'dayjs/plugin/utc.js'
 import timezone from 'dayjs/plugin/timezone.js'
-import defaultDb from './db.mjs'
 import yaml from 'js-yaml'
-import LZString from 'lz-string'
 import {
-  TAG_ID1,
-  TAG_ID2,
-  TAG_ID3,
-  TAG_ID_NAME1,
-  TAG_ID_NAME2,
-  TAG_ID_NAME3,
   getWebCount,
   setWeb,
   replaceJsdelivrCDN,
+  formattedJson,
 } from './util.mjs'
-
+import { generateDefaultDb } from './default_db.mjs'
+import { generateComponent } from './defaul_component.mjs'
+import { generateTags } from './defaule_tags.mjs'
+import {db } from '../data/db/db'
 dayjs.extend(utc)
 dayjs.extend(timezone)
 dayjs.tz.setDefault('Asia/Shanghai')
-
 const pkgPath = path.join('.', 'package.json')
 const configPath = path.join('.', 'nav.config.yaml')
 const pkgJson = JSON.parse(fs.readFileSync(pkgPath).toString())
@@ -41,7 +32,10 @@ const configJson = {
   port: config.port,
   datetime: dayjs.tz().format('YYYY-MM-DD HH:mm'),
 }
-fs.writeFileSync(path.join('.', 'nav.config.json'), JSON.stringify(configJson))
+fs.writeFileSync(
+  path.join('.', 'nav.config.json'),
+  await formattedJson(configJson),
+)
 
 const dbPath = path.join('.', 'data', 'db.json')
 const internalPath = path.join('.', 'data', 'internal.json')
@@ -51,159 +45,23 @@ const searchPath = path.join('.', 'data', 'search.json')
 const componentPath = path.join('.', 'data', 'component.json')
 
 let internal = {}
-let db = []
+// let db = []
 let settings = {}
 let tags = []
 let search = []
-let components = []
-try {
-  const strings = fs.readFileSync(dbPath).toString().trim()
-  if (!strings) {
-    throw new Error('empty')
-  }
-  if (strings[0] === '[' && strings.at(-1) === ']') {
-    db = JSON.parse(strings)
-  } else {
-    db = JSON.parse(LZString.decompressFromBase64(strings))
-    if (!db) {
-      db = JSON.parse(LZString.decompressFromBase64(defaultDb))
-    }
-  }
-} catch (e) {
-  db = JSON.parse(LZString.decompressFromBase64(defaultDb))
-}
+
 try {
   internal = JSON.parse(fs.readFileSync(internalPath).toString())
   settings = JSON.parse(fs.readFileSync(settingsPath).toString())
-  tags = JSON.parse(fs.readFileSync(tagPath).toString())
   search = JSON.parse(fs.readFileSync(searchPath).toString())
 } catch {}
 
-try {
-  components = JSON.parse(fs.readFileSync(componentPath).toString())
-} catch {
-} finally {
-  /** @type {import('./src/types/index.ts').ComponentType} */
-  let idx = components.findIndex((item) => item.type === 1)
-  const calendar = {
-    type: 1,
-    id: -1,
-    topColor: '#ff5a5d',
-    bgColor: '#1d1d1d',
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...calendar,
-      ...components[idx],
-    }
-  } else {
-    components.push(calendar)
-  }
-  //
-  idx = components.findIndex((item) => item.type === 2)
-  const offWork = {
-    type: 2,
-    id: -2,
-    workTitle: '距离下班还有',
-    restTitle: '休息啦',
-    startDate: new Date(2018, 3, 26, 9, 0, 0).getTime(),
-    date: new Date(2018, 3, 26, 18, 0, 0).getTime(),
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...offWork,
-      ...components[idx],
-    }
-  } else {
-    components.push(offWork)
-  }
-  //
-  idx = components.findIndex((item) => item.type === 4)
-  const image = {
-    type: 4,
-    id: -4,
-    url: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component1.jpg',
-    go: '',
-    text: '只有认可，才能强大',
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...image,
-      ...components[idx],
-    }
-    components[idx].url = replaceJsdelivrCDN(components[idx].url, settings)
-  } else {
-    components.push(image)
-  }
-  //
-  idx = components.findIndex((item) => item.type === 5)
-  const countdown = {
-    type: 5,
-    id: -5,
-    topColor: 'linear-gradient(90deg, #FAD961 0%, #F76B1C 100%)',
-    bgColor: 'rgb(235,129,124)',
-    url: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component2.jpg',
-    title: '距离春节还有',
-    dateColor: '#fff',
-    dayColor: '#fff',
-    date: '2025-01-29',
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...countdown,
-      ...components[idx],
-    }
-    components[idx].url = replaceJsdelivrCDN(components[idx].url, settings)
-  } else {
-    components.push(countdown)
-  }
-  //
-  idx = components.findIndex((item) => item.type === 3)
-  const runtime = {
-    type: 3,
-    id: -3,
-    title: '已稳定运行',
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...runtime,
-      ...components[idx],
-    }
-  } else {
-    components.push(runtime)
-  }
-  //
-  idx = components.findIndex((item) => item.type === 6)
-  const html = {
-    type: 6,
-    id: -6,
-    html: 'hello world',
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...html,
-      ...components[idx],
-    }
-  } else {
-    components.push(html)
-  }
-  idx = components.findIndex((item) => item.type === 7)
-  const holiday = {
-    type: 7,
-    id: -7,
-    items: [],
-  }
-  if (idx >= 0) {
-    components[idx] = {
-      ...holiday,
-      ...components[idx],
-    }
-  } else {
-    components.push(holiday)
-  }
-  fs.writeFileSync(componentPath, JSON.stringify(components))
-}
+// 构建数据
+// db = generateDefaultDb(dbPath)
+// 构建组件
+await generateComponent(componentPath, settings)
 
+// 构建搜索
 {
   if (!search.length) {
     search = [
@@ -214,102 +72,15 @@ try {
         blocked: false,
         isInner: true,
       },
-      // {
-      //   name: '百度',
-      //   url: 'https://www.baidu.com/s?wd=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/baidu.svg',
-      //   placeholder: '百度一下',
-      //   blocked: false,
-      //   isInner: false,
-      // },
-      // {
-      //   name: 'Google',
-      //   url: 'https://www.google.com/search?q=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/google.svg',
-      //   blocked: false,
-      //   isInner: false,
-      // },
-      // {
-      //   name: '必应',
-      //   url: 'https://cn.bing.com/search?q=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/bing.svg',
-      //   blocked: false,
-      //   isInner: false,
-      // },
-      // {
-      //   name: 'GitHub',
-      //   url: 'https://github.com/search?q=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/github.svg',
-      //   placeholder: 'Search GitHub',
-      //   blocked: false,
-      //   isInner: false,
-      // },
-      // {
-      //   name: '知乎',
-      //   url: 'https://www.zhihu.com/search?type=content&q=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/zhihu.svg',
-      //   blocked: false,
-      //   isInner: false,
-      // },
-      // {
-      //   name: '豆瓣',
-      //   url: 'https://search.douban.com/book/subject_search?search_text=',
-      //   icon: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/douban.svg',
-      //   placeholder: '书名、作者、ISBN',
-      //   blocked: false,
-      //   isInner: false,
-      // },
     ]
-    fs.writeFileSync(searchPath, JSON.stringify(search), {
+    fs.writeFileSync(searchPath, await formattedJson(search), {
       encoding: 'utf-8',
     })
   }
 }
 
-{
-  const isEn = settings.language === 'en'
-  const desc = isEn ? 'The system is built-in' : '系统内置不可删除'
-  if (!Array.isArray(tags)) {
-    tags = []
-  }
-  const a = tags.some((item) => item.id === TAG_ID1)
-  if (!a) {
-    tags.push({
-      id: TAG_ID1,
-      name: isEn ? 'Chinese' : TAG_ID_NAME1,
-      color: '#2db7f5',
-      createdAt: '',
-      desc,
-      isInner: true,
-    })
-  }
-  const b = tags.some((item) => item.id === TAG_ID2)
-  if (!b) {
-    tags.push({
-      id: TAG_ID2,
-      name: isEn ? 'English' : TAG_ID_NAME2,
-      color: '#f50',
-      createdAt: '',
-      desc,
-      isInner: true,
-    })
-  }
-  const c = tags.some((item) => item.id === TAG_ID3)
-  if (!c) {
-    tags.push({
-      id: TAG_ID3,
-      name: TAG_ID_NAME3,
-      color: '#108ee9',
-      createdAt: '',
-      desc,
-      isInner: true,
-    })
-  }
-  tags = tags.filter((item) => item.name && item.id)
-  fs.writeFileSync(tagPath, JSON.stringify(tags), {
-    encoding: 'utf-8',
-  })
-}
+// 构建标签
+tags = await generateTags(tagPath, settings)
 
 {
   const banner1 =
@@ -319,11 +90,10 @@ try {
   const backgroundImg =
     'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/background.jpg'
 
-  settings.favicon ??=
-    '/lemon.png'
+  settings.favicon ??= '/lemon.png'
   settings.language ||= 'zh-CN'
   settings.loading ??= 'random'
-  settings.runtime ??= dayjs.tz().valueOf()
+  settings.runtime ??= 1739030400000 || dayjs.tz().valueOf()
   settings.allowCollect ??= true
   settings.email ||= configJson.email || ''
   settings.showGithub ??= false
@@ -376,14 +146,14 @@ try {
   settings.superDocTitle ||= ''
   settings.superTitle ||= ''
   const defImgs = [
-    {
-      src: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/nav-1717494364392-ad.jpg',
-      url: 'https://haokawx.lot-ml.com/Product/index/454266',
-    },
-    {
-      src: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/10.png',
-      url: '',
-    },
+    // {
+    //   src: 'https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/nav-1717494364392-ad.jpg',
+    //   url: 'https://haokawx.lot-ml.com/Product/index/454266',
+    // },
+    // {
+    //   src: 'https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/10.png',
+    //   url: '',
+    // },
   ]
   settings.superImages ??= defImgs
   settings.lightImages ??= defImgs
@@ -460,7 +230,7 @@ try {
     item.src = replaceJsdelivrCDN(item.src, settings)
     return item
   })
-  fs.writeFileSync(settingsPath, JSON.stringify(settings), {
+  fs.writeFileSync(settingsPath, await formattedJson(settings), {
     encoding: 'utf-8',
   })
 }
@@ -468,5 +238,5 @@ try {
 const { userViewCount, loginViewCount } = getWebCount(db)
 internal.userViewCount = userViewCount < 0 ? loginViewCount : userViewCount
 internal.loginViewCount = loginViewCount
-fs.writeFileSync(internalPath, JSON.stringify(internal))
-fs.writeFileSync(dbPath, JSON.stringify(setWeb(db, settings, tags)))
+fs.writeFileSync(internalPath, await formattedJson(internal))
+// fs.writeFileSync(dbPath, await formattedJson(setWeb(db, settings, tags)))

@@ -26,7 +26,7 @@ const t: Record<string, any> = {
     <div>
       <div class="dark-white text-base font-bold mb-8">技术支持</div>
       <div class="mb-6">
-        <a href="https://github.com/xjh22222228/nav" target="_blank">
+        <a href="https://www.cosarty.cn/" target="_blank">
           Nav
         </a>
       </div>
@@ -78,7 +78,7 @@ const t: Record<string, any> = {
       >Author</a
     >
     <a
-      href="https://github.com/xjh22222228/nav"
+      href="https://www.cosarty.cn/"
       target="_blank"
       class="text-gray-600 hover:underline"
       >Nav</a

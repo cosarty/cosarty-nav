@@ -1,1 +1,9 @@
-[{"name":"站内","icon":"/lemon.png","placeholder":"站内搜索","blocked":false,"isInner":true}]
+[
+  {
+    "name": "站内",
+    "icon": "/lemon.png",
+    "placeholder": "站内搜索",
+    "blocked": false,
+    "isInner": true
+  }
+]

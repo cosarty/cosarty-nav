@@ -1,5 +1,3 @@
-// LICENSE GPL3.0 https://github.com/xjh22222228/nav/blob/main/LICENSE
-// 未授权擅自使用自有部署软件（当前文件），一旦发现将追究法律责任，https://official.nav3.cn/pricing
 import express from 'express'
 import cors from 'cors'
 import fs from 'node:fs'

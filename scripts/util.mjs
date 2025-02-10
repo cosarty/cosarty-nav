@@ -1,11 +1,10 @@
-// Copyright @ 2018-present x.iejiahe. All rights reserved.
-// See https://github.com/xjh22222228/nav
+
 import dayjs from 'dayjs'
 import LOAD_MAP from './loading.mjs'
 import utc from 'dayjs/plugin/utc.js'
 import timezone from 'dayjs/plugin/timezone.js'
 import getWebInfo from 'info-web'
-
+import prettier from 'prettier'
 dayjs.extend(utc)
 dayjs.extend(timezone)
 dayjs.tz.setDefault('Asia/Shanghai')
@@ -195,7 +194,7 @@ export function writeSEO(webs, payload) {
   const { settings } = payload
   const nowDate = dayjs.tz().format('YYYY-MM-DD HH:mm:ss')
   let seoTemplate = `
-<div data-url="https://github.com/xjh22222228/nav" data-server-time="${Date.now()}" data-a="x.i.e-jiahe" data-date="${nowDate}" id="META-NAV" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
+<div data-url="https://www.cosarty.cn/" data-server-time="${Date.now()}" data-a="x.i.e-jiahe" data-date="${nowDate}" id="META-NAV" style="z-index:-1;position:fixed;top:-10000vh;left:-10000vh;">
 `
 
   function r(navList) {
@@ -229,7 +228,6 @@ export function writeTemplate({ html, settings, seoTemplate }) {
     return loadingKey
   }
   const htmlTemplate = `
-  <!-- https://github.com/xjh22222228/nav -->
   <title>${settings.title}</title>
   <meta property="og:title" content="${settings.title}" />
   <meta property="og:description" content="${settings.description}" />
@@ -243,24 +241,24 @@ export function writeTemplate({ html, settings, seoTemplate }) {
   let t = html
   t = t.replace(
     /(<!-- nav\.config-start -->)(.|\s)*?(<!-- nav.config-end -->)/i,
-    `$1${htmlTemplate}$3`
+    `$1${htmlTemplate}$3`,
   )
   if (settings.headerContent) {
     t = t.replace(
       /(<!-- nav.headerContent-start -->)(.|\s)*?(<!-- nav.headerContent-end -->)/i,
-      `$1${settings.headerContent}$3`
+      `$1${settings.headerContent}$3`,
     )
   }
 
   t = t.replace(
     /(<!-- nav.seo-start -->)(.|\s)*?(<!-- nav.seo-end -->)/i,
-    `$1${seoTemplate}$3`
+    `$1${seoTemplate}$3`,
   )
 
   const loadingCode = settings.loadingCode.trim()
   t = t.replace(
     /(<!-- nav.loading-start -->)(.|\s)*?(<!-- nav.loading-end -->)/i,
-    `$1${loadingCode || LOAD_MAP[getLoadKey()] || ''}$3`
+    `$1${loadingCode || LOAD_MAP[getLoadKey()] || ''}$3`,
   )
   return t
 }
@@ -312,7 +310,7 @@ export async function spiderWeb(db, settings) {
 
   if (items.length) {
     console.log(
-      `正在爬取信息... 并发数量：${max}  超时: ${settings.spiderTimeout}秒`
+      `正在爬取信息... 并发数量：${max}  超时: ${settings.spiderTimeout}秒`,
     )
   }
 
@@ -324,7 +322,7 @@ export async function spiderWeb(db, settings) {
         requestPromises.push(
           getWebInfo(correctURL(item.url), {
             timeout: settings.spiderTimeout * 1000,
-          })
+          }),
         )
       }
     }
@@ -338,7 +336,7 @@ export async function spiderWeb(db, settings) {
       console.log(
         `${idx}：${
           res.status ? '正常' : `疑似异常: ${res.errorMsg}`
-        } ${correctURL(item.url)}`
+        } ${correctURL(item.url)}`,
       )
       if (settings.checkUrl) {
         if (!res.status) {
@@ -352,7 +350,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新图标：${correctURL(item.url)}: "${item.icon}" => "${
               res.iconUrl
-            }"`
+            }"`,
           )
         } else if (
           settings.spiderIcon === 'EMPTY' &&
@@ -363,7 +361,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新图标：${correctURL(item.url)}: "${item.icon}" => "${
               res.iconUrl
-            }"`
+            }"`,
           )
         }
 
@@ -371,7 +369,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新标题：${correctURL(item.url)}: "${item.title}" => "${
               res.title
-            }"`
+            }"`,
           )
           item.name = res.title
         } else if (
@@ -382,7 +380,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新标题：${correctURL(item.url)}: "${item.title}" => "${
               res.title
-            }"`
+            }"`,
           )
           item.name = res.title
         }
@@ -391,7 +389,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新描述：${correctURL(item.url)}: "${item.desc}" => "${
               res.description
-            }"`
+            }"`,
           )
           item.desc = res.description
         } else if (
@@ -402,7 +400,7 @@ export async function spiderWeb(db, settings) {
           console.log(
             `更新描述：${correctURL(item.url)}: "${item.desc}" => "${
               res.description
-            }"`
+            }"`,
           )
           item.desc = res.description
         }
@@ -433,3 +431,10 @@ export function replaceJsdelivrCDN(str = '', settings) {
   str = str.replace('gcore.jsdelivr.net', cdn)
   return str
 }
+
+export const formattedJson = (data) =>
+  prettier.format(JSON.stringify(data), {
+    parser: 'json', // 指定解析器为 JSON
+    tabWidth: 2, // 缩进宽度
+    printWidth: 80, // 每行最大宽度
+  })

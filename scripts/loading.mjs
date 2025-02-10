@@ -1,5 +1,4 @@
 // Copyright @ 2018-present xiejia.he. All rights reserved.
-// See https://github.com/xjh22222228/nav
 
 export default {
   loading1: `

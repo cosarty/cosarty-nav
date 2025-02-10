@@ -1,0 +1,24 @@
+[
+  {
+    "icon": "https://www.vmware.com/favicon.ico",
+    "name": "vmware",
+    "desc": "利用VMware提供的软件定义的云，移动性，网络和安全解决方案来建立您的数字基础。",
+    "url": "https://www.vmware.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["实用工具", "GUI软件", "虚拟机"],
+    "id": 36,
+    "tags": []
+  },
+  {
+    "icon": "https://www.virtualbox.org/favicon.ico",
+    "name": "virtualbox",
+    "desc": "virtualbox虚拟机",
+    "url": "https://www.virtualbox.org/",
+    "createdAt": "2025-02-11 00:08",
+    "breadcrumb": ["实用工具", "GUI软件", "虚拟机"],
+    "id": 37,
+    "tags": [],
+    "rate": 5
+  }
+]
