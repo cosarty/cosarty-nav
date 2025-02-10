@@ -13,7 +13,7 @@ import {
 import { generateDefaultDb } from './default_db.mjs'
 import { generateComponent } from './defaul_component.mjs'
 import { generateTags } from './defaule_tags.mjs'
-import {db } from '../data/db/db'
+import {db} from '../data/db/db'
 dayjs.extend(utc)
 dayjs.extend(timezone)
 dayjs.tz.setDefault('Asia/Shanghai')
@@ -100,8 +100,8 @@ tags = await generateTags(tagPath, settings)
   settings.showLanguage ??= false
   settings.showRate ??= false
   settings.openSearch ??= true
-  settings.title ??= '柠檬导航 - 精选实用导航网站'
-  settings.description ??= '柠檬导航是一个轻量级免费且强大的导航网站'
+  settings.title ??= '柠檬导航 - 自用导航网站'
+  settings.description ??= '柠檬导航是一个自用的导航网站'
   settings.keywords ??= '自用导航'
   settings.theme ??= 'Side'
   settings.actionUrl ??= ''
