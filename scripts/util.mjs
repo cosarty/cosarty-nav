@@ -221,7 +221,6 @@ export function writeSEO(webs, payload) {
 
 export function writeTemplate({ html, settings, seoTemplate }) {
   function getLoadKey() {
-    return 'loading2'
     const keys = Object.keys(LOAD_MAP)
     const rand = Math.floor(Math.random() * keys.length)
     const loadingKey =

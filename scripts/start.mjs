@@ -92,7 +92,7 @@ tags = await generateTags(tagPath, settings)
 
   settings.favicon ??= '/lemon.png'
   settings.language ||= 'zh-CN'
-  settings.loading ??= 'random'
+  settings.loading ??= 'loading2'
   settings.runtime ??= 1739030400000 || dayjs.tz().valueOf()
   settings.allowCollect ??= true
   settings.email ||= configJson.email || ''
