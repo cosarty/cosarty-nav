@@ -88,13 +88,6 @@
       "date": 1524736800000
     },
     {
-      "type": 4,
-      "id": -4,
-      "url": "https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/component1.jpg",
-      "go": "",
-      "text": "只有认可，才能强大"
-    },
-    {
       "type": 5,
       "id": -5,
       "topColor": "linear-gradient(90deg, #FAD961 0%, #F76B1C 100%)",
