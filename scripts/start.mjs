@@ -111,7 +111,7 @@ tags = await generateTags(tagPath, settings)
   settings.footerContent ??= `
 <div class="dark-white">
   <div>共收录$\{total\}个网站</div>
-  <div>Copyright © 2018-$\{year} $\{hostname}, All Rights Reserved</div>  
+  <div>Copyright ©$\{year} $\{hostname}, All Rights Reserved</div>  
 </div>
 `.trim()
   settings.showThemeToggle ??= false

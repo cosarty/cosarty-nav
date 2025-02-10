@@ -52,7 +52,7 @@ const t: Record<string, any> = {
   footTemplate2: `
 <div class="dark-white">
   <div>共收录$\{total}个网站</div>
-  <div>Copyright © 2018-$\{year} $\{hostname}, All Rights Reserved</div>  
+  <div>Copyright ©$\{year} $\{hostname}, All Rights Reserved</div>  
 </div>
 `,
 

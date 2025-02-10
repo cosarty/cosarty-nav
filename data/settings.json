@@ -17,7 +17,7 @@
   "appTheme": "App",
   "openSEO": true,
   "headerContent": "",
-  "footerContent": "<div class=\"dark-white\">\n  <div>共收录${total}个网站</div>\n  <div>Copyright © 2018-${year} ${hostname}, All Rights Reserved</div>  \n</div>",
+  "footerContent": "<div class=\"dark-white\">\n  <div>共收录${total}个网站</div>\n  <div>Copyright ©${year} ${hostname}, All Rights Reserved</div>  \n</div>",
   "showThemeToggle": false,
   "lightDocTitle": "",
   "lightCardStyle": "standard",
