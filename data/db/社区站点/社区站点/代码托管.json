@@ -1,0 +1,46 @@
+[
+  {
+    "icon": "https://github.githubassets.com/favicons/favicon.svg",
+    "name": "Github",
+    "desc": "面向开源及私有软件项目的托管平台",
+    "url": "https://github.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "代码托管"],
+    "id": 143,
+    "tags": []
+  },
+  {
+    "icon": "https://gitee.com/favicon.ico",
+    "name": "码云",
+    "desc": "码云专为开发者提供稳定、高效、安全的云端软件开发协作平台",
+    "url": "https://gitee.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "代码托管"],
+    "id": 144,
+    "tags": []
+  },
+  {
+    "icon": "https://about.gitlab.com/ico/apple-touch-icon-57x57.png",
+    "name": "GitLab",
+    "desc": "用于仓库管理系统的开源项目，使用Git作为代码管理工具，并在此基础上搭建起来的web服务",
+    "url": "https://gitlab.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "代码托管"],
+    "id": 145,
+    "tags": []
+  },
+  {
+    "icon": "https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico",
+    "name": "Coding",
+    "desc": "面向开发者的云端开发平台，提供 git/svn 代码托管，代码质量分析，在线WebIDE，项目管理...",
+    "url": "https://coding.net/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "代码托管"],
+    "id": 146,
+    "tags": []
+  }
+]

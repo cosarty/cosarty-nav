@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "https://fastapi.tiangolo.com/img/favicon.png",
+    "name": "FastAPI",
+    "desc": "具有期限的完美主义者的Web框架。",
+    "url": "https://fastapi.tiangolo.com/zh/",
+    "breadcrumb": ["Python", "框架", "WEB框架"],
+    "tags": [
+      { "id": "-3", "url": "https://github.com/fastapi/fastapi" }
+    ]
+  },
+  {
+    "icon": "https://avatars3.githubusercontent.com/u/27804?s=200&v=4",
+    "name": "Django",
+    "desc": "具有期限的完美主义者的Web框架。",
+    "url": "https://www.djangoproject.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "框架", "WEB框架"],
+    "id": 113,
+    "tags": [
+      { "id": "-3", "url": "https://github.com/django/django" }
+    ]
+  },
+  {
+    "icon": "https://avatars0.githubusercontent.com/u/16748505?s=200&v=4",
+    "name": "flask",
+    "desc": "用于构建Web应用程序的Python微框架。",
+    "url": "https://palletsprojects.com/p/flask/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "框架", "WEB框架"],
+    "id": 114,
+    "tags": [
+      { "id": "-3", "url": "https://github.com/pallets/flask" }
+    ]
+  }
+]

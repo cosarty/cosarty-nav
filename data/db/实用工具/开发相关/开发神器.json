@@ -4,11 +4,13 @@
     "name": "Sentry",
     "desc": "Web应用程序，移动应用程序和游戏的实时崩溃报告。",
     "url": "https://sentry.io/",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["实用工具", "开发相关", "开发神器"],
-    "id": 1,
     "tags": [{ "id": "-3", "url": "https://github.com/getsentry" }]
+  },
+  {
+    "icon": "https://digvps.com/favicon.png",
+    "name": "DigVPS",
+    "desc": "推荐排行 - DigVPS - 专注VPS测评，总有一款服务器适合您！",
+    "url": "https://digvps.com/review"
   },
   {
     "icon": "https://randomuser.me/favicon.ico",

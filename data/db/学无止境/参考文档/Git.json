@@ -1,0 +1,24 @@
+[
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "git-manual",
+    "desc": "Git常用命令参考手册 (推荐学习)",
+    "url": "https://github.com/xjh22222228/git-manual",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "Git"],
+    "id": 151,
+    "tags": []
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "GitHub Docs",
+    "desc": "github 官方帮助文档",
+    "url": "https://help.github.com/cn",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "Git"],
+    "id": 152,
+    "tags": []
+  }
+]

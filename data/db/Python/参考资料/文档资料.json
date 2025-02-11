@@ -1,0 +1,68 @@
+[
+  {
+    "name": "100天从新手到大师",
+    "desc": "Python - 100天从新手到大师",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 116,
+    "tags": []
+  },
+  {
+    "name": "Python 入门指南",
+    "desc": "Python 入门指南",
+    "url": "https://python666.cn/cls/lesson/list/",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 117,
+    "tags": []
+  },
+  {
+    "name": "What the f*ck Python!",
+    "desc": "一些有趣且鲜为人知的 Python 特性.",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 118,
+    "tags": []
+  },
+  {
+    "name": "awesome-python-cn",
+    "desc": "Python 资源大全中文版",
+    "url": "https://github.com/jobbole/awesome-python-cn",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 119,
+    "tags": []
+  },
+  {
+    "name": "cheatsheet",
+    "desc": "Python大全备忘单",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 120,
+    "tags": []
+  },
+  {
+    "name": "awesome-python",
+    "desc": "精选的Python框架，库，软件和资源的精选清单。",
+    "url": "https://github.com/vinta/awesome-python",
+    "icon": "https://www.python.org/static/favicon.ico",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["Python", "参考资料", "文档资料"],
+    "id": 121,
+    "tags": []
+  }
+]

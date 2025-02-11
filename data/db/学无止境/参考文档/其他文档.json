@@ -1,0 +1,139 @@
+[
+  {
+    "icon": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png",
+    "name": "Linux 常用命令参考手册",
+    "desc": "Linux 常用命令参考手册",
+    "url": "https://github.com/xjh22222228/linux-manual",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 164,
+    "tags": []
+  },
+
+  {
+    "icon": "https://devhints.io/assets/favicon.png",
+    "name": "Devhints",
+    "desc": "WEB开发速查表，mysql/go/java/js/bash/react/git...",
+    "url": "https://devhints.io/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 166,
+    "tags": []
+  },
+  {
+    "icon": "https://wangchujiang.com/linux-command/img/favicon.ico",
+    "name": "linux-command",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集",
+    "url": "https://git.io/linux",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 167,
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jaywcjlove/linux-command"
+      }
+    ]
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "learn-regex",
+    "desc": "正则表达式学习",
+    "url": "https://github.com/ziishaned/learn-regex",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 168,
+    "tags": []
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "the-art-of-command-line",
+    "desc": "命令行的艺术",
+    "url": "https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 169,
+    "tags": []
+  },
+  {
+    "icon": "https://avatars2.githubusercontent.com/u/11618545?s=200&v=4",
+    "name": "vimrc",
+    "desc": "vim配置参考手册",
+    "url": "https://github.com/amix/vimrc",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 171,
+    "tags": []
+  },
+  {
+    "icon": "https://www.jenkins.io/zh/sites/default/files/jenkins_favicon.ico",
+    "name": "Jenkins",
+    "desc": "Jenkins是开源CI&CD软件领导者， 提供超过1000个插件来支持构建、部署、自动化， 满足任何项目的需要",
+    "url": "https://www.jenkins.io/zh/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 172,
+    "tags": []
+  },
+  {
+    "icon": "https://learnxinyminutes.com/favicon.ico",
+    "name": "learnxinyminutes-docs",
+    "desc": "在Y分钟内学习X",
+    "url": "https://learnxinyminutes.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 173,
+    "tags": []
+  },
+  {
+    "icon": "https://code.visualstudio.com/apple-touch-icon.png",
+    "name": "Vscode Docs",
+    "desc": "Vscode 扩展开发文档",
+    "url": "https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 174,
+    "tags": [
+      { "id": "-2", "url": "https://code.visualstudio.com/api" },
+      {
+        "id": "-1",
+        "url": "https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/"
+      },
+      {
+        "id": "-3",
+        "url": "https://github.com/microsoft/vscode-docs"
+      }
+    ]
+  },
+  {
+    "name": "YAML教程",
+    "desc": "YAML教程",
+    "url": "https://www.yiibai.com/yaml",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 175,
+    "icon": "",
+    "tags": []
+  },
+  {
+    "icon": "https://www.google.com/images/icons/product/chrome-32.png",
+    "name": "Chrome Extension",
+    "desc": "谷歌浏览器扩展插件开发文档",
+    "url": "https://developer.chrome.com/extensions",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["学无止境", "参考文档", "其他文档"],
+    "id": 176,
+    "tags": []
+  }
+]
