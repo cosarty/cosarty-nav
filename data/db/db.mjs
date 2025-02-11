@@ -9,7 +9,7 @@ export const db = [
   Utilities.default,
   Golang.default,
   Python.default,
-  CommunitySites.defaultNeverStopLearning,
+  CommunitySites.default,
   NeverStopLearning.default,
   BlogHighlights.default,
 ]
