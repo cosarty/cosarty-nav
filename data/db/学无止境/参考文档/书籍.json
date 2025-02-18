@@ -1,38 +1,5 @@
 [
   {
-    "icon": "https://avatars1.githubusercontent.com/u/14127308?s=200&v=4",
-    "name": "免费的编程中文书籍索引",
-    "desc": "免费的编程中文书籍索引",
-    "url": "https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["学无止境", "参考文档", "书籍"],
-    "id": 160,
-    "tags": []
-  },
-  {
-    "icon": "https://zh.b-ok.global/apple-touch-icon.png",
-    "name": "Zlibrary",
-    "desc": "Z-Library 项目部分. 全球最大的数字图书馆, 电子书",
-    "url": "https://zh.b-ok.global/",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["学无止境", "参考文档", "书籍"],
-    "id": 161,
-    "tags": []
-  },
-  {
-    "name": "IT-eBOOK",
-    "desc": "IT类技术书籍PDF",
-    "url": "https://github.com/asyncfun/IT-eBOOK",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["学无止境", "参考文档", "书籍"],
-    "id": 162,
-    "icon": "",
-    "tags": []
-  },
-  {
     "icon": "https://refactoringguru.cn/favicon.ico",
     "name": "Refactoring.Guru",
     "desc": "22种常用设计模式",
