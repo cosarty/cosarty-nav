@@ -42,5 +42,26 @@
     "breadcrumb": ["社区站点", "社区站点", "其他"],
     "id": 140,
     "tags": []
+  },
+  {
+    "icon": "https://www.koolcenter.com/favicon.svg",
+    "name": "KoolCenter -  酷酷软件中心",
+    "desc": "网络,路由器,固件,华硕,软件中心,交换机,评测,openwrt,软件中心,DDNSTO,易有云",
+    "url": "https://www.koolcenter.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "其他"],
+    "id": 140,
+    "tags": []
+  },
+  {
+    "icon": "https://fw.koolcenter.com/theme/favicon.svg",
+    "name": "KoolCenter 固件下载服务器",
+    "url": "https://fw.koolcenter.com/",
+    "createdAt": "2021-01-23 09:32",
+    "rate": 5,
+    "breadcrumb": ["社区站点", "社区站点", "其他"],
+    "id": 140,
+    "tags": []
   }
 ]
