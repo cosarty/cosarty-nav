@@ -1,0 +1,32 @@
+[
+  {
+    "name": "API2D",
+    "desc": "为用户提供无需关心技术、「填Key即用」的省心体验；为开发者提供参数兼容的全球精选API，及云端增强",
+    "url": "https://api2d.com/login",
+    "icon": "https://api2d.com/logo512.png"
+  },
+  {
+    "name": "硅基流动",
+    "desc": "硅基流动致力于打造规模化、标准化、高效能 AI Infra 平台，提供高效能、低成本的多品类 AI 模型服务，助力开发者和企业聚焦产品创新。",
+    "url": "https://siliconflow.cn/",
+    "icon": "https://framerusercontent.com/images/4li2PjWxZJmoGkzXRMJWU1rJmI.svg"
+  },
+  {
+    "name": "AI-YYDS",
+    "desc": "OpenAI 接口聚合管理，支持多种渠道包括 Azure，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用",
+    "url": "https://ai-yyds.com/",
+    "icon": "https://ai-yyds.com/logo.png"
+  },
+  {
+    "name": "GPTMeta API",
+    "desc": "【建议收藏】MAX-API 是一个高效的 Open AI、Midjourney API 供应商 我们致力于提供优质的 API 接入服务，让您可以轻松集成先进的AI模型至您的产品和服务。通过 API 综合管理平台，无缝整合OpenAl最尖端的人工智能模型。借助我们可靠且易于使用的API解决方案，升级您的产品与服务。",
+    "url": "https://www.blueshirtmap.com/",
+    "icon": "https://www.blueshirtmap.com/logo.png"
+  },
+  {
+    "name": "DeerAPI",
+    "desc": "OpenAI 接口聚合管理，支持多种渠道包括 OpenAI,Azure,Claude,Midjourney,Suno,Luma,Runway,Kling,Gemini,Flux,Udio 可用于二次分发管理 key",
+    "url": "https://api.deerapi.com/pricing",
+    "icon": "https://www.deerapi.com/wp-content/uploads/2024/03/deerapi_logo.png"
+  }
+]

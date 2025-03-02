@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Hugging Face",
+    "desc": "Hugging Face 是一个专注于人工智能技术研究和应用的公司，提供多种 AI 模型和工具。",
+    "url": "https://huggingface.co/",
+    "icon": "https://huggingface.co/favicon.ico"
+  },
+  {
+    "name": "魔塔社区",
+    "desc": "ModelScope 是一个专注于人工智能技术研究和应用的公司，提供多种 AI 模型和工具。",
+    "url": "https://www.modelscope.cn/home",
+    "icon": "//g.alicdn.com/sail-web/maas/2.6.5/favicon/128.ico"
+  },
+  {
+    "name": "Civitai",
+    "desc": "Civitai（又称C站）是一个专注于AI生成艺术的开源社区平台，主要围绕Stable Diffusion模型构建资源分享与创作生态。",
+    "url": "https://civitai.com/",
+    "icon": "https://civitai.com/favicon-blue.ico"
+  },
+  {
+    "name": "awesome-deepseek-integration",
+    "desc": "AI流行软件",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-integration/",
+    "icon": "https://avatars.githubusercontent.com/u/148330874?s=48&v=4"
+  }
+]

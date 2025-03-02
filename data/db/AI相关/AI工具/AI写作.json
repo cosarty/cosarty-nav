@@ -1,0 +1,38 @@
+[
+  {
+    "name": "秘塔AI搜索",
+    "desc": "秘塔AI搜索，没有广告，直达结果",
+    "url": "https://metaso.cn/?s=xiezuocat&s2=xiezuocat",
+    "icon": "https://metaso.cn/apple-touch-icon.png"
+  },
+  {
+    "name": "多种草AI-免费在线小红书AI创作工具",
+    "desc": "多种草是一个专为自媒体博主、市场运营设计的 AI 智能创作平台，服务自媒体工作者在抖音、小红书、微信等全平台文案及图文撰写",
+    "url": "https://duozhongcao.com/",
+    "icon": "https://duozhongcao.com/favicon.ico"
+  },
+  {
+    "name": "Effidit",
+    "desc": "Effidit是腾讯AI实验室研发的写作助手，探索利用AI技术提升写作效率和创作体验。",
+    "url": "https://effidit.qq.com/",
+    "icon": "https://effidit.qq.com/favicon.ico"
+  },
+  {
+    "name": "火山写作",
+    "desc": "火山写作是由字节跳动推出的，集成创作、润色、纠错、改写、翻译等能力的中英文 AI 写作助手。",
+    "url": "https://www.writingo.net/",
+    "icon": "https:://lf3-transtudio.bytetos.com/obj/lab-mt-public/fe/writingo/web/favicon.svg"
+  },
+  {
+    "name": "AI写作",
+    "desc": "AI写作，AI写作，AI写作",
+    "url": "https://www.tiangong.cn/",
+    "icon": "https://ai.com/apple-touch-icon.png"
+  },
+  {
+    "name": "天工AI - 聊天写作对话的全能AI助手，搜索更深度，阅读更多彩",
+    "desc": "天工是一款支持搜索、写作、对话、文档分析、画画、做PPT的全能型AI助手。你可以借助AI技术，检索信息、多语言翻译、写论文、写代码、写方案、写汇报、做PPT、归纳总结文档和音频视频，还可以智能编辑彩页和宝典，让AI生成高质量彩页内容，收获点赞关注。",
+    "url": "https://www.tiangong.cn/",
+    "icon": "https://static.tiangong.cn/wwwsite/logo.ico"
+  }
+]

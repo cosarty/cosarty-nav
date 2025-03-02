@@ -1,0 +1,62 @@
+[
+  {
+    "name": "facefusion",
+    "desc": "行业领先的人脸处理平台。",
+    "url": "https://github.com/facefusion/facefusion",
+    "icon": "https://github.com/facefusion/facefusion/blob/main/docs/assets/logo.png"
+  },
+  {
+    "name": "FunClip",
+    "desc": "FunClip是一款完全开源、本地部署的自动化视频剪辑工具",
+    "url": "https://github.com/modelscope/FunClip",
+    "icon": "https://avatars.githubusercontent.com/u/109945100?s=48&v=4"
+  },
+  {
+    "name": "bert-intent-slot-detector",
+    "desc": "基于 BERT 的聊天机器人意图和插槽检测器",
+    "url": "https://github.com/Linear95/bert-intent-slot-detector",
+    "icon": "https://avatars.githubusercontent.com/u/30513356?s=48&v=4"
+  },
+  {
+    "name": "Ultralytics YOLO  文档",
+    "desc": "了解Ultralytics YOLO  - 最新的实时对象检测和图像分割技术。了解其功能，最大限度地发挥其在项目中的潜力。",
+    "url": "https://www.ultralytics.com/zh",
+    "icon": "https://raw.githubusercontent.com/ultralytics/assets/refs/heads/main/logo/favicon-yolo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ultralytics/ultralytics"
+      }
+    ]
+  },
+  {
+    "name": "ollama",
+    "desc": "本地运行打语言模型工具",
+    "url": "https://ollama.com/",
+    "icon": "https://ollama.com/public/ollama.png"
+  },
+  {
+    "name": "bg-remove",
+    "desc": "一个轻量级的背景去除模型",
+    "url": "https://bg.addy.ie/",
+    "icon": "https://bg.addy.ie/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/addyosmani/bg-remove"
+      }
+    ]
+  },
+  {
+    "name": "BEN",
+    "desc": "背景擦除网络",
+    "url": "https://backgrounderase.net/home",
+    "icon": "https://backgrounderase.net/apple-touch-icon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/PramaLLC/BEN2"
+      }
+    ]
+  }
+]

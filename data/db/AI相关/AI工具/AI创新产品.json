@@ -1,0 +1,50 @@
+[
+  {
+    "name": "AI故事绘图，AI漫画推文小说推文授权，AI绘画AI视频文生视频",
+    "desc": "一站式一键生成AI漫画推文神器，免费体验，免费小说推文授权平台；AI绘画文生图、AI视频文生视频、文本转视频、AI漫画创作平台；自媒体、漫剪、小说漫画推文工具教程",
+    "url": "https://tts.jurilu.com",
+    "icon": "https://tts.jurilu.com/logo.ico"
+  },
+  {
+    "name": "在线文字转语音",
+    "desc": "Text To Speech，文本转语音，文本朗读，让机器能够说话。构建自然说话的应用和服务，从 147 种语言和变体中选择 456 种语音。借助高表现力和类似人类的神经语音，让你的方案生动起来。",
+    "url": "http://new.text-to-speech.cn/",
+    "icon": "http://new.text-to-speech.cn/wp-content/uploads/2024/05/1717125625-0614826edeff27e.png"
+  },
+  {
+    "name": "FishAudio",
+    "desc": "Powerful, fast, and customizable text-to-speech solution. Ultra-low latency, rapid voice cloning, and flat-rate pricing for AI Voice Over.",
+    "url": "https://fish.audio/zh-CN/",
+    "icon": "https://fish.audio/_next/static/media/logo-circle-64.f94fa468.png"
+  },
+  {
+    "name": "AIGCPanel | 开源AI数字人系统",
+    "desc": "AigcPanel是一个可以在本地轻松使用AI模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！",
+    "url": "https://aigcpanel.com/",
+    "icon": "https://aigcpanel.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/modstart-lib/aigcpanel"
+      }
+    ]
+  },
+  {
+    "name": "在线免费文字转语音:生成剪映AI配音",
+    "desc": "免费合成剪映中的AI配音，任意文字转语音的在线AI视频配音助手，支持小帅，猴哥，熊二，紫薇，新闻腔等热门AI配音",
+    "url": "https://tiktokvoice.net/zh",
+    "icon": "https://tiktokvoice.net/favicon.ico"
+  },
+  {
+    "name": "LangBot",
+    "desc": "😎高稳定、🧩支持插件、🦄多模态 - 大模型原生即时通信机器人平台",
+    "url": "https://docs.langbot.app/",
+    "icon": "https://docs.langbot.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/RockChinQ/LangBot"
+      }
+    ]
+  }
+]

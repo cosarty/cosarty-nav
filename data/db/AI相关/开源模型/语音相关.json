@@ -1,0 +1,62 @@
+[
+  {
+    "name": "whisper",
+    "desc": "通过大规模弱监督实现稳健的语音识别",
+    "url": "https://github.com/openai/whisper",
+    "icon": "https://avatars.githubusercontent.com/u/14957082?s=48&v=4"
+  },
+  {
+    "name": "fish-speech",
+    "desc": "fish tts",
+    "url": "https://speech.fish.audio/",
+    "icon": "https://avatars.githubusercontent.com/u/122017386?s=48&v=4",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/fishaudio/fish-speech"
+      }
+    ]
+  },
+  {
+    "name": "FunAudioLLM",
+    "desc": "人与人之间自然互动的语音理解和生成基础模型",
+    "url": "https://fun-audio-llm.github.io/",
+    "icon": "https://avatars.githubusercontent.com/u/167062371?s=200&v=4"
+  },
+  {
+    "name": "CosyVoice",
+    "desc": "多语言大型语音生成模型，提供推理、训练和部署全栈能力。",
+    "url": "https://github.com/FunAudioLLM/CosyVoice",
+    "icon": "https://avatars.githubusercontent.com/u/167062371?s=200&v=4"
+  },
+  {
+    "name": "CosyVoice2",
+    "desc": "多语言大型语音生成模型，提供推理、训练和部署全栈能力。",
+    "url": "https://funaudiollm.github.io/cosyvoice2/",
+    "icon": "https://avatars.githubusercontent.com/u/167062371?s=200&v=4"
+  },
+  {
+    "name": "F5-TTS | 免费在线AI文本转语音合成工具",
+    "desc": "F5-TTS是一款免费的在线实时文本转语音合成工具，利用AI技术将文本输入转换为自然且富有表现力的语音。",
+    "url": "https://www.deepseek.com/",
+    "icon": "https://f5tts.org/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/SWivid/F5-TTS?tab=readme-ov-file"
+      }
+    ]
+  },
+  {
+    "name": "ClearerVoice-Studio",
+    "desc": "语音增强",
+    "url": "https://github.com/modelscope/ClearerVoice-Studio",
+    "icon": "https://avatars.githubusercontent.com/u/109945100?s=48&v=4"
+  },
+  {
+    "name": "Speech-AI-Forge",
+    "desc": "Speech-AI-Forge 是一个围绕 TTS 生成模型开发的项目，实现了一个 API 服务器和一个基于 Gradio 的 WebUI。",
+    "url": "https://github.com/lenML/Speech-AI-Forge/tree/main",
+    "icon": "https://avatars.githubusercontent.com/u/154655365?s=48&v=4"
+  }
+]

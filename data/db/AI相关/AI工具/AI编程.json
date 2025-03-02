@@ -1,0 +1,20 @@
+[
+  {
+    "name": "v0.dev",
+    "desc": "AI编程",
+    "url": "https://v0.dev",
+    "icon": "https://v0.dev/assets/icon.svg"
+  },
+  {
+    "name": "Cursor",
+    "desc": "Cursor 是一款基于 AI 的编程工具，可以帮助开发者更快速、更高效地编写代码。",
+    "url": "https://www.cursor.com/",
+    "icon": "https://www.cursor.com/favicon.ico"
+  },
+  {
+    "name": "Copy Web Design to Code | CopyWeb",
+    "desc": "CopyWeb 可帮助您仅使用屏幕截图或 URL 立即复制任何网站设计。只需单击一下，即可将灵感变成现实。",
+    "url": "https://copyweb.ai/",
+    "icon": "https://copyweb.ai/favicon.ico"
+  }
+]

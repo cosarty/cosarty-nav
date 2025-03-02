@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LlamaIndex",
+    "desc": "LlamaIndex 是用于基于数据构建代理的领先框架。",
+    "url": "https://docs.llamaindex.ai/en/stable/",
+    "icon": "https://docs.llamaindex.ai/en/stable/_static/assets/LlamaSquareBlack.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/run-llama/llama_index"
+      }
+    ]
+  }
+]

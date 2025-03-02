@@ -1,0 +1,14 @@
+[
+  {
+    "name": "火山引擎-云上增长新动力",
+    "desc": "火山引擎是字节跳动旗下的云服务平台，将字节跳动快速发展过程中积累的增长方法、技术能力和应用工具开放给外部企业，提供云基础、视频与内容分发、数智平台VeDI、人工智能、开发与运维等服务，帮助企业在数字化升级中实现持续增长。",
+    "url": "https://www.volcengine.com/",
+    "icon": "//portal.volccdn.com/obj/volcfe/misc/favicon.png"
+  },
+  {
+    "name": "即梦AI - 即刻造梦",
+    "desc": "即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！",
+    "url": "https://jimeng.jianying.com/",
+    "icon": "https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v1.ico"
+  }
+]
