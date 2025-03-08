@@ -1,5 +1,12 @@
 [
   {
+    "icon": "https://golang-china.github.io/favicon.png",
+    "name": "Go语言圣经中文版本",
+    "desc": "Go 语言圣经 《The Go Programming Language》 中文版本",
+    "url": "https://golang-china.github.io/gopl-zh/index.html"
+
+  },
+  {
     "icon": "https://avatars1.githubusercontent.com/u/4314092?s=200&v=4",
     "name": "Go 入门指南",
     "desc": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",

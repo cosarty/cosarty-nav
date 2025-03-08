@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lodash 简介 | Lodash中文文档 | Lodash中文网",
+    "desc": "Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。",
+    "url": "https://www.lodashjs.com/",
+    "icon": "https://www.lodashjs.com/img/favicon.ico"
+  },
+  {
+    "name": "RxJS 中文文档",
+    "desc": "RxJS 中文文档 - RxJS 5 官方文档中文版，此中文文档与官方文档保持同步更新!RxJS 中文社区致力于为广大国内 RxJS 爱好者提供更好的学习环境，其中包括无语言障碍的中文文档及其他中文学习资料!",
+    "url": "https://cn.rx.js.org/",
+    "icon": "https://cn.rx.js.org/favicon.ico"
+  },
+  {
+    "name": "Immutable.js",
+    "desc": "JavaScript 的不可变集合",
+    "url": "https://immutable-js.com/",
+    "icon": "https://immutable-js.com/favicon.png"
+  },
+  {
+    "name": "Immer",
+    "desc": "Immer（德语为：always）是一个小型包，可让您以更方便的方式使用不可变状态。",
+    "url": "https://immerjs.github.io/immer/zh-CN/",
+    "icon": "https://immerjs.github.io/immer/zh-CN/img/favicon.ico"
+  }
+]

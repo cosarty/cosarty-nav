@@ -1,0 +1,14 @@
+[
+  {
+    "name": "shadcn admin",
+    "desc": "shadcn admin 是一个基于 shadcn/ui 的 React 后台模版。",
+    "url": "https://shadcn-admin.netlify.app/",
+    "icon": "https://shadcn-admin.netlify.app/images/favicon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/satnaing/shadcn-admin"
+      }
+    ]
+  }
+]

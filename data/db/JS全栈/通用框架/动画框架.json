@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Motion",
+    "desc": "Motion 基于原生浏览器 API 构建，文件大小极小，性能超快。它使用硬件加速来实现流畅且环保的动画。前身为 Framer Motion。",
+    "url": "https://motion.dev/",
+    "icon": "https://framerusercontent.com/images/3aQX5dnH5Yqgsn98QXKF2ZXxIE.png"
+  },
+  {
+    "name": "PixiJS",
+    "desc": "PixiJS - HTML5 创建引擎。使用最快、最灵活的 2D WebGL 渲染器创建精美的数字内容。",
+    "url": "https://pixijs.com/",
+    "icon": "https://pixijs.com/images/favicon.png"
+  },
+  {
+    "name": "LeaferJS",
+    "desc": "LeaferJS 是一款革新、好用的 Canvas 引擎， 轻松实现图形编辑、UI交互 和 高效绘图。适用于图形编辑、小游戏、互动应用、组态、生成海报与短视频等场景。～ 打卡百万咖啡墙， 体验 Leafer 卓越性能 ～",
+    "url": "https://www.leaferjs.com/",
+    "icon": "https://www.leaferjs.com/favicon.svg"
+  }
+]

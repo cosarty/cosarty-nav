@@ -1,0 +1,36 @@
+[
+  {
+    "name": "nvm文档手册 - nvm是一个nodejs版本管理工具 - nvm中文网",
+    "desc": "NVM中文网:nvm一个nodejs的版本管理工具,为windows或mac提供nodejs各种版安装配置详情教程,包括nvm安装,nvm教程,nvm命令中文文档教程。",
+    "url": "https://nvm.uihtm.com/",
+    "icon": "https://nvm.uihtm.com/favicon.ico"
+  },
+  {
+    "name": "Husky",
+    "desc": "Git hooks made easy",
+    "url": "https://typicode.github.io/husky/#/?id=install"
+  },
+  {
+    "name": "pnpm",
+    "desc": "pnpm 是一个快速的，节省磁盘空间的包管理工具。",
+    "url": "https://pnpm.io/",
+    "icon": "https://pnpm.io/zh/img/favicon.png"
+  },
+  {
+    "name": "ESLint 中文网",
+    "desc": "插件化、可配置的 linter 工具，用于识别和报告 JavaScript 中的模式。 轻松维护你的代码质量。",
+    "url": "https://eslint.nodejs.cn/docs/latest/rules/",
+    "icon": "https://eslint.nodejs.cn/favicon.ico"
+  },
+  {
+    "name": "Verdaccio",
+    "desc": "轻量级的 Node.js 私有代理注册表",
+    "url": "https://verdaccio.org/zh-cn/",
+    "icon": "https://verdaccio.org/zh-CN/img/logo/uk/verdaccio-tiny-uk-no-bg.svg"
+  },
+  {
+    "name": "开源的作品集模版",
+    "url": "https://github.com/iAmCorey/coreychiu-portfolio-template?utm_source=gapis.money ",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

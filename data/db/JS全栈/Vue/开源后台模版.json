@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vben Admin",
+    "desc": "Vben Admin & 企业级管理系统框架",
+    "url": "https://doc.vben.pro/",
+    "icon": "https://doc.vvbin.cn/favicon.ico"
+  },
+  {
+    "name": "Cool Admin",
+    "desc": "一个很酷的后台管理系统开发框架",
+    "url": "https://node.cool-admin.com/",
+    "icon": "https://node.cool-admin.com/favicon.ico"
+  },
+  {
+    "name": "Art-Design-Pro",
+    "desc": "专注于用户体验的后台管理系统模版",
+    "url": "https://www.lingchen.kim/art-design-pro/docs/",
+    "icon": "https://www.lingchen.kim/docs/favicon.ico"
+  }
+]

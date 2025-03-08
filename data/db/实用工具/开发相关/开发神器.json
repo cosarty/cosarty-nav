@@ -174,5 +174,50 @@
     "breadcrumb": ["实用工具", "开发相关", "开发神器"],
     "id": 15,
     "tags": []
+  },
+  {
+    "name": "whistle",
+    "desc": "基于Node实现的跨平台web调试代理工具，类似的工具有Windows平台上的Fiddler，主要用于查看、修改HTTP、HTTPS、Websocket的请求、响应，也可以作为HTTP代理服务器使用，不同于Fiddler通过断点修改请求响应的方式，whistle采用的是类似配置系统hosts的方式，一切操作都可以通过配置实现",
+    "url": "https://wproxy.org/whistle/",
+    "icon": "https://user-images.githubusercontent.com/11450939/122700870-b0de4100-d27e-11eb-8d2a-46e352b49727.png"
+  },
+  {
+    "name": "Clerk",
+    "desc": "向您的应用程序添加身份验证和用户管理的最简单方法。专为 React、Next.js、Remix 和“现代 Web”而构建。",
+    "url": "https://clerk.com/",
+    "icon": "https://clerk.com/v2/favicon.ico"
+  },
+  {
+    "name": "Elastic",
+    "desc": "使用 Elastic Search AI 平台提供强大的洞察和成果。借助旨在帮助您加快洞察速度的企业解决方案，查看您的数据并找到重要的答案。试用 Elastic...",
+    "url": "https://www.elastic.co/",
+    "icon": "https://www.elastic.co/apple-icon-57x57.png"
+  },
+  {
+    "name": "supabase",
+    "desc": "使用 Postgres 数据库、身份验证、即时 API、实时、函数、存储和向量嵌入构建生产级应用程序。免费开始。",
+    "url": "https://supabase.com/",
+    "icon": "https://supabase.com/favicon/apple-icon-57x57.png"
+  },
+  {
+    "name": "Stripe",
+    "desc": "Stripe 提供完善成熟的企业金融生态解决方案，助力各种规模的商家开展线上及线下付款业务。仅需一套 API 和无代码工具，您就可以轻松接受付款、处理提现，并实现财务流程自动化。",
+    "url": "https://stripe.com/zh-us",
+    "icon": "https://assets.stripeassets.com/fzn2n1nzq965/01hMKr6nEEGVfOuhsaMIXQ/c424849423b5f036a8892afa09ac38c7/favicon.ico"
+  },
+  {
+    "name": "docmost",
+    "desc": "Docmost 是一款开源协作式 wiki 和文档软件",
+    "url": "https://docmost.com/",
+    "icon": "https://docmost.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/docmost/docmost" }
+    ]
+  },
+  {
+    "name": "jumpserver",
+    "desc": "JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。",
+    "url": "https://jumpserver.org/",
+    "icon": "https://jumpserver.org/images/logo/favicon.ico"
   }
 ]

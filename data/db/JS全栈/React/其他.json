@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MDX",
+    "desc": "MDX 让你能在 Markdown 格式的内容中插入 JSX 代码。 你还可以导入（import）组件，例如交互式图表或弹窗，并将它们嵌入到 你所书写的内容当中。 这让使用组件来编写长篇内容变得非常轻松。",
+    "url": "https://www.mdxjs.cn/",
+    "icon": "https://www.mdxjs.cn/favicon.ico"
+  },
+  {
+    "name": "React Hook Form",
+    "desc": "React Hook Form - 高性能、灵活且可扩展的表单库",
+    "url": "https://react-hook-form.com/",
+    "icon": "https://react-hook-form.com/images/logo/react-hook-form-logo-only.png"
+  },
+  {
+    "name": "React Joyride Demo",
+    "desc": "React 的一个引导组件",
+    "url": "https://react-joyride.com/",
+    "icon": "https://react-joyride.com/favicon.ico"
+  },
+  {
+    "name": "react-advanced-cropper",
+    "desc": "React 的高级裁剪组件",
+    "url": "https://advanced-cropper.github.io/react-advanced-cropper/#fixed-cropper",
+    "icon": "http://advanced-cropper.github.io/react-advanced-cropper/img/logo.svg"
+  },
+  {
+    "name": "https://react.i18next.com/",
+    "desc": "React的国际化框架",
+    "url": "https://react.i18next.com/",
+    "icon": "https://react.i18next.com/~gitbook/image?url=https%3A%2F%2F4236364459-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia&width=32&dpr=2&quality=100&sign=ba15ca9c&sv=2"
+  }
+]

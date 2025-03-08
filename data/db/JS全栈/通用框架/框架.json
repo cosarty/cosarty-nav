@@ -1,0 +1,105 @@
+[
+  {
+    "name": "electron",
+    "desc": "使用 JavaScript、HTML 和 CSS 构建跨平台桌面应用程序",
+    "url": "https://www.electronjs.org/zh/",
+    "icon": "https://www.electronjs.org/zh/assets/img/logo.svg"
+  },
+  {
+    "name": "Apache ECharts",
+    "desc": "Apache ECharts，一款基于JavaScript的数据可视化图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表。",
+    "url": "https://echarts.apache.org/zh/index.html",
+    "icon": "https://echarts.apache.org/zh/images/favicon.png?_v_=20240226"
+  },
+  {
+    "name": "LogicFlow",
+    "desc": "LogicFlow 是一个流程图编辑器。",
+    "url": "https://site.logic-flow.cn/",
+    "icon": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/favicon.png"
+  },
+
+  {
+    "name": "swiper",
+    "desc": "Swiper 是最现代的免费移动触摸滑块，具有硬件加速转换和惊人的本机行为。",
+    "url": "https://swiperjs.com/",
+    "icon": "https://swiperjs.com/images/favicon.png"
+  },
+  {
+    "name": "tauri",
+    "desc": "创建小型、快速、安全、跨平台的应用程序",
+    "url": "https://tauri.app/zh-cn/",
+    "icon": "https://tauri.app/favicon.svg"
+  },
+  {
+    "name": "🎈 What is PartyKit | 🎈 PartyKit Docs",
+    "desc": "PartyKit 简化了多人应用程序的开发",
+    "url": "https://docs.partykit.io/",
+    "icon": "https://docs.partykit.io/favicon.svg"
+  },
+  {
+    "name": "BlockSuite",
+    "desc": "Web 内容编辑技术栈",
+    "url": "https://blocksuite.io/",
+    "icon": "https://raw.githubusercontent.com/toeverything/blocksuite/master/assets/logo.svg"
+  },
+  {
+    "name": "Slidev",
+    "desc": "为开发者打造的演示文稿工具",
+    "url": "https://cn.sli.dev/",
+    "icon": "https://cn.sli.dev/favicon.png"
+  },
+  {
+    "name": "WebTracing",
+    "desc": "行为埋点 & 性能采集 & 异常采集 & 请求采集 & 路由采集",
+    "url": "https://m-cheng-web.github.io/web-tracing/",
+    "icon": "https://github.com/M-cheng-web/image-provider/raw/main/web-tracing/logo.7k1jidnhjr40.svg"
+  },
+  {
+    "name": "SuperTokens",
+    "desc": "开源用户身份验证。快速构建、保持控制、价格合理。",
+    "url": "https://supertokens.com/",
+    "icon": "https://supertokens.com/favicon.ico"
+  },
+  {
+    "name": "tui-calendar",
+    "desc": "日历 | TOAST UI :: 让您的网站变得美味！",
+    "url": "https://ui.toast.com/tui-calendar",
+    "icon": "https://ui.toast.com/icons-afac2d19e8aa82377b3f18a704d4acf5/favicon.ico"
+  },
+  {
+    "name": "TanStack",
+    "desc": "无头、类型安全、功能强大的实用程序，适用于数据管理、数据可视化、图表、表格和 UI 组件等复杂的工作流程。",
+    "url": "https://tanstack.com/",
+    "icon": "https://tanstack.com/apple-touch-icon.png"
+  },
+  {
+    "name": "Handsontable",
+    "desc": "Handsontable 开发人员文档概述。Handsontable 是一个客户端、类似电子表格的数据网格，用于在 Web 应用程序中编辑数据。",
+    "url": "https://handsontable.com/docs/react-data-grid/",
+    "icon": "https://handsontable.com/docs/img/favicon.png"
+  },
+  {
+    "name": "nacos",
+    "desc": "Nacos 提供动态服务发现、配置和管理，助力用户在私有云、混合云、公有云等环境中快速构建和交付微服务平台，提升业务复用和创新交付速度，为用户赢得市场竞争力。",
+    "url": "https://nacos.io/",
+    "icon": "https://nacos.io/favicon.ico"
+  },
+  {
+    "name": "prometheus",
+    "desc": "具有维度数据模型、灵活的查询语言、高效的时间序列数据库和现代警报方法的开源监控系统。",
+    "url": "https://prometheus.io/",
+    "icon": "https://prometheus.io/assets/favicons/favicon.ico"
+  },
+  {
+    "name": "HuLa",
+    "desc": "HuLa: 一款高度集成的即时通讯应用。",
+    "url": "https://hulaspark.com/",
+    "icon": "https://hulaspark.com/hula_favicon.ico"
+  },
+  {
+    "name": "electron-egg",
+    "desc": "一个入门简单、跨平台、企业级桌面软件开发框架",
+    "url": "https://www.kaka996.com/",
+    "icon": "https://www.kaka996.com/img/favicon.ico"
+  }
+]

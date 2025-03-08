@@ -1,0 +1,73 @@
+[
+  {
+    "name": "ant design",
+    "desc": "基于 Ant Design 设计体系的 React UI 组件库，用于研发企业级中后台产品。",
+    "url": "https://ant-design.antgroup.com/index-cn",
+    "icon": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+  },
+  {
+    "name": "开箱即用的中台前端/设计解决方案 - Ant Design Pro",
+    "desc": "🏆 让中后台开发更简单 包含 table form 等多个组件。",
+    "url": "https://pro.ant.design/zh-CN",
+    "icon": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+  },
+  {
+    "name": "Ant Design Mobile",
+    "desc": "构建移动 Web 应用程序的基本 UI 块。",
+    "url": "https://mobile.ant.design/zh",
+    "icon": "https://gw.alipayobjects.com/zos/bmw-prod/69a27fcc-ce52-4f27-83f1-c44541e9b65d.svg"
+  },
+  {
+    "name": "ant design pro components",
+    "desc": "🏆 让中后台开发更简单 包含 table form 等多个组件。",
+    "url": "https://procomponents.ant.design/",
+    "icon": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg"
+  },
+  {
+    "name": "semi design",
+    "desc": "由抖音前端与 UED 团队维护，易于定制的现代化设计系统，帮助设计师与开发者打造高质量产品。。",
+    "url": "https://semi.design/zh-CN/",
+    "icon": "https://lf9-static.semi.design/obj/semi-tos/images/favicon.ico"
+  },
+  {
+    "name": "Recharts",
+    "desc": "基于 React 的组合式图表",
+    "url": "https://recharts.org/zh-CN/"
+  },
+  {
+    "name": "React Bits ",
+    "desc": "一个高质量、动画、交互式且完全可定制的 React 组件的开源集合，用于构建令人惊叹、令人难忘的用户界面。",
+    "url": "https://www.reactbits.dev/",
+    "icon": "https://www.reactbits.dev/favicon.ico"
+  },
+  {
+    "name": "shadcn UI ",
+    "desc": "一组设计精美、易于访问的组件和代码分发平台。可与您喜欢的框架配合使用。开源。开放代码。",
+    "url": "https://ui.shadcn.com/",
+    "icon": "https://ui.shadcn.com/favicon-16x16.png"
+  },
+  {
+    "name": "Sonner",
+    "desc": "一个适用于 React 的自定 Toast 组件。",
+    "url": "https://sonner.emilkowal.ski/",
+    "icon": "https://sonner.emilkowal.ski/favicon.ico"
+  },
+  {
+    "name": "magicui",
+    "desc": "漂亮的 UI 组件和模板让您的登陆页面看起来令人惊叹。",
+    "url": "https://magicui.design/",
+    "icon": "https://magicui.design/favicon.ico"
+  },
+  {
+    "name": "Ant Design X",
+    "desc": "轻松打造 AI 驱动的界面。",
+    "url": "https://x.ant.design/index-cn/",
+    "icon": "https://mdn.alipayobjects.com/huamei_iwk9zp/afts/img/A*eco6RrQhxbMAAAAAAAAAAAAADgCCAQ/original"
+  },
+  {
+    "name": "OSSA",
+    "desc": "Taro官方推荐的企业级UI库",
+    "url": "https://ossa.miaode.com/",
+    "icon": "https://ossa.miaode.com/img/favicon.ico"
+  }
+]

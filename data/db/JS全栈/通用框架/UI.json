@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bootstrap中文网",
+    "desc": "Bootstrap是Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。目前，Bootstrap最新版本为5.0 。Bootstrap中文网致力于为广大国内开发者提供详尽的中文文档、代码实例等，助力开发者掌握并使用这一框架。",
+    "url": "https://www.bootcss.com/",
+    "icon": "https://www.bootcss.com/assets/favicons/favicon.ico"
+  },
+  {
+    "name": "Tailwind CSS",
+    "desc": "Tailwind CSS 是一个用于快速构建现代网站的实用工具库。",
+    "url": "https://tailwindcss.com/",
+    "icon": "https://tailwindcss.com/favicon.ico"
+  },
+  {
+    "name": "Open Props",
+    "desc": "开源 CSS 自定义属性有助于加速自适应和一致的设计。可从 CDN 或 NPM 获取，作为 CSS 或 Javascript。",
+    "url": "https://open-props.style/",
+    "icon": "https://open-props.style/favicon.svg"
+  },
+  {
+    "name": "FlyonUI",
+    "desc": "FlyonUI 是最简单、免费且开源的具有语义类的 Tailwind CSS 组件库。",
+    "url": "https://flyonui.com/",
+    "icon": "https://flyonui.becdn.net/flyonui-icon/apple-touch-icon.png"
+  },
+  {
+    "name": "daisyUI",
+    "desc": "最佳 Tailwind 组件库 - Tailwind CSS 的免费 UI 组件",
+    "url": "https://daisyui.com/",
+    "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Zod",
+    "desc": "使用静态类型推断进行 TypeScript 优先模式验证",
+    "url": "https://zod.dev/",
+    "icon": "https://zod.dev/static/apple-touch-icon.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vite | 下一代的前端工具链",
+    "desc": "下一代前端工具链",
+    "url": "https://cn.vite.dev/",
+    "icon": "https://cn.vite.dev/logo.svg"
+  },
+  {
+    "name": "Rollup 中文文档",
+    "desc": "编译 JS 代码",
+    "url": "https://cn.rollupjs.org/",
+    "icon": "https://cn.rollupjs.org/favicon.png"
+  },
+  {
+    "name": "Rolldown",
+    "desc": "基于 Rust 的 JavaScript 快速打包器，具有与 Rollup 兼容的 API",
+    "url": "https://rolldown.rs/",
+    "icon": "https://rolldown.rs/lightning-down.svg"
+  }
+]

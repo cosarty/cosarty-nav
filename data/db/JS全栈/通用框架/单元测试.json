@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jestjs",
+    "desc": "Jest 是一个用于 JavaScript 的测试框架。",
+    "url": "https://jestjs.io/",
+    "icon": "https://jestjs.io/favicon.ico"
+  },
+  {
+    "name": "Vitest",
+    "desc": "由 Vite 提供支持的下一代测试框架",
+    "url": "https://cn.vitest.dev/",
+    "icon": "https://vitest.dev/favicon.ico"
+  }
+]

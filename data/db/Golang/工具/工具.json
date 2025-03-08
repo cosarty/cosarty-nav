@@ -85,5 +85,11 @@
     "breadcrumb": ["Golang", "工具", "工具"],
     "id": 98,
     "tags": []
+  },
+  {
+    "icon": "https://ossrs.io/lts/en-us/img/favicon.ico",
+    "name": "SRS (Simple Realtime Server) | SRS",
+    "desc": "SRS 是一款简单、高效且实时的视频服务器，支持 RTMP、WebRTC、HLS、HTTP-FLV、SRT、MPEG-DASH 和 GB28181。Oryx 是一款一体化、开箱即用的开源视频解决方案，用于在云端或通过自托管创建在线视频服务，包括直播和 WebRTC。",
+    "url": "https://ossrs.io/lts/en-us/"
   }
 ]

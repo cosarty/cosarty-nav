@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Express - 基于 Node.js 平台的 web 应用开发框架 - Express中文文档 | Express中文网",
+    "desc": "Express是一个基于Node.js的Web应用框架，提供了简洁的API来快速构建Web应用。",
+    "url": "https://www.expressjs.com.cn/",
+    "icon": "https://www.expressjs.com.cn/images/favicon.png"
+  },
+  {
+    "name": "egg",
+    "desc": "阿里开源的服务端框架",
+    "url": "https://www.eggjs.org/zh-CN",
+    "icon": "https://www.eggjs.org/favicon.png"
+  },
+  {
+    "name": "Koa",
+    "desc": "Koa 是一个基于 Node.js 的 web 框架，它提供了一个简洁而强大的 API 来构建 web 应用。",
+    "url": "https://koa.bootcss.com/",
+    "icon": "https://koa.bootcss.com/favicon.ico"
+  },
+  {
+    "name": "NestJS",
+    "desc": "NestJS 是一个用于构建高效、可扩展的 Node.js 服务器端应用的框架。",
+    "url": "https://nestjs.bootcss.com/",
+    "icon": "https://nestjs.bootcss.com/img/favicon.ico"
+  },
+  {
+    "name": "TRPC",
+    "desc": "端到端类型安全 API 变得简单。从您的 API 路径、其输入数据和输出推断出自动类型安全和自动完成 🧙‍♂️",
+    "url": "https://trpc.io/",
+    "icon": "https://trpc.io/img/favicon.ico"
+  }
+]

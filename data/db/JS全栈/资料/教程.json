@@ -1,0 +1,21 @@
+[
+  {
+    "name": "MDN logo",
+    "desc": "MDN Web 文档",
+    "url": "https://developer.mozilla.org/zh-CN/",
+    "icon": "https://developer.mozilla.org/favicon-48x48.bc390275e955dacb2e65.png"
+  },
+  {
+    "name": "ES6 入门教程",
+    "desc": "阮一峰ES6教程",
+    "url": "https://es6.ruanyifeng.com/",
+    "icon": "https://es6.ruanyifeng.com/favicon.ico"
+  },
+  {
+    "name": "JS代码规范",
+    "desc": "JS代码规范",
+    "url": "https://standardjs.com/readme-zhcn.html",
+    "icon": "https://standardjs.com/apple-touch-icon-57x57.png"
+  }
+]
+

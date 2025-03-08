@@ -1,0 +1,38 @@
+[
+  {
+    "name": "color-thief",
+    "desc": "Color Thief 是一个提取图片颜色的工具。",
+    "url": "https://github.com/lokesh/color-thief",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "driverjs",
+    "desc": "一个js的引导库",
+    "url": "https://driverjs.com/docs/configuration",
+    "icon": "https://driverjs.com/favicon.svg"
+  },
+  {
+    "name": "Shiki",
+    "desc": "美观且功能强大的语法高亮器",
+    "url": "https://shiki.style/",
+    "icon": "https://shiki.style/logo.svg"
+  },
+  {
+    "name": "Favorite",
+    "desc": "120 亿个独特的多元文化头像。免费生成您自己的头像，获取您的 Multiavatar 商品。",
+    "url": "https://multiavatar.com/",
+    "icon": "https://multiavatar.com/favicon.ico?v=001"
+  },
+  {
+    "name": "fullPage",
+    "desc": "Alvaro Trigo 的 fullPage 插件。快速简单地创建全屏页面。一页滚动部分 jquery 插件。鼠标捕捉。",
+    "url": "https://alvarotrigo.com/fullPage/",
+    "icon": "https://alvarotrigo.com/fullPage/favicons/apple-touch-icon.png"
+  },
+  {
+    "name": "decimal.js",
+    "desc": "JavaScript 的任意精度 Decimal 类型",
+    "url": "https://mikemcl.github.io/decimal.js/",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

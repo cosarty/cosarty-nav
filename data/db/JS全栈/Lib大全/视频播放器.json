@@ -1,0 +1,19 @@
+[
+  {
+    "name": "西瓜视频播放器",
+    "desc": "一款带解析器、节省流量的HTML5视频播放器",
+    "url": "https://v2.h5player.bytedance.com/",
+    "icon": "//lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/byted-player-videos/1.0.4/favicon.ico"
+  },
+  {
+    "name": "WebAV",
+    "desc": "WebAV 是 Web 平台上创建/编辑视频文件的 SDK，基于 WebCodecs 构建。",
+    "url": "https://webav-tech.github.io/WebAV"
+  },
+  {
+    "name": "mpegts.js",
+    "desc": "用 TypeScript 和 JavaScript 编写的 HTML5 MPEG2-TS 流播放器。",
+    "url": "https://github.com/xqq/mpegts.js/tree/master",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

@@ -5,6 +5,7 @@ import AIProgramming from './AI编程.json'
 import AIPlatform from './AI平台.json'
 import AIAgent from './智能体.json'
 import KnowledgeBase from './知识库.json'
+import Workflow from './工作流.json'
 export default {
   title: 'AI工具',
   nav: [
@@ -15,6 +16,10 @@ export default {
     {
       title: '智能体',
       nav: AIAgent,
+    },
+    {
+      title: '工作流',
+      nav: Workflow,
     },
     {
       title: '知识库',

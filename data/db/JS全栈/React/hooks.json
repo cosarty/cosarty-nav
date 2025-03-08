@@ -1,0 +1,26 @@
+[
+  {
+    "name": "React Hooks",
+    "desc": "React hook 库，可立即使用，用 Typescript 编写。",
+    "url": "https://usehooks-ts.com/",
+    "icon": "https://usehooks-ts.com/favicon-16x16.png"
+  },
+  {
+    "name": "ahooks",
+    "desc": "高质量、可靠的 React Hooks 库",
+    "url": "https://ahooks.js.org/",
+    "icon": "https://ahooks.js.org/simple-logo.svg"
+  },
+  {
+    "name": "react-use",
+    "desc": "React Hooks 的集合",
+    "url": "https://streamich.github.io/react-use/?path=/story/components-usekey--demo",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "usehooks",
+    "desc": "一组现代的、服务器安全的 React hooks – 来自 ui.dev 团队",
+    "url": "https://usehooks.com/",
+    "icon": "https://usehooks.com/favicon.png"
+  }
+]

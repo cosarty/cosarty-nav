@@ -1,0 +1,14 @@
+[
+  {
+    "name": "VueUse",
+    "desc": "VueUse 是一个基于 Vue 的实用函数库。",
+    "url": "https://vueuse.org/",
+    "icon": "https://vueuse.org/favicon.ico"
+  },
+  {
+    "name": "VueHook Plus",
+    "desc": "VueHook Plus",
+    "url": "https://inhiblabcore.github.io/docs/hooks/",
+    "icon": "https://inhiblabcore.github.io/docs/hooks/logo.svg"
+  }
+]

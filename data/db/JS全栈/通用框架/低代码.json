@@ -1,0 +1,14 @@
+[
+  {
+    "name": "amis - 低代码前端框架",
+    "desc": "百度开源的低代码前端框架",
+    "url": "https://baidu.github.io/amis/zh-CN/docs/index",
+    "icon": "https://baidu.github.io/amis/static/favicon_b3b0647.png"
+  },
+  {
+    "name": "JEECG",
+    "desc": "JeecgBoot AI低代码平台，基于SpringBoot+Ant Design的前后端分离微服务架构,集成完善的工作流平台、强大的代码生成器、流程设计器、表单设计器、大屏设计器、报表门户设计，可以应用在任何J2EE项目开发中，尤其适合企业信息管理系统（MIS）、办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能+手工Merge的低代码开发方式，可以显著提高开发效率70%以上，极大降低研发成本。",
+    "url": "https://jeecg.com/",
+    "icon": "https://jeecg.com/favicon.ico"
+  }
+]

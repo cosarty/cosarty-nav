@@ -1,0 +1,12 @@
+[
+  {
+    "name": "aioredis",
+    "url": "https://aioredis.readthedocs.io/en/latest/getting-started/",
+    "icon": "https://aioredis.readthedocs.io/assets/images/favicon.png"
+  },
+  {
+    "name": "Tortoise ORM - Tortoise ORM v0.24.2 Documentation",
+    "url": "https://tortoise.github.io/",
+    "icon": "https://tortoise.github.io/_static/tortoise.png"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "MicroApp",
+    "desc": "一款简约、高效、功能强大的微前端框架",
+    "url": "https://jd-opensource.github.io/micro-app/",
+    "icon": "https://jd-opensource.github.io/micro-app/home/assets/logo.png"
+  },
+  {
+    "name": "无界",
+    "desc": "极致的微前端框架",
+    "url": "https://wujie-micro.github.io/doc/",
+    "icon": "https://wujie-micro.github.io/doc/favicon.ico"
+  },
+  {
+    "name": "qiankun",
+    "desc": "一套用于构建微前端应用的解决方案",
+    "url": "https://qiankun.umijs.org/zh",
+    "icon": "https://gw.alipayobjects.com/mdn/rms_655822/afts/img/A*4sIUQpcos_gAAAAAAAAAAAAAARQnAQ"
+  },
+  {
+    "name": "garfishjs",
+    "desc": "包含构建微前端系统时所需要的基本能力，任意前端框架均可使用。接入简单，可轻松将多个前端应用组合成内聚的单个产品",
+    "url": "https://www.garfishjs.org/",
+    "icon": "https://lf3-static.bytednsdoc.com/obj/eden-cn/dhozeh7vhpebvog/open-garfish/icons/icon.png"
+  }
+]

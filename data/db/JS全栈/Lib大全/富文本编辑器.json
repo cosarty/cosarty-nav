@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Quill",
+    "desc": "Quill 是一款免费的开源所见即所得编辑器，专为现代网络打造。借助其模块化架构和富有表现力的 API，您可以完全自定义它以满足任何需求。",
+    "url": "https://quilljs.com/",
+    "icon": "https://quilljs.com/assets/images/favicon.ico"
+  },
+  {
+    "name": "wangEditor",
+    "desc": "开源 Web 富文本编辑器，开箱即用，配置简单",
+    "url": "https://www.wangeditor.com/",
+    "icon": "https://www.wangeditor.com/favicon.ico"
+  },
+  {
+    "name": "Monaco Editor",
+    "desc": "微软出品的代码编辑器",
+    "url": "https://microsoft.github.io/monaco-editor/"
+  }
+]
