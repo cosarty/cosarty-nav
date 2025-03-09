@@ -346,5 +346,11 @@
     "desc": "极简高效的跨平台文件监视库",
     "url": "https://www.npmjs.com/package/chokidar",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "tsc-alias",
+    "desc": "在 TypeScript 编译后将别名路径替换为相对路径。您可以通过提供 baseUrl 的相对路径来添加引用 tsconfig.json 项目之外的其他项目的别名。",
+    "url": "https://www.npmjs.com/package/tsc-alias",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
