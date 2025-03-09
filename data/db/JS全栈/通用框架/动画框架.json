@@ -16,5 +16,17 @@
     "desc": "LeaferJS 是一款革新、好用的 Canvas 引擎， 轻松实现图形编辑、UI交互 和 高效绘图。适用于图形编辑、小游戏、互动应用、组态、生成海报与短视频等场景。～ 打卡百万咖啡墙， 体验 Leafer 卓越性能 ～",
     "url": "https://www.leaferjs.com/",
     "icon": "https://www.leaferjs.com/favicon.svg"
+  },
+  {
+    "name": "animejs",
+    "desc": "anime.js • JavaScript 动画引擎",
+    "url": "https://animejs.com/",
+    "icon": "https://animejs.com/documentation/assets/img/apple-touch-icon.png"
+  },
+  {
+    "name": "gsap",
+    "desc": "GSAP 是 GreenSock 推出的行业标准 JavaScript 动画库，可让您制作适用于所有主流浏览器的高性能动画。",
+    "url": "https://gsap.com/",
+    "icon": "https://gsap.com/favicon.ico"
   }
 ]

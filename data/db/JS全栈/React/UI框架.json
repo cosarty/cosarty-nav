@@ -69,5 +69,11 @@
     "desc": "Taro官方推荐的企业级UI库",
     "url": "https://ossa.miaode.com/",
     "icon": "https://ossa.miaode.com/img/favicon.ico"
+  },
+  {
+    "name": "Aceternity UI",
+    "desc": "漂亮的 Tailwind CSS 和 Framer Motion 组件，使用 Next.js 和 TypeScript 构建。",
+    "url": "https://ui.aceternity.com/",
+    "icon": "https://ui.aceternity.com/favicon.ico"
   }
 ]

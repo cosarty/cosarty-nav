@@ -4,6 +4,7 @@ import DevTools from './开发工具.json'
 import Hooks from './hooks.json'
 import Official from './官网.json'
 import OpenSource from './开源后台模版.json'
+import Lib from './lib库.json'
 
 export default {
   title: 'Vue',
@@ -19,6 +20,10 @@ export default {
     {
       title: '框架',
       nav: Framework,
+    },
+    {
+      title: 'lib库',
+      nav: Lib,
     },
     {
       title: '开发工具',

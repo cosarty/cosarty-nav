@@ -28,5 +28,11 @@
     "desc": "最佳 Tailwind 组件库 - Tailwind CSS 的免费 UI 组件",
     "url": "https://daisyui.com/",
     "icon": "https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg"
+  },
+  {
+    "name": "Floating UI ",
+    "desc": "一个用于定位浮动元素并为其创建交互的 JavaScript 库。",
+    "url": "https://floating-ui.com/?utm_source=popper.js.org",
+    "icon": "https://floating-ui.com/favicon.ico"
   }
 ]

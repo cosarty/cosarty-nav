@@ -1,0 +1,14 @@
+[
+  {
+    "name": "moment.js",
+    "desc": "moment.js 是一个轻量级的 JavaScript 时间处理库，用于处理日期和时间。",
+    "url": "https://momentjs.cn/",
+    "icon": "https://momentjs.com/static/img/moment-favicon.png"
+  },
+  {
+    "name": "dayjs",
+    "desc": "Day.js是一个极简的JavaScript库，可以为现代浏览器解析、验证、操作和显示日期和时间。",
+    "url": "https://dayjs.fenxianglu.cn/",
+    "icon": "https://dayjs.fenxianglu.cn/assets/favicon.png"
+  }
+]

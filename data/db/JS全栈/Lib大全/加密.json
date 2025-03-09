@@ -1,0 +1,8 @@
+[
+  {
+    "name": "crypto-js",
+    "desc": "crypto-js 是一个用于加密和解密的 JavaScript 库。",
+    "url": "https://cryptojs.gitbook.io/docs/",
+    "icon": "https://cryptojs.gitbook.io/docs/favicon.ico"
+  }
+]

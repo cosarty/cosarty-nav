@@ -15,5 +15,16 @@
     "name": "Monaco Editor",
     "desc": "微软出品的代码编辑器",
     "url": "https://microsoft.github.io/monaco-editor/"
+  },
+  {
+    "name": "simplemde",
+    "desc": "JavaScript Markdown Editor - SimpleMDE。",
+    "url": "https://simplemde.com/"
+  },
+  {
+    "name": "TinyMCE",
+    "desc": "使用 TinyMCE 的所见即所得富文本编辑器提升您的 Web 开发水平。受到 150 多万开发人员的信赖，拥有 AI 驱动的工具和无缝集成。",
+    "url": "https://www.tiny.cloud/",
+    "icon": "https://www.tiny.cloud/favicon-16x16.png"
   }
 ]

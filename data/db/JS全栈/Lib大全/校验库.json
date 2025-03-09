@@ -4,5 +4,17 @@
     "desc": "使用静态类型推断进行 TypeScript 优先模式验证",
     "url": "https://zod.dev/",
     "icon": "https://zod.dev/static/apple-touch-icon.png"
+  },
+  {
+    "name": "Joi",
+    "desc": "Joi 是一个用于数据验证和设置的 JavaScript 库。",
+    "url": "https://joi.dev/",
+    "icon": "https://joi.dev/favicon.png"
+  },
+  {
+    "name": "express-validator",
+    "desc": "express-validator 是一个用于 Express 应用程序的数据验证库。",
+    "url": "https://express-validator.github.io/docs/",
+    "icon": "https://express-validator.github.io/img/favicon.png"
   }
 ]

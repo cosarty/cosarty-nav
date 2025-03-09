@@ -9,12 +9,17 @@ import UnitTest from './单元测试.json'
 import LowCode from './低代码.json'
 import Animation from './动画框架.json'
 import Icon from './图标库.json'
+import Template from './模版库.json'
 export default {
   title: '通用框架',
   nav: [
     {
       title: '运行时',
       nav: Runtime,
+    },
+    {
+      title: '模版库',
+      nav: Template,
     },
     {
       title: 'UI框架',

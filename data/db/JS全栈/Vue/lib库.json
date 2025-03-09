@@ -1,0 +1,55 @@
+[
+  {
+    "name": "vue-img-cutter",
+    "desc": "简单易用的vue图片裁剪插件，支持移动图像，裁剪图片，放大缩小图片，上下左右移动，固定比例，固定尺寸，远程图片裁剪",
+    "url": "https://www.ihtmlcss.com/demo/dist/#/croptool"
+  },
+  {
+    "name": "Vue I18n",
+    "desc": "vuejs国际化插件",
+    "url": "https://vue-i18n.intlify.dev/",
+    "icon": "https://vue-i18n.intlify.dev/vue-i18n-logo.png"
+  },
+  {
+    "name": "uQRCode",
+    "desc": "uQRCode 全端二维码生成插件",
+    "url": "https://uqrcode.cn/doc/",
+    "icon": "https://uqrcode.cn/doc/favicon.ico"
+  },
+  {
+    "name": "VeeValidate",
+    "desc": "轻松的 Vue.js 表单",
+    "url": "https://vee-validate.logaretm.com/v4/",
+    "icon": "https://vee-validate.logaretm.com/v4/img/favicon.ico"
+  },
+  {
+    "name": "Vue Flow",
+    "desc": "使用 Vue Flow 为您的流程图和图表带来交互性。这是一个高度可定制的 Vue3 Flowchart 库，可用于通过 Vue3 Flowchart 将您的想法可视化。具有无缝缩放和平移和大量其他功能！",
+    "url": "https://vueflow.dev/",
+    "icon": "https://vueflow.dev/favicons/apple-touch-icon.png"
+  },
+  {
+    "name": "VueDraggablePlus | 支持 Vue2 和 Vue3 的拖拽组件",
+    "desc": "vue3拖拽排序组件。",
+    "url": "https://vue-draggable-plus.pages.dev/",
+    "icon": "https://vue-draggable-plus.pages.dev/favicon.svg"
+  },
+  {
+    "name": "Pinia Plugin Persist",
+    "desc": "在 sessionStorage 或其他存储中保存 pinia 状态数据。",
+    "url": "https://seb-l.github.io/pinia-plugin-persist/",
+    "icon": "https://seb-l.github.io/pinia-plugin-persist/favicon.ico"
+  },
+  {
+    "name": "Watermark",
+    "desc": "高级的水印插件",
+    "url": "https://zhensherlock.github.io/watermark-js-plus/zh/",
+    "icon": "https://zhensherlock.github.io/watermark-js-plus/favicons/favicon-64x64.png"
+  },
+  {
+    "name": "Vue 3 Marquee",
+    "desc": "为您的 Vue 3 应用程序制作的简单动态字幕组件。",
+    "url": "https://vue3-marquee.vercel.app/",
+    "icon": "https://vue3-marquee.vercel.app/favicon.ico"
+  }
+]

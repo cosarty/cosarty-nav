@@ -34,5 +34,28 @@
     "desc": "JavaScript 的任意精度 Decimal 类型",
     "url": "https://mikemcl.github.io/decimal.js/",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "nprogress",
+    "desc": "JavaScript 中的细长进度条",
+    "url": "https://ricostacruz.com/nprogress/",
+    "icon": "https://ricostacruz.com/favicon.ico"
+  },
+  {
+    "name": "Normalize css",
+    "desc": "使浏览器更加一致地呈现所有元素。",
+    "url": "https://necolas.github.io/normalize.css/",
+    "icon": "https://necolas.github.io/normalize.css/favicon.ico"
+  },
+  {
+    "name": "Sortable.js中文网",
+    "desc": "sortablejs中文网包含sortable.js中文文档，demo以及应用案例。Sortable.js是一款轻量级的拖放排序列表的js插件（虽然体积小，但是功能很强大",
+    "url": "https://sortablejs.com/",
+    "icon": "https://sortablejs.com/favicon.ico"
+  },
+  {
+    "name": "Mongoose.js中文网",
+    "desc": "Mongoose.js中文网，包含Mongoose.js最新的中文文档，介绍和使用Mongoose.js API，及时更新Mongoose.js最新资讯",
+    "url": "https://mongoosejs.net/"
   }
 ]

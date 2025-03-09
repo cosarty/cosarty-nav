@@ -4,5 +4,64 @@
     "desc": "从Tilt.js (jQuery 版本)分叉而来的平滑 3D 倾斜 JavaScript 库。",
     "url": "从Tilt.js (jQuery 版本)分叉而来的平滑 3D 倾斜 JavaScript 库",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Animate.css",
+    "desc": "Animate.css 是一个现成的跨浏览器动画库，可供您在项目中使用。非常适合强调、主页、滑块和注意力引导提示。",
+    "url": "https://animate.style/",
+    "icon": "https://animate.style/img/favicon.ico"
+  },
+  {
+    "name": "particles.js  ",
+    "desc": "用于创建粒子的轻量级 JavaScript 库。",
+    "url": "https://github.com/VincentGarreau/particles.js",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "WOW.js",
+    "desc": "WOW.js 是一个 JavaScript 插件，滚动时会显示动画。Animate.css 的忠实朋友。",
+    "url": "https://www.delac.io/WOW/",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "CSSFX - Beautifully simple click-to-copy CSS effects",
+    "desc": "浏览精心制作的加载器、悬停效果、过渡和其他 CSS 效果集合，以便在您的下一个项目中使用。效果的设计注重流畅性、简单性和易用性。",
+    "url": "https://cssfx.netlify.app/",
+    "icon": "https://cssfx.netlify.app/apple-touch-icon.png"
+  },
+  {
+    "name": "countUp",
+    "desc": "通过计数来为数值制作动画的 JavaScript 类。",
+    "url": "https://inorganik.github.io/countUp.js/"
+  },
+  {
+    "name": "mojs",
+    "desc": "mojs 官方网站",
+    "url": "https://mojs.github.io/",
+    "icon": "https://mojs.github.io/assets/favicons/apple-touch-icon.png"
+  },
+  {
+    "name": "Typed.js",
+    "desc": "使用 Typed.js 进行 JavaScript 动画输入",
+    "url": "https://mattboldt.com/demos/typed-js/",
+    "icon": "https://mattboldt.com/favicon.ico"
+  },
+  {
+    "name": "Lenis",
+    "desc": "刚刚从暗室工程中走出的流畅卷轴库。",
+    "url": "https://lenis.darkroom.engineering/",
+    "icon": "https://lenis.darkroom.engineering/apple-touch-icon.png"
+  },
+  {
+    "name": "LDRS",
+    "desc": "免费的开源加载器和旋转器，适用于您的下一个项目。",
+    "url": "https://uiball.com/ldrs/",
+    "icon": "https://uiball.com/favicon.svg"
+  },
+  {
+    "name": "CSS Buttons",
+    "desc": "探索 Cssbuttons.io，获取超过 100 种独特按钮样式的多样化集合。获取所需的代码，使用时尚、实用的按钮增强您的 Web 项目。轻松、富有创意地提升您的设计！",
+    "url": "https://cssbuttons.io/",
+    "icon": "https://cssbuttons.io/favicon-32x32.png"
   }
 ]

@@ -219,5 +219,17 @@
     "desc": "JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。",
     "url": "https://jumpserver.org/",
     "icon": "https://jumpserver.org/images/logo/favicon.ico"
+  },
+  {
+    "name": "Vercel",
+    "desc": "Vercel 是一个用于部署和管理现代 Web 应用程序的平台。它提供了一个无服务器平台，用于构建和部署应用程序，并支持多种编程语言和框架。",
+    "url": "https://vercel.com/",
+    "icon": "https://vercel.com/favicon.ico"
+  },
+  {
+    "name": "mailtrap",
+    "desc": "电子邮件传递平台旨在提高您的收入。发送营销、群发和交易电子邮件。免费试用！",
+    "url": "https://mailtrap.io/",
+    "icon": "https://mailtrap.io/wp-content/themes/mailtrap//images/favicon/apple-touch-icon.png"
   }
 ]
