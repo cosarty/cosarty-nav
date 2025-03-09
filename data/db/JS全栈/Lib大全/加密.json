@@ -4,5 +4,17 @@
     "desc": "crypto-js 是一个用于加密和解密的 JavaScript 库。",
     "url": "https://cryptojs.gitbook.io/docs/",
     "icon": "https://cryptojs.gitbook.io/docs/favicon.ico"
+  },
+  {
+    "name": "argon2",
+    "desc": "可以使用 Argon2i、Argon2d 或 Argon2id（默认）进行哈希处理，并验证密码是否与哈希匹配。",
+    "url": "https://www.npmjs.com/package/argon2",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "crc",
+    "desc": "用于计算 Node.js 和前端的循环冗余校验 (CRC) 值的函数。",
+    "url": "https://www.npmjs.com/package/crc",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

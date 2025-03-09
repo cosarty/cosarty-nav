@@ -16,5 +16,29 @@
     "desc": "express-validator 是一个用于 Express 应用程序的数据验证库。",
     "url": "https://express-validator.github.io/docs/",
     "icon": "https://express-validator.github.io/img/favicon.png"
+  },
+  {
+    "name": "schema-utils",
+    "desc": "用于验证加载器和插件中的选项的软件包。",
+    "url": "https://github.com/webpack/schema-utils",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "class-transformer",
+    "desc": "这是 ES6 和 Typescript 时代。如今，您比以往任何时候都更频繁地使用类和构造函数对象。Class-transformer 允许您将普通对象转换为类的某个实例，反之亦然。它还允许根据条件序列化/反序列化对象。此工具在前端和后端都非常有用。",
+    "url": "https://www.npmjs.com/package/class-transformer",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "class-validator",
+    "desc": "class-validator 是一个用于数据验证的 JavaScript 库。",
+    "url": "https://www.npmjs.com/package/class-validator",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "ajv",
+    "desc": "Node.js 和浏览器最快的 JSON 验证器。",
+    "url": "https://www.npmjs.com/package/ajv",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

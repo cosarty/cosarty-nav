@@ -57,5 +57,11 @@
     "desc": "代理状态变得简单",
     "url": "https://valtio.dev/",
     "icon": "https://valtio.dev/favicon.ico"
+  },
+  {
+    "name": "Zustand",
+    "desc": "🐻 掌握 React 中状态管理的必要性",
+    "url": "https://zustand-demo.pmnd.rs/",
+    "icon": "https://zustand-demo.pmnd.rs/favicon.ico"
   }
 ]

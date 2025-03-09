@@ -4,5 +4,23 @@
     "desc": "Pino 是一个高性能的日志库，支持多种日志格式，如 JSON、文本等。",
     "url": "https://getpino.io/#/",
     "icon": "https://getpino.io/favicon.ico"
+  },
+  {
+    "name": "debug",
+    "desc": "一个小型 JavaScript 调试实用程序，模仿 Node.js 核心的调试技术。适用于 Node.js 和 Web 浏览器。",
+    "url": "https://www.npmjs.com/package/debug",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "morgan",
+    "desc": "node.js 的 HTTP 请求记录器中间件。",
+    "url": "https://www.npmjs.com/package/morgan",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "log4js",
+    "desc": "这是log4js的转换 与node配合使用的框架。我一开始只是删除特定于浏览器的代码并整理一些 javascript 以便在 node 中更好地工作。它从那里开始发展。虽然它的名字与 Java 库log4j相似，但认为它的行为方式相同只会给您带来悲伤和困惑",
+    "url": "https://www.npmjs.com/package/log4js",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

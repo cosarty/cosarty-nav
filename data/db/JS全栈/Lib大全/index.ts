@@ -9,13 +9,15 @@ import Effect from './动效库.json'
 import Time from './时间处理.json'
 import Http from './http.json'
 import Crypto from './加密.json'
-
+import Template from './模版库.json'
+import Terminal from './终端工具.json'
 export default {
   title: 'Lib大全',
   nav: [
     { title: '扩展', nav: Extension },
     { title: '时间处理', nav: Time },
     { title: '插件开发', nav: Plugin },
+    { title: '模版库', nav: Template },
     { title: '日志库', nav: Log },
     { title: '校验库', nav: Validator },
     { title: '富文本编辑器', nav: Editor },
@@ -23,6 +25,7 @@ export default {
     { title: '动效库', nav: Effect },
     { title: 'http', nav: Http },
     { title: '加密', nav: Crypto },
+    { title: '终端工具', nav: Terminal },
     { title: '工具', nav: Tools },
   ],
 }

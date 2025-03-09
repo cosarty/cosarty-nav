@@ -4,5 +4,23 @@
     "desc": "Axios 是一个基于 promise 的网络请求库，可以用于浏览器和 node.js",
     "url": "https://www.axios-http.cn/",
     "icon": "https://www.axios-http.cn/img/favicon.ico"
+  },
+  {
+    "name": "got",
+    "desc": "人性化且功能强大的 Node.js HTTP 请求库",
+    "url": "https://www.npmjs.com/package/got",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "node-fetch",
+    "desc": "一个将Fetch API引入 Node.js 的轻量级模块。",
+    "url": "https://www.npmjs.com/package/node-fetch",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "superagent",
+    "desc": "小型渐进式客户端 HTTP 请求库，与 Node.js 模块具有相同的 API，支持许多高级 HTTP 客户端功能",
+    "url": "https://www.npmjs.com/package/superagent",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

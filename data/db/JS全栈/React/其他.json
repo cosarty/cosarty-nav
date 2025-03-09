@@ -28,5 +28,23 @@
     "desc": "React的国际化框架",
     "url": "https://react.i18next.com/",
     "icon": "https://react.i18next.com/~gitbook/image?url=https%3A%2F%2F4236364459-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia&width=32&dpr=2&quality=100&sign=ba15ca9c&sv=2"
+  },
+  {
+    "name": "react-rnd",
+    "desc": "一个可调整大小且可拖动的 React 组件。",
+    "url": "https://github.com/bokuweb/react-rnd",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "react-resizable",
+    "desc": "用于调整面板组/布局大小的 React 组件",
+    "url": "https://www.npmjs.com/package/react-resizable-panels",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "react-fast-marquee",
+    "desc": "轻量级的 React 组件，利用 CSS 动画的强大功能来创建如丝般流畅的字幕。",
+    "url": "https://www.react-fast-marquee.com/",
+    "icon": "https://www.react-fast-marquee.com/favicon.ico"
   }
 ]

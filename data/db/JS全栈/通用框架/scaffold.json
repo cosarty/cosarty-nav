@@ -16,5 +16,22 @@
     "desc": "基于 Rust 的 JavaScript 快速打包器，具有与 Rollup 兼容的 API",
     "url": "https://rolldown.rs/",
     "icon": "https://rolldown.rs/lightning-down.svg"
+  },
+  {
+    "name": "tsup",
+    "desc": "轻松捆绑 TypeScript 库",
+    "url": "https://tsup.egoist.dev/"
+  },
+  {
+    "name": "esbuild",
+    "desc": "一款速度极快的 Web 打包工具",
+    "url": "https://esbuild.github.io/",
+    "icon": "https://esbuild.github.io/favicon.svg"
+  },
+  {
+    "name": "swc",
+    "desc": "SWC 是一个可扩展的 Rust 平台，适用于下一代快速开发工具。它被 Next.js、Parcel 和 Deno 等工具以及 Vercel、字节跳动、腾讯、Shopify、Trip.com 等公司使用。",
+    "url": "https://swc.rs/",
+    "icon": "https://swc.rs/favicon/apple-touch-icon.png"
   }
 ]

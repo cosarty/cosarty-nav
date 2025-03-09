@@ -15,5 +15,11 @@
     "desc": "用 TypeScript 和 JavaScript 编写的 HTML5 MPEG2-TS 流播放器。",
     "url": "https://github.com/xqq/mpegts.js/tree/master",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "video.js",
+    "desc": "网络视频播放器",
+    "url": "https://www.npmjs.com/package/video.js",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

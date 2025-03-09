@@ -1,0 +1,8 @@
+[
+  {
+    "name": "EJS",
+    "desc": "EJS 是一个简单的模板引擎，用于生成 HTML 字符串。",
+    "url": "https://ejs.co/",
+    "icon": "https://ejs.co/favicon.ico"
+  }
+]

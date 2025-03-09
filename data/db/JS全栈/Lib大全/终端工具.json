@@ -1,0 +1,68 @@
+[
+  {
+    "name": "chalk",
+    "desc": "Chalk 是一个用于终端字符串样式化的库。",
+    "url": "https://www.npmjs.com/package/chalk",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "@clack/prompts",
+    "desc": "轻松构建漂亮的命令行应用程序。",
+    "url": "https://www.npmjs.com/package/@clack/prompts",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "execa",
+    "desc": "Execa 在您的脚本、应用程序或库中运行命令。与 shell 不同，它针对编程使用进行了优化。建立在child_process核心模块之上。",
+    "url": "https://www.npmjs.com/package/execa",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "kolorist",
+    "desc": "将颜色放入 stdin/stdout 的微型库🎉",
+    "url": "https://www.npmjs.com/package/kolorist",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "ora",
+    "desc": "优雅的终端旋转器",
+    "url": "https://www.npmjs.com/package/ora",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "commander",
+    "desc": "node.js命令行界面的完整解决方案。",
+    "url": "https://www.npmjs.com/package/commander",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "picocolors",
+    "desc": "最小、最快的使用 ANSI 颜色进行终端输出格式化的库。",
+    "url": "https://www.npmjs.com/package/picocolors",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "enquirer",
+    "desc": "时尚的 CLI 提示，用户友好、直观且易于创建。",
+    "url": "https://www.npmjs.com/package/enquirer",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "@inquirer/prompts",
+    "desc": "常见的交互式命令行用户界面的集合。",
+    "url": "https://www.npmjs.com/package/@inquirer/prompts",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "cac",
+    "desc": "C ommand A nd C onquer 是一个用于构建 CLI 应用程序的 JavaScript 库。",
+    "url": "https://www.npmjs.com/package/cac",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "semver",
+    "desc": "npm 的语义版本控制器",
+    "url": "https://www.npmjs.com/package/semver",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  }
+]

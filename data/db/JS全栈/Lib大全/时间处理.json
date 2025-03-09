@@ -10,5 +10,11 @@
     "desc": "Day.js是一个极简的JavaScript库，可以为现代浏览器解析、验证、操作和显示日期和时间。",
     "url": "https://dayjs.fenxianglu.cn/",
     "icon": "https://dayjs.fenxianglu.cn/assets/favicon.png"
+  },
+  {
+    "name": "date-fns",
+    "desc": "date-fns 提供了最全面、最简单、最一致的工具集，用于在浏览器和 Node.js 中操作 JavaScript 日期",
+    "url": "https://date-fns.org/",
+    "icon": "https://date-fns.org/favicon.ico"
   }
 ]

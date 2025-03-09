@@ -101,5 +101,23 @@
     "desc": "一个入门简单、跨平台、企业级桌面软件开发框架",
     "url": "https://www.kaka996.com/",
     "icon": "https://www.kaka996.com/img/favicon.ico"
+  },
+  {
+    "name": "Arco Design",
+    "desc": " 企业级产品的完整设计和开发解决方案",
+    "url": "https://arco.design/",
+    "icon": "https://unpkg.byted-static.com/latest/byted/arco-config/assets/favicon.ico"
+  },
+  {
+    "name": "fusionauth",
+    "desc": "FusionAuth 提供完整的身份验证软件和用户管理解决方案，具有可定制的工具（如 SSO、MFA）以及 OAuth2 和 OpenID Connect 集成。",
+    "url": "https://fusionauth.io/",
+    "icon": "https://cdn.prod.website-files.com/617b1b1f42c1da41aeae3413/63ed72f489abde69118f4631_favicon.png"
+  },
+  {
+    "name": "Turbo",
+    "desc": "Turbo 是一个用 Rust 编写的增量捆绑器和构建系统，针对 JavaScript 和 TypeScript 进行了优化。",
+    "url": "https://turbo.build/",
+    "icon": "https://turbo.build/images/product-icons/repo-light-32x32.png"
   }
 ]
