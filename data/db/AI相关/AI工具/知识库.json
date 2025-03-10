@@ -10,5 +10,29 @@
         "url": "https://github.com/run-llama/llama_index"
       }
     ]
+  },
+  {
+    "name": "RLAMA",
+    "desc": "检索增强型本地助理模型代理。",
+    "url": "https://rlama.dev/",
+    "icon": "https://rlama.dev/rlama.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/dontizi/rlama"
+      }
+    ]
+  },
+  {
+    "name": "cocoindex",
+    "desc": "可理解、可扩展、可维护的云原生基础设施，用于为语义搜索/RAG 准备数据，具有谱系和可观察性。",
+    "url": "https://cocoindex.io/",
+    "icon": "https://cocoindex.io/icon.svg?813c26f2431e6a1b",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/cocoindex-io/cocoindex"
+      }
+    ]
   }
 ]
