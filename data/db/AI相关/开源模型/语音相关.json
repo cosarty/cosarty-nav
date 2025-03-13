@@ -49,7 +49,7 @@
   },
   {
     "name": "ClearerVoice-Studio",
-    "desc": "语音增强",
+    "desc": "AI驱动的语音处理工具包和开源SOTA预训练模型，支持语音增强、分离、目标说话人提取等。",
     "url": "https://github.com/modelscope/ClearerVoice-Studio",
     "icon": "https://avatars.githubusercontent.com/u/109945100?s=48&v=4"
   },

@@ -352,5 +352,11 @@
     "desc": "在 TypeScript 编译后将别名路径替换为相对路径。您可以通过提供 baseUrl 的相对路径来添加引用 tsconfig.json 项目之外的其他项目的别名。",
     "url": "https://www.npmjs.com/package/tsc-alias",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "@qdrant/js-client-rest",
+    "desc": "该存储库包含Qdrant矢量搜索引擎的 REST 客户端。",
+    "url": "https://www.npmjs.com/package/@qdrant/js-client-rest",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
