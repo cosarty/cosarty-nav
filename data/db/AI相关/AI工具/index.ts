@@ -6,6 +6,7 @@ import AIPlatform from './AI平台.json'
 import AIAgent from './智能体.json'
 import KnowledgeBase from './知识库.json'
 import Workflow from './工作流.json'
+import Material from './资料.json'
 export default {
   title: 'AI工具',
   nav: [
@@ -41,5 +42,9 @@ export default {
       title: 'AI创新产品',
       nav: AIInnovationProduct,
     },
+    {
+      title:'资料',
+      nav:Material
+    }
   ],
 }
