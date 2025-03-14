@@ -4,5 +4,11 @@
     "url": "https://www.bootcdn.cn/",
     "icon": "https://www.bootcdn.cn/assets/ico/apple-touch-icon-144-precomposed.png?1739666375458",
     "desc": "Bootstrap 中文网开源项目免费 CDN 加速服务 - 我们致力于为 Bootstrap、jQuery、Angular、Vue.js 一样优秀的开源项目提供稳定、快速、免费的 CDN 加速服务。BootCDN 是运营时间最长、用户量最大、最早同时支持 HTTPS（SSL）和 HTTP/2.0 协议的中立免费 CDN 。"
+  },
+  {
+    "name": "JavaScript 明星项目",
+    "url": "https://risingstars.js.org/2024/zh",
+    "icon": "https://risingstars.js.org/favicon.ico",
+    "desc": "JavaScript 前景概述：有关前端、全栈和 Node.js 框架、React 和 Vue.js 生态系统、构建工具、状态管理的趋势……"
   }
 ]
