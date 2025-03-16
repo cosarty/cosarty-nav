@@ -8,5 +8,11 @@
     "name": "Tortoise ORM - Tortoise ORM v0.24.2 Documentation",
     "url": "https://tortoise.github.io/",
     "icon": "https://tortoise.github.io/_static/tortoise.png"
+  },
+  {
+    "name": "Poetry",
+    "desc":"Python 依赖管理和打包变得简单",
+    "url": "https://python-poetry.org/",
+    "icon": "https://python-poetry.org/images/favicon-origami-32.png"
   }
 ]
