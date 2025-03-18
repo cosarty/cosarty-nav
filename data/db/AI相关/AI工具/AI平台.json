@@ -16,5 +16,17 @@
     "desc": "AI绘画原创模型分享社区，10万+模型免费下载;原汁原味的webUI、comfyUI，在线AI绘图工具免费使用;还可在线进行模型训练。欢迎每一位创作者加入，共同探索AI绘画",
     "url": "https://www.liblib.art/",
     "icon": "https://liblibai-web-static.liblib.cloud/favicon_v2.png"
+  },
+  {
+    "name": "即时 AI - 生成式图像创作及 UI 设计工具",
+    "desc": "根据画面描述，可得到四张高质量创意图像作品。支持通过自然语言描述生成可二次编辑的高质量 UI 设计稿。",
+    "url": "https://jsai.cc/ai/create",
+    "icon": "https://img.jsdesign2.com/assets/webImg/favicon-ai.ico"
+  },
+  {
+    "name": "flowith",
+    "desc": "思想之泉：以未来的方式与全球最强AI互动，这是您知识转化的AI创意工作区，通过创新的交互方式，让您与AI顺畅协作，思想如泉涌般涌动。",
+    "url": "https://flowith.io/blanke",
+    "icon": "https://flowith.io/favicon.ico"
   }
 ]
