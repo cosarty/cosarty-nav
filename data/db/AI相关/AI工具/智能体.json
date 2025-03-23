@@ -40,5 +40,12 @@
         "url": "https://github.com/CherryHQ/cherry-studio"
       }
     ]
+  },
+  {
+    "name": "Agent TARS",
+    "desc": "旨在彻底改变多模式交互的开源 GUI 代理",
+    "url": "https://agent-tars.com/",
+    "icon": "https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/ui-tars/resources/favicon-32x32.png?raw=true"
   }
+
 ]

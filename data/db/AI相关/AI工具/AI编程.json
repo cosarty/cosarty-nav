@@ -16,5 +16,11 @@
     "desc": "CopyWeb 可帮助您仅使用屏幕截图或 URL 立即复制任何网站设计。只需单击一下，即可将灵感变成现实。",
     "url": "https://copyweb.ai/",
     "icon": "https://copyweb.ai/favicon.ico"
+  },
+  {
+    "name": "bolt",
+    "desc": "Prompt, run, edit & deploy web apps",
+    "url": "https://bolt.new/",
+    "icon": "https://bolt.new/static/favicon.svg"
   }
 ]
