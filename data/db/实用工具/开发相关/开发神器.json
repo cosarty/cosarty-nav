@@ -237,5 +237,11 @@
     "desc": "MD2Card 是一个免费的 Markdown 转知识卡片工具，支持一键生成小红书风格海报、社交媒体文案排版，让创作者轻松制作精美的图文内容。支持多种主题风格、长文自动拆分、一键导出图片，让你的创作更加高效。",
     "url": "https://md2card.com/zh",
     "icon": "https://md2card.com/favicons/favicon-32x32.png"
+  },
+  {
+    "name": "WildCard | 一分钟注册，轻松订阅海外线上服务",
+    "desc": "支持全球优质服务，GPT账号被封无忧退款",
+    "url": "https://bewildcard.com/pay-service",
+    "icon": "https://bewildcard.com/logo192.png"
   }
 ]
