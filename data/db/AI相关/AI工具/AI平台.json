@@ -34,5 +34,11 @@
     "desc": "MasterGo/莫高设计是AI时代企业级产品设计平台，贯穿产品设计研发的全链条在线协作工具,是可协作的在线sketch、国内版figma，提供在线产品设计、原型图制作设计、网页开发设计、产品交互设计、UI和UX设计工具等功能,支持多人实时协作,可快速搭建设计系统,为产品设计师、交互设计师、工程师以及产品经理提供更简单灵活的工作模式。",
     "url": "https://mastergo.com/",
     "icon": "https://mastergo.com/favicon.ico"
+  },
+  {
+    "name": "可灵AI",
+    "desc": "KLING AI，基于最先进的生成式 AI 方法，用于创建富有想象力的图像和视频的工具。",
+    "url": "https://klingai.kuaishou.com/",
+    "icon": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web/favicon.ico"
   }
 ]
