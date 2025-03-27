@@ -46,6 +46,12 @@
     "desc": "旨在彻底改变多模式交互的开源 GUI 代理",
     "url": "https://agent-tars.com/",
     "icon": "https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/ui-tars/resources/favicon-32x32.png?raw=true"
+  },
+  {
+    "name": "Browser Use - 启用人工智能来控制你的浏览器",
+    "desc": "使网站可供 AI 代理访问。提取交互元素并自动化浏览器交互。",
+    "url": "https://browser-use.com/",
+    "icon": "https://browser-use.com/favicon.ico"
   }
 
 ]
