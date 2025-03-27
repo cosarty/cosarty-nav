@@ -358,5 +358,11 @@
     "desc": "该存储库包含Qdrant矢量搜索引擎的 REST 客户端。",
     "url": "https://www.npmjs.com/package/@qdrant/js-client-rest",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "rookie",
+    "desc": "从您的网络浏览器加载 cookies",
+    "url": "https://github.com/thewh1teagle/rookie",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

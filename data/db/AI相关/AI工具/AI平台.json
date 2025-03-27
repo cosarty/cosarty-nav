@@ -40,5 +40,11 @@
     "desc": "KLING AI，基于最先进的生成式 AI 方法，用于创建富有想象力的图像和视频的工具。",
     "url": "https://klingai.kuaishou.com/",
     "icon": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web/favicon.ico"
+  },
+  {
+    "name": "Raphael AI - 免费无限制 AI 图像生成器",
+    "desc": "Raphael AI，世界上第一个完全免费且无限制的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。无需注册，图像质量上乘。",
+    "url": "https://raphael.app/zh",
+    "icon": "https://raphael.app/favicon/apple-touch-icon.png"
   }
 ]
