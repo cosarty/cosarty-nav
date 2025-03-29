@@ -119,5 +119,11 @@
     "desc": "Turbo 是一个用 Rust 编写的增量捆绑器和构建系统，针对 JavaScript 和 TypeScript 进行了优化。",
     "url": "https://turbo.build/",
     "icon": "https://turbo.build/images/product-icons/repo-light-32x32.png"
+  },
+  {
+    "name": "XState",
+    "desc": "欢迎阅读 Stately 和 XState 文档",
+    "url": "https://stately.ai/docs",
+    "icon": "https://stately.ai/icon.svg"
   }
 ]
