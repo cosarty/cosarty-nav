@@ -243,5 +243,11 @@
     "desc": "支持全球优质服务，GPT账号被封无忧退款",
     "url": "https://bewildcard.com/pay-service",
     "icon": "https://bewildcard.com/logo192.png"
+  },
+  {
+    "name": "提示词优化器",
+    "desc": "提示词优化器，帮助你优化提示词，提高工作效率",
+    "url": "https://prompt.always200.com/",
+    "icon": "https://prompt.always200.com/favicon.ico"
   }
 ]
