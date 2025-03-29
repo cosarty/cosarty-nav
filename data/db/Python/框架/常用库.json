@@ -14,5 +14,11 @@
     "desc":"Python 依赖管理和打包变得简单",
     "url": "https://python-poetry.org/",
     "icon": "https://python-poetry.org/images/favicon-origami-32.png"
+  },
+  {
+    "name": "uv",
+    "desc": "一个用于构建API的现代、快速（高性能）的web框架",
+    "url": "https://docs.astral.sh/uv/",
+    "icon": "https://docs.astral.sh/static/favicon-32x32.png"
   }
 ]
