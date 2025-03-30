@@ -51,5 +51,11 @@
     "desc": "VueUse 是一个基于 Vue 的实用函数库。",
     "url": "一个参照wot-design打造的uni-app组件库",
     "icon": "https://wot-design-uni.cn/favicon.ico"
+  },
+  {
+    "name": "shadcn/vue",
+    "desc": "使用 Radix Vue 和 Tailwind CSS 构建的精美设计组件。",
+    "url": "https://www.shadcn-vue.com/",
+    "icon": "https://www.shadcn-vue.com/favicon.ico"
   }
 ]
