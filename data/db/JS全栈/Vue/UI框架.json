@@ -57,5 +57,11 @@
     "desc": "使用 Radix Vue 和 Tailwind CSS 构建的精美设计组件。",
     "url": "https://www.shadcn-vue.com/",
     "icon": "https://www.shadcn-vue.com/favicon.ico"
+  },
+  {
+    "name": "Inspira UI",
+    "desc": "使用 Vue 和 Nuxt 开源组件轻松构建令人惊叹的动画界面。",
+    "url": "https://inspira-ui.com/",
+    "icon": "https://inspira-ui.com/logo.svg"
   }
 ]
