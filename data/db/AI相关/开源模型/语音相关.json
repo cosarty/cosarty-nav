@@ -64,5 +64,11 @@
     "desc": "Spark-TTS：基于 LLM 的高效文本转语音模型，具有单流解耦语音标记",
     "url": "https://github.com/SparkAudio/Spark-TTS",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "indexTTS",
+    "desc": "IndexTTS：工业级可控高效零样本文本转语音系统",
+    "url": "https://github.com/index-tts/index-tts",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
