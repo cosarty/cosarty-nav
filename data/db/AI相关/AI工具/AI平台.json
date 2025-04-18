@@ -46,5 +46,17 @@
     "desc": "Raphael AI，世界上第一个完全免费且无限制的 AI 图像生成器，由 FLUX.1-Dev 模型提供支持。无需注册，图像质量上乘。",
     "url": "https://raphael.app/zh",
     "icon": "https://raphael.app/favicon/apple-touch-icon.png"
+  },
+  {
+    "name": "白日梦AI-领先的AI视频创作类AIGC创作平台",
+    "desc": "白日梦AI是一款领先的文生视频类AIGC创作平台，专注于AI视频内容生成，提供AI生成视频教程、AI文生视频、AI动态画面、AI形象生成、人物/场景一致性等创作技巧及成功案例，助您快速上手并打造专业级视频内容。",
+    "url": "http://aibrm.com/?code=fx_cda",
+    "icon": "https://cdn.brmgo.cn/static/images/logo-icon.png"
+  },
+  {
+    "name": "Music Muse | AI 歌曲生成器 & 在线免费音乐制作工具",
+    "desc": "使用 Music Muse 的 AI 歌曲生成器创作专业音乐。立即将您的想法转化为歌曲 - 无需任何音乐经验。开始免费制作音乐！",
+    "url": "https://www.musicmuse.ai/zh",
+    "icon": "https://www.musicmuse.ai/favicon.ico"
   }
 ]
