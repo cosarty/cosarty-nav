@@ -1,0 +1,20 @@
+[
+  {
+    "icon": "https://mcp.so/favicon.ico",
+    "name": "MCP Server",
+    "desc": "最大的 MCP Server（MCP 服务器）集合，包括优秀的 MCP Server（MCP 服务器）和 Claude MCP 集成。搜索和发现 MCP Server（MCP 服务器）以增强您的 AI 能力。",
+    "url": "https://mcp.so/zh"
+  },
+  {
+    "icon": "https://glama.ai/pwa-icon.png",
+    "name": "开源MCP服务器",
+    "desc": "已投入生产并已进行实验的 MCP 服务器，可通过文件访问、数据库连接、API 集成和其他上下文服务扩展 AI 功能。",
+    "url": "https://glama.ai/mcp/servers"
+  },
+  {
+    "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01vVn7g32134zNZEeAR_!!6000000006928-55-tps-24-24.svg",
+    "name": "阿里云百炼 MCP",
+    "desc": "连接智能，即点即用探索阿里云百炼全周期 MCP 服务",
+    "url": "https://bailian.console.aliyun.com/?tab=mcp#/mcp-market"
+  }
+]

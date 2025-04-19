@@ -1,6 +1,7 @@
 import DevelopmentArtifact from './开发神器.json'
 import InterfaceDevelopmentDocumentManagement from './接口|开发文档管理.json'
 import IntranetPenetrationProxy from './内网穿透|代理.json'
+import MCP from './MCP.json'
 
 export default {
   title: '开发相关',
@@ -17,6 +18,10 @@ export default {
     {
       title: '内网穿透/代理',
       nav: IntranetPenetrationProxy,
+    },
+    {
+      title: 'MCP',
+      nav: MCP,
     },
   ],
 }

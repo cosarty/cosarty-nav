@@ -58,5 +58,17 @@
     "desc": "使用 Music Muse 的 AI 歌曲生成器创作专业音乐。立即将您的想法转化为歌曲 - 无需任何音乐经验。开始免费制作音乐！",
     "url": "https://www.musicmuse.ai/zh",
     "icon": "https://www.musicmuse.ai/favicon.ico"
+  },
+  {
+    "name": "GemDesign - AI 驱动的产品设计工具",
+    "desc": "GemDesign是一款面向产品经理和独立开发者的AI生产力工具，通过AI能力，将自然语言需求输入自动生成高保真原型、专业设计图及可运行的前端代码。",
+    "url": "https://design.gemcoder.com/",
+    "icon": "https://design.gemcoder.com/logo.ico"
+  },
+  {
+    "name": "askmany ai",
+    "desc": "AskManyAI",
+    "url": "https://askmany.cn/index",
+    "icon": "https://ama-static.floatai.cn/askmanyai/prod/favicon.ico"
   }
 ]

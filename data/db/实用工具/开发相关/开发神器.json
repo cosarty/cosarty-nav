@@ -249,5 +249,23 @@
     "desc": "提示词优化器，帮助你优化提示词，提高工作效率",
     "url": "https://prompt.always200.com/",
     "icon": "https://prompt.always200.com/favicon.ico"
+  },
+  {
+    "name": "Liam ERD",
+    "desc": "ER 图，为简单而重新发明。",
+    "url": "https://liambx.com/",
+    "icon": "https://liambx.com/favicon.ico"
+  },
+  {
+    "name": "图片提示词",
+    "desc": "使用图片提示词创作更好的AI艺术",
+    "url": "https://imageprompt.org/zh/",
+    "icon": "https://imageprompt.org/favicon.ico"
+  },
+  {
+    "name": "AI工具箱",
+    "desc": "AI 工具箱，一个集合了多种 AI 工具的网站",
+    "url": "https://remove.photos/zh-cn/",
+    "icon": "https://remove.photos/favicon.ico"
   }
 ]
