@@ -34,5 +34,11 @@
     "desc": "一个用于定位浮动元素并为其创建交互的 JavaScript 库。",
     "url": "https://floating-ui.com/?utm_source=popper.js.org",
     "icon": "https://floating-ui.com/favicon.ico"
+  },
+  {
+    "name": "TDesign",
+    "desc": "为设计师 & 开发者，打造工作美学",
+    "url": "https://tdesign.tencent.com/",
+    "icon": "https://static.tdesign.tencent.com/favicon.ico"
   }
 ]

@@ -75,5 +75,11 @@
     "desc": "漂亮的 Tailwind CSS 和 Framer Motion 组件，使用 Next.js 和 TypeScript 构建。",
     "url": "https://ui.aceternity.com/",
     "icon": "https://ui.aceternity.com/favicon.ico"
+  },
+  {
+    "name": "ChatUI",
+    "desc": "助力设计开发者搭建「对话式交互」，让科技更有温度，对话美而简单～",
+    "url": "https://chatui.io/",
+    "icon": "https://gw.alicdn.com/tfs/TB17TaySSzqK1RjSZFHXXb3CpXa-80-80.svg"
   }
 ]
