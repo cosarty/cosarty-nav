@@ -46,5 +46,11 @@
         "url": "https://github.com/RockChinQ/LangBot"
       }
     ]
+  },
+  {
+    "name": "OpenCut",
+    "desc": "一站式音视频解决剪辑难题，无论您需要视频剪辑、音频剪辑还是图片剪辑都游刃有余。",
+    "url": "https://opencut.net/",
+    "icon": "https://opencut.net/favicon.ico"
   }
 ]
