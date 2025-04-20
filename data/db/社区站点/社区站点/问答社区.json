@@ -1,5 +1,11 @@
 [
   {
+    "name": "infoQ",
+    "desc": "InfoQ,InfoQ中文站,架构,云计算,AI,前端,运维,开源,Java,.net,SOA,软件开发,编程,极客邦",
+    "url": "https://www.infoq.cn/",
+    "icon": "https://static001.infoq.cn/static/infoq/www/img/share-default-5tgbiuhgfefgujjhg.png"
+  },
+  {
     "icon": "https://cdn.segmentfault.com/v-5f64887f/global/img/touch-icon.png",
     "name": "segmentfault",
     "desc": "是中文领域最大的技术问答交流社区平台",

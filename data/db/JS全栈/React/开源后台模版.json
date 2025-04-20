@@ -10,5 +10,11 @@
         "url": "https://github.com/satnaing/shadcn-admin"
       }
     ]
+  },
+  {
+    "name": "LiveTerm",
+    "desc": "几分钟内即可构建终端风格的网站！",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "icon": "https://avatars.githubusercontent.com/u/30604389?s=48&v=4"
   }
 ]

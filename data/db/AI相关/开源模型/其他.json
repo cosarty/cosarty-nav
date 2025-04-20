@@ -58,5 +58,17 @@
         "url": "https://github.com/PramaLLC/BEN2"
       }
     ]
+  },
+  {
+    "name": "KrillinAI",
+    "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "url": "https://github.com/krillinai/KrillinAI",
+    "icon": "https://avatars.githubusercontent.com/u/2386538?s=48&v=4",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/krillinai/KrillinAI"
+      }
+    ]
   }
 ]
