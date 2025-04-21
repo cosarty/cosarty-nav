@@ -33,5 +33,11 @@
     "desc": "SWC 是一个可扩展的 Rust 平台，适用于下一代快速开发工具。它被 Next.js、Parcel 和 Deno 等工具以及 Vercel、字节跳动、腾讯、Shopify、Trip.com 等公司使用。",
     "url": "https://swc.rs/",
     "icon": "https://swc.rs/favicon/apple-touch-icon.png"
+  },
+  {
+    "name": "tsdown",
+    "desc": "优雅的静态站点生成工具",
+    "url": "https://tsdown.dev/zh-CN/",
+    "icon": "https://tsdown.dev/tsdown.svg"
   }
 ]

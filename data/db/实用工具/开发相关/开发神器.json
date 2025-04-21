@@ -267,5 +267,11 @@
     "desc": "AI 工具箱，一个集合了多种 AI 工具的网站",
     "url": "https://remove.photos/zh-cn/",
     "icon": "https://remove.photos/favicon.ico"
+  },
+  {
+    "name": "GitDiagram",
+    "desc": "将任何 GitHub 代码库转换为可视化的交互式图表",
+    "url": "https://gitdiagram.com/",
+    "icon": "https://gitdiagram.com/favicon.ico"
   }
 ]

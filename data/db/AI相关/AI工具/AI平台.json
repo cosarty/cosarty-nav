@@ -70,5 +70,11 @@
     "desc": "AskManyAI",
     "url": "https://askmany.cn/index",
     "icon": "https://ama-static.floatai.cn/askmanyai/prod/favicon.ico"
+  },
+  {
+    "name": "佐糖",
+    "desc": "使用佐糖，无需其他繁杂操作，只需上传图片，即可实现一键抠图、照片修复、AI背景合成、制作证件照、图片压缩等超多丰富功能，轻松满足多样化作图需求！",
+    "url": "https://picwish.cn",
+    "icon": "https://qncdn.aoscdn.com/astro/picwish/_astro/favicon@30w.61721eae.png"
   }
 ]
