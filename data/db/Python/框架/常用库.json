@@ -20,5 +20,11 @@
     "desc": "一个用于构建API的现代、快速（高性能）的web框架",
     "url": "https://docs.astral.sh/uv/",
     "icon": "https://docs.astral.sh/static/favicon-32x32.png"
+  },
+  {
+    "name": "FastMCP",
+    "desc": "构建 MCP 服务器和客户端的快速、Python 方式。",
+    "url": "https://gofastmcp.com/getting-started/welcome",
+    "icon": "https://mintlify.s3-us-west-1.amazonaws.com/fastmcp/_generated/favicon/apple-touch-icon.png?v=3"
   }
 ]

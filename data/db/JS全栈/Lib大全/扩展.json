@@ -22,5 +22,11 @@
     "desc": "Immer（德语为：always）是一个小型包，可让您以更方便的方式使用不可变状态。",
     "url": "https://immerjs.github.io/immer/zh-CN/",
     "icon": "https://immerjs.github.io/immer/zh-CN/img/favicon.ico"
+  },
+  {
+    "name": "Fabric.js",
+    "desc": "Fabric.js 是一个用于创建交互式 2D 画布的 JavaScript拖拽库。",
+    "url": "https://fabricjs.com/",
+    "icon": "https://fabricjs.com/favicon.ico"
   }
 ]
