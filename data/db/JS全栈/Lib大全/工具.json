@@ -364,5 +364,11 @@
     "desc": "从您的网络浏览器加载 cookies",
     "url": "https://github.com/thewh1teagle/rookie",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "tesseract.js",
+    "desc": "javascript OCR 识别图片中的文字",
+    "url": "https://tesseract.projectnaptha.com/",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
