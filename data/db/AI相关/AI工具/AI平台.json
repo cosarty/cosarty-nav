@@ -76,5 +76,11 @@
     "desc": "使用佐糖，无需其他繁杂操作，只需上传图片，即可实现一键抠图、照片修复、AI背景合成、制作证件照、图片压缩等超多丰富功能，轻松满足多样化作图需求！",
     "url": "https://picwish.cn",
     "icon": "https://qncdn.aoscdn.com/astro/picwish/_astro/favicon@30w.61721eae.png"
+  },
+  {
+    "name": "magi ai",
+    "desc": "Magi 是一款功能强大的 AI 视频生成器，可免费将您的创意转化为精彩的视频。借助尖端的生成式 AI 技术，轻松扩展视频！",
+    "url": "https://magi.sand.ai/app/projects",
+    "icon": "https://static.magi.world/build/magi/165/favicon.svg"
   }
 ]
