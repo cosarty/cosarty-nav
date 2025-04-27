@@ -273,5 +273,11 @@
     "desc": "将任何 GitHub 代码库转换为可视化的交互式图表",
     "url": "https://gitdiagram.com/",
     "icon": "https://gitdiagram.com/favicon.ico"
+  },
+  {
+    "name": "deepwiki 阅读源码神器",
+    "desc": "揭秘人工智能驱动的知识集成平台 阅读源码神奇",
+    "url": "https://deepwiki.org/",
+    "icon": "https://deepwiki.org/favicon.ico"
   }
 ]
