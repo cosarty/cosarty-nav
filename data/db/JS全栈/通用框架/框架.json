@@ -125,5 +125,11 @@
     "desc": "欢迎阅读 Stately 和 XState 文档",
     "url": "https://stately.ai/docs",
     "icon": "https://stately.ai/icon.svg"
+  },
+  {
+    "name": "VisActor",
+    "desc": "VisActor ——面向叙事的智能可视化解决方案。",
+    "url": "https://www.visactor.com/",
+    "icon": "https://lf-dp.bytetos.com/obj/dp-open-internet-cn/visactor-site/bytedance/client/img/favicon.png"
   }
 ]
