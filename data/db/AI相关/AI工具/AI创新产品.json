@@ -52,5 +52,11 @@
     "desc": "一站式音视频解决剪辑难题，无论您需要视频剪辑、音频剪辑还是图片剪辑都游刃有余。",
     "url": "https://opencut.net/",
     "icon": "https://opencut.net/favicon.ico"
+  },
+  {
+    "name": "BiliNote",
+    "desc": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
+    "url": "https://github.com/JefferyHcool/BiliNote",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

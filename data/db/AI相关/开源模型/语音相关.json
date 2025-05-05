@@ -70,5 +70,11 @@
     "desc": "IndexTTS：工业级可控高效零样本文本转语音系统",
     "url": "https://github.com/index-tts/index-tts",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Kimi-Audio",
+    "desc": "Kimi-Audio，一个开源音频基础模型，在音频理解、生成和对话方面表现出色。",
+    "url": "https://github.com/MoonshotAI/Kimi-Audio",
+    "icon": "https://avatars.githubusercontent.com/u/129152888?s=48&v=4"
   }
 ]

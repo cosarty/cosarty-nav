@@ -70,5 +70,11 @@
         "url": "https://github.com/krillinai/KrillinAI"
       }
     ]
+  },
+  {
+    "name": "MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
