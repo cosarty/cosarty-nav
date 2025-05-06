@@ -2,6 +2,7 @@ import DevelopmentArtifact from './开发神器.json'
 import InterfaceDevelopmentDocumentManagement from './接口|开发文档管理.json'
 import IntranetPenetrationProxy from './内网穿透|代理.json'
 import MCP from './MCP.json'
+import GPULease from './GPU租借.json'
 
 export default {
   title: '开发相关',
@@ -18,6 +19,10 @@ export default {
     {
       title: '内网穿透/代理',
       nav: IntranetPenetrationProxy,
+    },
+    {
+      title: 'GPU租借',
+      nav: GPULease,
     },
     {
       title: 'MCP',

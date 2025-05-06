@@ -1,0 +1,20 @@
+[
+  {
+    "name": "智灵",
+    "desc": "智灵是专业的云GPU平台，提供GPU加速的ServerLess服务，让开发者轻松使用GPU，让AI技术触手可及。",
+    "url": "https://serverless.datastone.cn/",
+    "icon": "https://serverless.datastone.cn/favicon/apple-touch-icon.png"
+  },
+  {
+    "name": "AutoDL算力云 | 弹性、好用、省钱。租GPU就上AutoDL",
+    "desc": "AutoDL为您提供专业的GPU租用服务，秒级计费、稳定好用，高规格机房，7x24小时服务。更有算法复现社区，一键复现算法。",
+    "url": "https://autodl.com/home",
+    "icon": "https://autodl.com/favicon.png"
+  },
+  {
+    "name": "OneThingAI算力云 - 热门GPU算力平台",
+    "desc": "OneThingAI算力云是一个提供AI算力、GPU服务的算力平台，为开发者、企业打造集AI训练推理、科学计算、图形图像处理、云渲染等一站式、全方位的算力云服务解决方案。",
+    "url": "https://onethingai.com/",
+    "icon": "https://onethingai.com/favicon.ico"
+  }
+]
