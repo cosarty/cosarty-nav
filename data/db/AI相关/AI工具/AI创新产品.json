@@ -58,5 +58,11 @@
     "desc": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
     "url": "https://github.com/JefferyHcool/BiliNote",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Medeo",
+    "desc": "ai视频剪辑",
+    "url": "https://ai.medeo.app/create",
+    "icon": "https://ai.medeo.app/apple-touch-icon.png"
   }
 ]
