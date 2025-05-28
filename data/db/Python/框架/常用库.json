@@ -26,5 +26,11 @@
     "desc": "构建 MCP 服务器和客户端的快速、Python 方式。",
     "url": "https://gofastmcp.com/getting-started/welcome",
     "icon": "https://mintlify.s3-us-west-1.amazonaws.com/fastmcp/_generated/favicon/apple-touch-icon.png?v=3"
+  },
+  {
+    "name": "uWSGI",
+    "desc": "用于开启python的守护进程",
+    "url": "https://uwsgi-docs.readthedocs.io/en/latest/",
+    "icon": "https://uwsgi-docs.readthedocs.io/favicon.ico"
   }
 ]

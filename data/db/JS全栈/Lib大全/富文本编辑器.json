@@ -32,5 +32,23 @@
     "desc": "Monaco 编辑器是VS Code的功能齐全的代码编辑器。查看VS Code 文档以了解一些支持的功能。",
     "url": "https://www.npmjs.com/package/monaco-editor",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "BlockNote",
+    "desc": "一款美观易用的文本编辑器。轻松为您的应用添加用户喜爱的编辑器。您可以使用自定义区块或 AI 工具等功能进行自定义。",
+    "url": "https://www.blocknotejs.org/",
+    "icon": "https://www.blocknotejs.org/img/logos/icon_light_400.png"
+  },
+  {
+    "name": "Editor.js",
+    "desc": "免费的块式编辑器，具有通用 JSON 输出",
+    "url": "https://editorjs.io/",
+    "icon": "https://editorjs.io/favicon.png"
+  },
+  {
+    "name": "platejs",
+    "desc": "一组设计精美、可定制的插件和组件，可帮助您构建富文本编辑器。开源。",
+    "url": "https://platejs.org/cn?locale=cn",
+    "icon": "https://platejs.org/favicon-48x48.png"
   }
 ]

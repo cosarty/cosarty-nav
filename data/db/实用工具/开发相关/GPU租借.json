@@ -16,5 +16,11 @@
     "desc": "OneThingAI算力云是一个提供AI算力、GPU服务的算力平台，为开发者、企业打造集AI训练推理、科学计算、图形图像处理、云渲染等一站式、全方位的算力云服务解决方案。",
     "url": "https://onethingai.com/",
     "icon": "https://onethingai.com/favicon.ico"
+  },
+  {
+    "name": "仙宫云",
+    "desc": "GPU云算力平台，提供GPU算力租用服务，支持多种GPU型号，价格实惠，稳定可靠。",
+    "url": "https://www.xiangongyun.com/",
+    "icon": "https://www.xiangongyun.com/favicon.svg"
   }
 ]
