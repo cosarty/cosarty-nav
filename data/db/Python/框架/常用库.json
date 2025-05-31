@@ -32,5 +32,11 @@
     "desc": "用于开启python的守护进程",
     "url": "https://uwsgi-docs.readthedocs.io/en/latest/",
     "icon": "https://uwsgi-docs.readthedocs.io/favicon.ico"
+  },
+  {
+    "name": "celery",
+    "desc": "Celery是Python开发的简单、灵活可靠的、处理大量消息的分布式任务调度模块",
+    "url": "https://github.com/celery/celery/",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
