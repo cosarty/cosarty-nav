@@ -131,5 +131,24 @@
     "desc": "VisActor ——面向叙事的智能可视化解决方案。",
     "url": "https://www.visactor.com/",
     "icon": "https://lf-dp.bytetos.com/obj/dp-open-internet-cn/visactor-site/bytedance/client/img/favicon.png"
+  },
+  {
+    "name": "copilotkit",
+    "desc": "React UI + 适用于 AI Copilot、AI 聊天机器人和应用内 AI 代理的优雅基础架构。Agentic 的最后一英里",
+    "url": "https://docs.copilotkit.ai/",
+    "icon": "https://docs.copilotkit.ai/icon.png"
+  },
+  {
+    "name": "pake",
+    "desc": "with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用。",
+    "url": "https://github.com/tw93/Pake",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "flowgram",
+    "desc": "插件化构建流程引擎,扣子拖拽面板",
+    "url": "https://flowgram.ai/index.html",
+    "icon": "https://flowgram.ai/logo.png"
   }
+ 
 ]

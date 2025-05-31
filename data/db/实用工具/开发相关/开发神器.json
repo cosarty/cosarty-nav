@@ -279,5 +279,53 @@
     "desc": "揭秘人工智能驱动的知识集成平台 阅读源码神奇",
     "url": "https://deepwiki.org/",
     "icon": "https://deepwiki.org/favicon.ico"
+  },
+  {
+    "name": "lux",
+    "desc": "用 Go 编写的快速简单的视频下载库和 CLI 工具",
+    "url": "https://github.com/iawia002/lux",
+    "icon": "https://avatars.githubusercontent.com/u/9134003?s=48&v=4"
+  },
+  {
+    "name": "Code Inspector",
+    "desc": "点击页面上的 DOM 元素，它能自动打开 IDE 并将光标定位至 DOM 的源代码位置",
+    "url": "https://inspector.fe-dev.cn/",
+    "icon": "https://inspector.fe-dev.cn/logo.svg"
+  },
+  {
+    "name": "PDF24 Tools",
+    "desc": "免费且易于使用的在线PDF工具",
+    "url": "https://tools.pdf24.org/zh/",
+    "icon": "https://tools.pdf24.org/static/img/pdf24.png"
+  },
+  {
+    "name": "File Converter",
+    "desc": "只需单击两次即可转换和压缩所有内容。",
+    "url": "https://file-converter.io/",
+    "icon": "https://file-converter.io/favicon.ico"
+  },
+  {
+    "name": "readmex",
+    "desc": "中文版的deep wiki",
+    "url": "https://readmex.com/",
+    "icon": "https://readmex.com/logo.svg"
+  },
+  {
+    "name": "RustDesk：开源远程桌面与自建服务器解决方案",
+    "desc": "RustDesk提供了一个开源的远程桌面解决方案，具有自托管服务器选项。是安全、私密和可定制的远程访问的完美TeamViewer替代品。探索我们的专业本地许可证。",
+    "url": "https://rustdesk.com/zh/",
+    "icon": "https://rustdesk.com/_astro/favicon.BntUM-vQ.ico"
+  },
+  {
+    "name": "BillionMail",
+    "desc": "开源邮件服务器、邮件订阅与邮件营销解决方案。",
+    "url": "https://www.billionmail.com/zh_CN/",
+    "icon": "https://www.billionmail.com/logo.png"
+  },
+  {
+    "name": "pagespy",
+    "desc": "多功能远程调试工具。像使用谷歌浏览器的控制台一样简单地开始远程调试",
+    "url": "https://pagespy.huolala.cn/#/",
+    "icon": "https://pagespy.huolala.cn/favicon.ico"
   }
 ]

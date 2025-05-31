@@ -38,5 +38,17 @@
     "desc": "Celery是Python开发的简单、灵活可靠的、处理大量消息的分布式任务调度模块",
     "url": "https://github.com/celery/celery/",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "olmocr",
+    "desc": "用于线性化 LLM 数据集/训练的 PDF 的工具包",
+    "url": "https://github.com/allenai/olmocr",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "mcp-use",
+    "desc": "mcp_use 是一个开源库，它使开发人员能够将任何 LLM 连接到任何 MCP 服务器，从而无需依赖闭源或特定于应用程序的客户端即可创建具有工具访问的自定义代理。",
+    "url": "https://mcp-use.io/",
+    "icon": "https://avatars.githubusercontent.com/u/207005519?s=48&v=4"
   }
 ]

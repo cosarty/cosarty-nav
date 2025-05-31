@@ -27,5 +27,11 @@
     "desc": "libmedia 是一个用于在 Web 平台上处理多媒体内容（如音频、视频、字幕）的工具库。",
     "url": "https://zhaohappy.github.io/libmedia/docs/",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Mui Player",
+    "desc": "Mui Player 是一款优秀的 HTML5 网页视频播放器框架，提供全屏播放，播放快进，视频弹幕，解码等最常用的视频播放功能",
+    "url": "https://muiplayer.js.org/zh/",
+    "icon": "https://muiplayer.js.org/favicon.ico"
   }
 ]

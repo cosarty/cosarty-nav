@@ -69,7 +69,12 @@
     "desc": "VueSonner 是一个 Vue 3 的通知组件",
     "url": "https://vue-sonner.robertshaw.id/",
     "icon": "https://vue-sonner.robertshaw.id/vue-sonner.svg"
+  },
+  {
+    "name": "Vue AMap",
+    "desc": "高德地图2.0版本的vue3对应封装。",
+    "url": "https://vue-amap.guyixi.cn/",
+    "icon": "https://vue-amap.guyixi.cn/favicon.ico"
   }
-  
 
 ]
