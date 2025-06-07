@@ -28,5 +28,11 @@
     "desc": "GSAP 是 GreenSock 推出的行业标准 JavaScript 动画库，可让您制作适用于所有主流浏览器的高性能动画。",
     "url": "https://gsap.com/",
     "icon": "https://gsap.com/favicon.ico"
+  },
+  {
+    "name": "rive",
+    "desc": "Rive 集交互式设计工具、全新状态图形格式、轻量级跨平台运行时以及超快的矢量渲染器于一体。这种端到端的流程确保您在 Rive 编辑器中构建的内容与您的应用、游戏和网站中的内容完全一致。",
+    "url": "https://rive.app/docs/getting-started/introduction",
+    "icon": "https://mintlify.s3-us-west-1.amazonaws.com/rive/_generated/favicon/apple-touch-icon.png?v=3"
   }
 ]

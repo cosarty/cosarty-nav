@@ -53,5 +53,11 @@
         "url": "https://github.com/inconshreveable/ngrok"
       }
     ]
+  },
+  {
+    "name": "ChmlFrp",
+    "desc": "ChmlFrp是一款不限流量,免费高速且稳定的端口映射工具.为您提供免费的内网穿透功能。可以用于远程桌面，远程共享，游戏联机等任何需要用到公网IP的地方。",
+    "url": "https://panel.chmlfrp.cn/home",
+    "icon": "https://panel.chmlfrp.cn/favicon.ico"
   }
 ]
