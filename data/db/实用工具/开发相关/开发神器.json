@@ -327,5 +327,11 @@
     "desc": "多功能远程调试工具。像使用谷歌浏览器的控制台一样简单地开始远程调试",
     "url": "https://pagespy.huolala.cn/#/",
     "icon": "https://pagespy.huolala.cn/favicon.ico"
+  },
+  {
+    "name": "servbay",
+    "desc": "下一代开发环境管理工具",
+    "url": "https://www.servbay.com/zh-CN",
+    "icon": "https://www.servbay.com/favicon.ico"
   }
 ]
