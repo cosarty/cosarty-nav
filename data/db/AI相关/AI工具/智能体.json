@@ -52,6 +52,17 @@
     "desc": "使网站可供 AI 代理访问。提取交互元素并自动化浏览器交互。",
     "url": "https://browser-use.com/",
     "icon": "https://browser-use.com/favicon.ico"
+  },
+  {
+    "name": "openmanus",
+    "desc": "用于构建通用 AI 代理的开源框架。",
+    "url": "https://openmanus.github.io/",
+    "icon": "https://openmanus.github.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/FoundationAgents/OpenManus"
+      }
+    ]
   }
-
 ]
