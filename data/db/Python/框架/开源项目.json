@@ -1,0 +1,14 @@
+[
+  {
+    "name": "NarratoAI",
+    "desc": "一站式 AI 影视解说+自动化剪辑工具🎬🎞️",
+    "url": "https://github.com/linyqh/NarratoAI",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MediaCrawler",
+    "desc": "一个功能强大的多平台自媒体数据采集工具，支持小红书、抖音、快手、B站、微博、贴吧、知乎等主流平台的公开信息抓取。",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "icon": "https://github.com/favicon.ico"
+  }
+]
