@@ -333,5 +333,14 @@
     "desc": "下一代开发环境管理工具",
     "url": "https://www.servbay.com/zh-CN",
     "icon": "https://www.servbay.com/favicon.ico"
+  },
+  {
+    "name": "DrawDB",
+    "desc": "免费、开源、简单、直观的数据库设计编辑器、数据建模器和 SQL 生成器。",
+    "url": "https://www.drawdb.app/",
+    "icon": "https://www.drawdb.app/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/drawdb-io/drawdb" }
+    ]
   }
 ]
