@@ -28,5 +28,11 @@
     "desc": "OpenAI 接口聚合管理，支持多种渠道包括 OpenAI,Azure,Claude,Midjourney,Suno,Luma,Runway,Kling,Gemini,Flux,Udio 可用于二次分发管理 key",
     "url": "https://api.deerapi.com/pricing",
     "icon": "https://www.deerapi.com/wp-content/uploads/2024/03/deerapi_logo.png"
+  },
+  {
+    "name": "OpenRouter",
+    "desc": "The unified interface for LLMs. Find the best models & prices for your prompts",
+    "url": "https://openrouter.ai/",
+    "icon": "https://openrouter.ai/favicon.ico"
   }
 ]

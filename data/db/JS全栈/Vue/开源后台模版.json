@@ -34,5 +34,14 @@
     "desc": "一款 风格百变的 管理系统框架",
     "url": "https://fantastic-admin.hurui.me/",
     "icon": "https://fantastic-admin.hurui.me/favicon.svg"
+  },
+  {
+    "name": "LX Music",
+    "desc": "一个免费&开源的音乐查找工具",
+    "url": "https://lxmusic.toside.cn/",
+    "icon": "https://lxmusic.toside.cn/img/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/lyswhut/lx-music-desktop" }
+    ]
   }
 ]
