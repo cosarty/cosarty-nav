@@ -4,5 +4,17 @@
     "desc": "下一代开发平台 - 轻松构建和运行生成式 AI 应用程序。基于任何 LLM 创建助手 API 和 GPT。",
     "url": "https://dify.ai/",
     "icon": "https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png"
+  },
+  {
+    "name": "n8n",
+    "desc": "n8n 是一个工作流自动化平台，它独特地将人工智能功能与业务流程自动化相结合，为技术团队提供了代码的灵活性和无代码的速度。",
+    "url": "https://n8n.io",
+    "icon": "https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-prod/assets/social_proof_2_14745833f3.svg"
+  },
+  {
+    "name": "n8n-workflows",
+    "desc": "2,053 个 n8n 工作流程的专业组织集合，具有闪电般快速的文档系统，可提供即时搜索、分析和浏览功能。",
+    "url": "https://github.com/Zie619/n8n-workflows",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

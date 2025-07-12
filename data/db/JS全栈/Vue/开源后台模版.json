@@ -43,5 +43,14 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/lyswhut/lx-music-desktop" }
     ]
+  },
+  {
+    "name": "motrix",
+    "desc": "A full-featured download manager.",
+    "url": "https://motrix.app/",
+    "icon": "http://s.motrix.app/images/app-icon-square@2x.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/agalwood/Motrix/" }
+    ]
   }
 ]

@@ -40,5 +40,11 @@
     "desc": "为设计师 & 开发者，打造工作美学",
     "url": "https://tdesign.tencent.com/",
     "icon": "https://static.tdesign.tencent.com/favicon.ico"
+  },
+  {
+    "name": "vtable",
+    "desc": "不只是高性能的多维数据分析表格，更是行列间创作的方格艺术家。VTable 是基于Canvas 开发的高性能多维分析表格组件。相对于传统DOM表格组件，VTable 主要解决的是大量数据情况下的渲染和交互性能问题，百万级数据纵享丝滑。重点面向多维数据展现场景提供数据运算与可视化能力，比如透视分析、树形展现。",
+    "url": "https://visactor.io/vtable",
+    "icon": "https://lf-dp.bytetos.com/obj/dp-open-internet-cn/visactor-site/bytedance/client/img/favicon.png"
   }
 ]

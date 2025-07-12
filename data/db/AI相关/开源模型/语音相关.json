@@ -82,5 +82,17 @@
     "desc": "MOSS-TTSD（文本转口语对话）是一个开源的双语口语对话合成模型，支持中文和英文。它能够将两位说话者之间的对话脚本转换为自然、富有表现力的对话语音。MOSS-TTSD 支持语音克隆和长单段语音生成，使其成为 AI 播客制作的理想选择。有关该模型和演示的详细信息，",
     "url": "https://github.com/OpenMOSS/MOSS-TTSD",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "GPT-SoVITS",
+    "desc": "强大的少样本语音转换与语音合成Web用户界面。",
+    "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "一个基于VITS的简单易用的变声框架",
+    "desc": "SoVits-SVC-4.0 是一个开源的语音转换模型，支持多种语言和声音。",
+    "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
