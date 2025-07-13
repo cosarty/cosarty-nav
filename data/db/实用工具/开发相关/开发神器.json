@@ -354,5 +354,11 @@
     "desc": "免费的在线图片与 PDF 处理工具",
     "url": "https://docsmall.com/",
     "icon": "https://docsmall.com/favicon.png"
+  },
+  {
+    "name": "whodb",
+    "desc": "WhoDB 是下一代数据库浏览器",
+    "url": "https://whodb.com/",
+    "icon": "https://whodb.com/images/logo.png"
   }
 ]
