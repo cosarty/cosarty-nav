@@ -64,5 +64,11 @@
     "desc": "ai视频剪辑",
     "url": "https://ai.medeo.app/create",
     "icon": "https://ai.medeo.app/apple-touch-icon.png"
+  },
+  {
+    "name": "Lite LLM",
+    "desc": "LLM 网关（OpenAI 代理）用于管理 100 多个 LLM 的身份验证、负载均衡和支出跟踪。全部采用 OpenAI 格式。",
+    "url": "https://www.litellm.ai/",
+    "icon": "🚅"
   }
 ]
