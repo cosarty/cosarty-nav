@@ -28,5 +28,11 @@
     "desc": "Fabric.js 是一个用于创建交互式 2D 画布的 JavaScript拖拽库。",
     "url": "https://fabricjs.com/",
     "icon": "https://fabricjs.com/favicon.ico"
+  },
+  {
+    "name": "fusejs",
+    "desc": "强大、轻量级的模糊搜索库，零依赖性 。",
+    "url": "https://www.fusejs.io/",
+    "icon": "https://www.fusejs.io/assets/img/logo.png"
   }
 ]
