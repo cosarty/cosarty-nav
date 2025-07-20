@@ -370,5 +370,11 @@
     "desc": "javascript OCR 识别图片中的文字",
     "url": "https://tesseract.projectnaptha.com/",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "snapdom",
+    "desc": "snapDOM 以极快的速度和准确性将 HTML 元素捕获为图像。",
+    "url": "https://github.com/zumerlab/snapdom",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

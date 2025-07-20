@@ -36,7 +36,7 @@
   },
   {
     "name": "tsdown",
-    "desc": "优雅的静态站点生成工具",
+    "desc": "优雅的库打包工具",
     "url": "https://tsdown.dev/zh-CN/",
     "icon": "https://tsdown.dev/tsdown.svg"
   }

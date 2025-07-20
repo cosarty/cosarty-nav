@@ -70,5 +70,38 @@
     "desc": "LLM 网关（OpenAI 代理）用于管理 100 多个 LLM 的身份验证、负载均衡和支出跟踪。全部采用 OpenAI 格式。",
     "url": "https://www.litellm.ai/",
     "icon": "🚅"
+  },
+  {
+    "name": "gemini-balance",
+    "desc": "Gemini API 代理和负载均衡器",
+    "url": "https://github.com/snailyp/gemini-balance",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "klic suidio",
+    "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "url": "https://www.klic.studio/?utm_source=ai-bot.cn",
+    "icon": "https://www.klic.studio/logo.svg",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/krillinai/KlicStudio" }
+    ]
+  },
+  {
+    "name": "skyreels",
+    "desc": "无限长度影片生成模型",
+    "url": "https://www.skyreels.ai/home",
+    "icon": "https://www.skyreels.ai/home/favicon_0217.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/SkyworkAI/SkyReels-V2" }
+    ]
+  },
+  {
+    "name": "mem0",
+    "desc": "Mem0 是适用于 LLM 应用程序的通用、自我改进的内存层，可提供个性化的 AI 体验，从而降低成本并增强用户满意度。",
+    "url": "https://mem0.ai/",
+    "icon": "https://framerusercontent.com/images/evsVwEvZsWf4QuiXtNEqwqTVw.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/mem0ai/mem0" }
+    ]
   }
 ]

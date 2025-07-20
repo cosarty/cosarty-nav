@@ -16,5 +16,11 @@
     "desc": "pyfuze 将您的 Python 项目打包成一个可执行文件。",
     "url": "https://github.com/TanixLu/pyfuze",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MonkeyOCR",
+    "desc": "基于 LMM 的轻量级文档解析模型。",
+    "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -63,5 +63,17 @@
     "desc": "使用 Vue 和 Nuxt 开源组件轻松构建令人惊叹的动画界面。",
     "url": "https://inspira-ui.com/",
     "icon": "https://inspira-ui.com/logo.svg"
+  },
+  {
+    "name": "vue bits",
+    "desc": "一个开源的动画、交互式和完全可定制的 Vue 组件集合，用于构建令人惊叹、令人难忘的网站。",
+    "url": "https://vue-bits.dev/",
+    "icon": "https://vue-bits.dev/favicon.ico"
+  },
+  {
+    "name": "tresjs",
+    "desc": "使用 Vue 创造出色的 3D 体验。",
+    "url": "https://tresjs.org/",
+    "icon": "https://tresjs.org/favicon.svg"
   }
 ]

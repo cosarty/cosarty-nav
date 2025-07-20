@@ -94,5 +94,17 @@
     "desc": "SoVits-SVC-4.0 是一个开源的语音转换模型，支持多种语言和声音。",
     "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "FunASR",
+    "desc": "unASR是一个基础语音识别工具包，提供多种功能，包括语音识别（ASR）、语音端点检测（VAD）、标点恢复、语言模型、说话人验证、说话人分离和多人对话语音识别等。FunASR提供了便捷的脚本和教程，支持预训练好的模型的推理与微调。",
+    "url": "https://github.com/modelscope/FunASR",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "seed-vc",
+    "desc": "零样本语音转换和歌声转换，并支持实时转换。",
+    "url": "https://github.com/Plachtaa/seed-vc",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

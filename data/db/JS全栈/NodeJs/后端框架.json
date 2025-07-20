@@ -34,5 +34,11 @@
     "desc": "下一代服务器工具包",
     "url": "https://nitro.build/",
     "icon": "https://nitro.build/icon.svg"
+  },
+  {
+    "name": "elysia",
+    "desc": "人体工程学框架。",
+    "url": "https://elysiajs.com/",
+    "icon": "https://elysiajs.com/assets/elysia.png"
   }
 ]

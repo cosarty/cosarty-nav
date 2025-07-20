@@ -1,0 +1,21 @@
+[
+  {
+    "name": "BiliTools",
+    "desc": "哔哩哔哩工具箱，支持下载视频、番剧等等各类资源",
+    "url": "https://github.com/btjawa/BiliTools",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "drawnix",
+    "desc": "开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。",
+    "url": "https://drawnix.com/",
+    "icon": "https://drawnix.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/plait-board/drawnix"
+      }
+    ]
+  }
+ 
+]

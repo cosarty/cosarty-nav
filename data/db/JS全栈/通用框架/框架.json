@@ -149,6 +149,12 @@
     "desc": "插件化构建流程引擎,扣子拖拽面板",
     "url": "https://flowgram.ai/index.html",
     "icon": "https://flowgram.ai/logo.png"
+  },
+  {
+    "name": "nocodb",
+    "desc": "NocoDB 是在线构建数据库最快捷、最简单的方法。",
+    "url": "https://github.com/nocodb/nocodb",
+    "icon": "https://cdn.nocodb.com/marketing-site/20250718152755/images/favicon.png"
   }
  
 ]

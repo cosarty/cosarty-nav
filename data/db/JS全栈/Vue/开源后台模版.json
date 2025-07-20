@@ -52,5 +52,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/agalwood/Motrix/" }
     ]
+  },
+  {
+    "name": "LumenIM",
+    "desc": "Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。",
+    "url": "https://github.com/gzydong/LumenIM?tab=readme-ov-file",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
