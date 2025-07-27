@@ -106,5 +106,17 @@
     "desc": "零样本语音转换和歌声转换，并支持实时转换。",
     "url": "https://github.com/Plachtaa/seed-vc",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ZipVoice",
+    "desc": "利用流匹配实现快速、高质量的零样本文本转语音。",
+    "url": "https://github.com/k2-fsa/ZipVoice",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "delayed-streams-modeling",
+    "desc": "Kyutai 的语音转文本和文本转语音模型基于延迟流建模框架。",
+    "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
