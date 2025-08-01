@@ -118,5 +118,11 @@
     "desc": "Kyutai 的语音转文本和文本转语音模型基于延迟流建模框架。",
     "url": "https://github.com/kyutai-labs/delayed-streams-modeling",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ChatTTS",
+    "desc": "用于日常对话的生成语音模型。",
+    "url": "https://github.com/2noise/ChatTTS",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

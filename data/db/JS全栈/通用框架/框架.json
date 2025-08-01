@@ -155,6 +155,17 @@
     "desc": "NocoDB 是在线构建数据库最快捷、最简单的方法。",
     "url": "https://github.com/nocodb/nocodb",
     "icon": "https://cdn.nocodb.com/marketing-site/20250718152755/images/favicon.png"
+  },
+  {
+    "name": "CoAI",
+    "desc": "AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+    "url": "https://www.coai.dev/",
+    "icon": "https://www.coai.dev/_next/image?url=%2Flogo.webp&w=64&q=75",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/coaidev/coai"
+      }
+    ]
   }
- 
 ]

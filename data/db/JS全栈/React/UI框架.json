@@ -87,5 +87,29 @@
     "desc": "无论您的设计经验如何，都可以制作漂亮的网站。",
     "url": "https://www.heroui.com/",
     "icon": "https://www.heroui.com/favicon.ico"
+  },
+  {
+    "name": "Chat SDK",
+    "desc": "Chat SDK 是一个免费的开源模板，可帮助您直接构建强大的聊天机器人应用程序。",
+    "url": "https://chat-sdk.dev/",
+    "icon": "https://chat-sdk.dev/favicon.ico"
+  },
+  {
+    "name": "Agent Chat UI",
+    "desc": "🦜💬 通过聊天界面与任何 LangGraph 代理（PY 和 TS）交互的 Web 应用程序。",
+    "url": "https://github.com/langchain-ai/agent-chat-ui",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "LobeHub UI",
+    "desc": "Lobe UI 是一个开源 UI 组件库用于构建 AIGC Web 应用程序",
+    "url": "https://ui.lobehub.com/",
+    "icon": "https://lobehub.com/favicon.ico"
+  },
+  {
+    "name": "LobeChat",
+    "desc": "Lobe Chat - 一个开源、现代设计的 AI 聊天框架。支持多种 AI 提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传 / RAG）、一键安装 MCP Marketplace 和 Artifacts / Thinking。一键免费部署您的私人 AI Agent 应用程序。",
+    "url": "https://lobechat.com/chat",
+    "icon": "https://lobechat.com/favicon.ico"
   }
 ]
