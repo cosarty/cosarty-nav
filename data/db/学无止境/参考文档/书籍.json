@@ -9,5 +9,11 @@
     "breadcrumb": ["学无止境", "参考文档", "书籍"],
     "id": 163,
     "tags": []
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "System Design Primer",
+    "desc": "学习如何设计大型系统。准备系统设计面试。包含 Anki 抽认卡。",
+    "url": "https://github.com/donnemartin/system-design-primer"
   }
 ]

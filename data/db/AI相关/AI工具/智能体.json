@@ -64,5 +64,23 @@
         "url": "https://github.com/FoundationAgents/OpenManus"
       }
     ]
+  },
+  {
+    "name": "Coze Studio",
+    "desc": "一个集成一体化可视化工具的 AI 代理开发平台，前所未有地简化了代理的创建、调试和部署。轻松创建 AI 代理。",
+    "url": "https://github.com/coze-dev/coze-studio",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "JoyAgent-JDGenie",
+    "desc": "业界首个开源高完成度轻量化通用多智能体产品(JoyAgent-JDGenie)",
+    "url": "https://github.com/jd-opensource/joyagent-jdgenie",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MaxKB",
+    "desc": "MaxKB 是强大易用的开源企业级智能体平台，致力于解决企业 AI 落地面临的技术门槛高、部署成本高、迭代周期长等问题，助力企业在人工智能时代赢得先机。",
+    "url": "https://github.com/1Panel-dev/MaxKB",
+    "icon": "https://maxkb.cn/images/favicon.png"
   }
 ]

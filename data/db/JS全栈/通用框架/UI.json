@@ -52,5 +52,11 @@
     "desc": "中后台「表单/表格/图表/流程编排」开箱即用解决方案。",
     "url": "https://xrender.fun/",
     "icon": "https://img.alicdn.com/tfs/TB17UtINiLaK1RjSZFxXXamPFXa-606-643.png"
+  },
+  {
+    "name": "uiverse",
+    "desc": "最大的开源 UI 库",
+    "url": "https://uiverse.io/",
+    "icon": "https://uiverse.io/favicon.ico"
   }
 ]

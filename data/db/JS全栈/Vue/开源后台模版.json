@@ -58,5 +58,11 @@
     "desc": "Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。",
     "url": "https://github.com/gzydong/LumenIM?tab=readme-ov-file",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Vue-Naive-Admin",
+    "desc": "⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。",
+    "url": "https://github.com/zclzone/vue-naive-admin",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
