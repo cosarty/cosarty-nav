@@ -16,6 +16,12 @@
     "desc": "JS代码规范",
     "url": "https://standardjs.com/readme-zhcn.html",
     "icon": "https://standardjs.com/apple-touch-icon-57x57.png"
+  },
+  {
+    "name": "iCSS",
+    "desc": "CSS 奇技淫巧，在这里，都有。",
+    "url": "https://github.com/chokcoco/iCSS",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
 
