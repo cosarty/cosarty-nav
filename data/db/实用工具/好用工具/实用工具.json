@@ -5,6 +5,20 @@
     "desc": "免费AI Logo生成器 – 几分钟内定制专属Logo",
     "url": "https://slea.ai/zh-CN",
     "icon": "https://slea.ai/favicon.ico"
-    }
+  },
+  {
+    "name": "食用手册表",
+    "desc": "食用手册表",
+    "url": "https://cook.yunyoujun.cn/",
+    "icon": "https://cook.yunyoujun.cn/favicon.svg"
+  },
+  {
+    "name": "email tick",
+    "desc": "免费注册一个临时的谷歌邮箱",
+    "url":"https://www.emailtick.com/",
+    "icon":"https://www.emailtick.com/favicon.ico"
+  }
+
+
  
 ]

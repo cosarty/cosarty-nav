@@ -62,5 +62,17 @@
     "desc": "Notion 和 Miro 之外，还有更多选择。AFFiNE是新一代知识库，集规划、分类和创作于一体。隐私优先、开源、可定制且随时可用。",
     "url": "https://affine.pro/",
     "icon": "https://affine.pro/favicon.ico"
+  },
+  {
+    "name": "TinyEditor",
+    "desc": "TinyEditor 是一个基于 Quill 2.0 的富文本编辑器，在 Quill 基础上扩展了丰富的模块和格式，功能强大、开箱即用。",
+    "url": "https://opentiny.github.io/tiny-editor/",
+    "icon": "https://opentiny.github.io/tiny-editor/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/opentiny/tiny-editor"
+      }
+    ]
   }
 ]

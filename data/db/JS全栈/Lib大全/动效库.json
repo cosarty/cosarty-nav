@@ -63,5 +63,11 @@
     "desc": "探索 Cssbuttons.io，获取超过 100 种独特按钮样式的多样化集合。获取所需的代码，使用时尚、实用的按钮增强您的 Web 项目。轻松、富有创意地提升您的设计！",
     "url": "https://cssbuttons.io/",
     "icon": "https://cssbuttons.io/favicon-32x32.png"
+  },
+  {
+    "name": "barba",
+    "desc": "创造流畅、平滑的过渡。在您网站的页面之间。",
+    "url": "https://barba.js.org/",
+    "icon": "https://barba.js.org/favicon.ico"
   }
 ]

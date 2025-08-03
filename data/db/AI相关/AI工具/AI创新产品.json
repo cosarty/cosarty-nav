@@ -82,26 +82,41 @@
     "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
     "url": "https://www.klic.studio/?utm_source=ai-bot.cn",
     "icon": "https://www.klic.studio/logo.svg",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/krillinai/KlicStudio" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/krillinai/KlicStudio" }]
   },
   {
     "name": "skyreels",
     "desc": "无限长度影片生成模型",
     "url": "https://www.skyreels.ai/home",
     "icon": "https://www.skyreels.ai/home/favicon_0217.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/SkyworkAI/SkyReels-V2" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/SkyworkAI/SkyReels-V2" }]
   },
   {
     "name": "mem0",
     "desc": "Mem0 是适用于 LLM 应用程序的通用、自我改进的内存层，可提供个性化的 AI 体验，从而降低成本并增强用户满意度。",
     "url": "https://mem0.ai/",
     "icon": "https://framerusercontent.com/images/evsVwEvZsWf4QuiXtNEqwqTVw.png",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/mem0ai/mem0" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/mem0ai/mem0" }]
+  },
+  {
+    "name": "Ruoyi AI",
+    "desc": "快速搭建属于自己的 AI 助手平台。",
+    "url": "https://doc.pandarobot.chat/",
+    "icon": "https://doc.pandarobot.chat/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/ageerle/ruoyi-ai" }]
+  },
+  {
+    "name": "awesome-llm-apps",
+    "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
+    "url": "https://www.theunwindai.com/",
+    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
+    "tags": [{ "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }]
+  },
+  {
+    "name": "CapCutAPI",
+    "desc": "轻量、灵活、易上手的剪映/CapCutAPI工具，构建全自动化视频剪辑/混剪流水线。",
+    "url": "https://www.capcutapi.top/zh-Hans/",
+    "icon": "https://www.capcutapi.top/zh-Hans/img/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/sun-guannan/CapCutAPI" }]
   }
 ]

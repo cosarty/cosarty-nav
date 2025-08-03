@@ -75,6 +75,12 @@
     "desc": "高德地图2.0版本的vue3对应封装。",
     "url": "https://vue-amap.guyixi.cn/",
     "icon": "https://vue-amap.guyixi.cn/favicon.ico"
+  },
+  {
+    "name": "vueform",
+    "desc": "Vue 的开源表单框架",
+    "url": "https://vueform.com/",
+    "icon": "https://vueform.com//favicon.ico"
   }
 
 ]

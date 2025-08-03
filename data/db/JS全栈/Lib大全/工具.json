@@ -376,5 +376,78 @@
     "desc": "snapDOM 以极快的速度和准确性将 HTML 元素捕获为图像。",
     "url": "https://github.com/zumerlab/snapdom",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "kkview",
+    "desc": "kkFileView为文件文档在线预览解决方案，该项目使用流行的spring boot搭建，易上手和部署，基本支持主流办公文档的在线预览，如doc,docx,xls,xlsx,ppt,pptx,pdf,txt,zip,rar,图片,视频,音频等等",
+    "url": "https://kkview.cn/zh-cn/index.html",
+    "icon": "https://kkview.cn/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/kekingcn/kkFileView"
+      }
+    ]
+  },
+  {
+    "name": "fabricjs",
+    "desc": "Javascript Canvas 库，SVG-to-Canvas（& canvas-to-SVG）解析器。",
+    "url": "https://fabricjs.com/",
+    "icon": "https://fabricjs.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/fabricjs/fabric.js"
+      }
+    ]
+  },
+  {
+    "name": "interactjs",
+    "desc": "JavaScript 拖放、调整大小和具有惯性和捕捉功能的多点触控手势，适用于现代浏览器（以及 IE9+）。",
+    "url": "https://interactjs.io/",
+    "icon": "https://interactjs.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "http://github.com/taye/interact.js"
+      }
+    ]
+  },
+  {
+    "name": "tone js",
+    "desc": "Tone.js 是一个用于在浏览器中创建交互式音乐的 Web 音频框架。Tone.js 的架构旨在让创建 Web 音频应用程序的音乐家和音频程序员都感到熟悉。从高层来看，Tone 提供了常见的 DAW（数字音频工作站）功能，例如用于同步和调度事件的全局传输，以及预置的合成器和效果器。此外，Tone 还提供高性能构建块，供您创建自己的合成器、效果器和复杂的控制信号。",
+    "url": "https://tonejs.github.io/",
+    "icon": "https://tonejs.github.io/assets/images/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Tonejs/Tone.js"
+      }
+    ]
+  },
+  {
+    "name": "fuse",
+    "desc": "JavaScript 中的轻量级模糊搜索",
+    "url": "https://www.fusejs.io/",
+    "icon": "https://www.fusejs.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/krisk/fuse"
+      }
+    ]
+  },
+  {
+    "name": "fullcalendar",
+    "desc": "JavaScript 中的全尺寸拖放事件日历",
+    "url": "https://fullcalendar.io/",
+    "icon": "https://fullcalendar.io/favicon-32x32.png?v=63734d4d33b09dc30c8e6c8f0ff38e19",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/fullcalendar/fullcalendar"
+      }
+    ]
   }
+
 ]

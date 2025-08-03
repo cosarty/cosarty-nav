@@ -16,6 +16,17 @@
         "url": "https://github.com/plait-board/drawnix"
       }
     ]
+  },
+  {
+    "name": "1pane",
+    "desc": "1Panel 提供了一个直观的 Web 界面，帮助用户轻松管理 Linux 服务器中的应用、网站、文件、数据库以及大语言模型（LLMs）等。",
+    "url": "https://1panel.cn/",
+    "icon": "https://1panel.cn/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/1Panel-dev/1Panel"
+      }
+    ]
   }
- 
 ]

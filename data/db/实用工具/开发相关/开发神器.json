@@ -360,5 +360,29 @@
     "desc": "WhoDB 是下一代数据库浏览器",
     "url": "https://whodb.com/",
     "icon": "https://whodb.com/images/logo.png"
+  },
+  {
+    "name": "it-tools",
+    "desc": "为开发人员提供便捷的在线工具集合，具有出色的用户体验。",
+    "url": "https://it-tools.tech/",
+    "icon": "https://it-tools.tech/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/CorentinTh/it-tools"
+      }
+    ]
+  },
+  {
+    "name": "flexbox-labs",
+    "desc": "一个利用 CSS Flexbox 的强大功能创建灵活布局的网络应用程。",
+    "url": "https://flexboxlabs.netlify.app/",
+    "icon": "https://flexboxlabs.netlify.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/prazzon/flexbox-labs"
+      }
+    ]
   }
 ]
