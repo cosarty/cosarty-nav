@@ -76,5 +76,11 @@
     "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "langroid",
+    "desc": "Langroid 是一个直观、轻量、可扩展且原则性的 来自 CMU 和 UW-Madison 研究人员的 Python 框架可轻松构建 LLM 驱动的应用程序。 你设置代理，为他们配备可选组件（LLM， 矢量存储和工具/功能），给他们分配任务，并让他们 通过交换信息协作解决问题。 这种多智能体范式的灵感来自于 Actor 框架 （但您不需要知道任何有关这方面的信息！）。",
+    "url": "https://github.com/langroid/langroid",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
