@@ -384,5 +384,23 @@
         "url": "https://github.com/prazzon/flexbox-labs"
       }
     ]
+  },
+  {
+    "name": "zread ai",
+    "desc": "开源项目阅读工具",
+    "url": "https://zread.ai/",
+    "icon": "https://zread.ai/favicon.ico"
+  },
+  {
+    "name": "public api",
+    "desc": "公开的 API 接口",
+    "url": "https://apilayer.com/",
+    "icon": "https://apilayer.com/assets/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/public-apis/public-apis"
+      }
+    ]
   }
 ]

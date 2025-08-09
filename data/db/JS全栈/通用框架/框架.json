@@ -167,5 +167,17 @@
         "url": "https://github.com/coaidev/coai"
       }
     ]
+  },
+  {
+    "name": "umodoc",
+    "desc": "基于 Vue3 和 TipTap 的本土化开源文档编辑器。",
+    "url": "https://www.umodoc.com/",
+    "icon": "https://www.umodoc.com/images/logo.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/umodoc/editor"
+      }
+    ]
   }
 ]

@@ -7,6 +7,8 @@ import AIAgent from './智能体.json'
 import KnowledgeBase from './知识库.json'
 import Workflow from './工作流.json'
 import Material from './资料.json'
+import ModelDownloader from './模型下载器.json'
+
 export default {
   title: 'AI工具',
   nav: [
@@ -17,6 +19,10 @@ export default {
     {
       title: '智能体',
       nav: AIAgent,
+    },
+    {
+      title: '模型下载器',
+      nav: ModelDownloader,
     },
     {
       title: '工作流',

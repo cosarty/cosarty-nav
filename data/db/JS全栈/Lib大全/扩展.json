@@ -34,5 +34,11 @@
     "desc": "强大、轻量级的模糊搜索库，零依赖性 。",
     "url": "https://www.fusejs.io/",
     "icon": "https://www.fusejs.io/assets/img/logo.png"
+  },
+  {
+    "name": "es-toolkit",
+    "desc": "最先进的JavaScript工具库。",
+    "url": "https://es-toolkit.dev/zh_hans/",
+    "icon": "https://es-toolkit.dev/favicon-100x100.png"
   }
 ]

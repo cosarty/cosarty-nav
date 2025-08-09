@@ -34,5 +34,17 @@
         "url": "https://github.com/cocoindex-io/cocoindex"
       }
     ]
+  },
+  {
+    "name": "outline",
+    "desc": "文档杂乱无章，不知所措？总搞不清谁有权访问？同事在聊天中反复请求相同的信息？是时候整理团队的知识了。",
+    "url": "https://www.getoutline.com/",
+    "icon": "https://www.getoutline.com/favicon.png",
+    "tags": [
+      {
+        "id": "-3", 
+        "url": "https://github.com/outline/outline"
+      }
+    ]
   }
 ]

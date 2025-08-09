@@ -110,7 +110,9 @@
     "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
     "url": "https://www.theunwindai.com/",
     "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
-    "tags": [{ "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }]
+    "tags": [
+      { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
+    ]
   },
   {
     "name": "CapCutAPI",
@@ -118,5 +120,26 @@
     "url": "https://www.capcutapi.top/zh-Hans/",
     "icon": "https://www.capcutapi.top/zh-Hans/img/favicon.ico",
     "tags": [{ "id": "-3", "url": "https://github.com/sun-guannan/CapCutAPI" }]
+  },
+  {
+    "name": "awesome-ai-agents",
+    "desc": "AI 自主代理列表",
+    "url": "https://e2b.dev/docs",
+    "icon": "https://e2b.dev/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/e2b-dev/awesome-ai-agents" }
+    ]
+  },
+  {
+    "name": "lmarena",
+    "desc": "ai 模型评估平台",
+    "url": "https://lmarena.ai/?mode=direct",
+    "icon": "https://lmarena.ai/images/favicon-dark.ico?v=1"
+  },
+  {
+    "name": "minimaxi",
+    "desc": "MiniMax是国内领先的拥有文本、语音、视觉三模态融合的千亿参数语言大模型，并打通产品全链路的创业公司。通过搭建超大规模实验平台与推理平台，跑通技术与产品的迭代闭环，实现模型能力与用户交互量的极速增长。",
+    "url": "https://agent.minimaxi.com/",
+    "icon": "https://agent.minimaxi.com/favicon.ico"
   }
 ]

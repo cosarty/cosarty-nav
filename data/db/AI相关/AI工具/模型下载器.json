@@ -1,0 +1,14 @@
+[
+  {
+    "name": "lmstudio",
+    "desc": "下载并运行模型在您的计算机上。",
+    "url": "https://lmstudio.ai/",
+    "icon": "https://lmstudio.ai/favicon.ico"
+  },
+  {
+    "name": "ollama",
+    "desc": "ollama 是一个用于运行和管理 LLM 模型的工具。",
+    "url": "https://ollama.ai/",
+    "icon": "https://ollama.ai/favicon.ico"
+  }
+]
