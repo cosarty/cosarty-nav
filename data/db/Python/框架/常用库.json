@@ -50,5 +50,17 @@
     "desc": "mcp_use 是一个开源库，它使开发人员能够将任何 LLM 连接到任何 MCP 服务器，从而无需依赖闭源或特定于应用程序的客户端即可创建具有工具访问的自定义代理。",
     "url": "https://mcp-use.io/",
     "icon": "https://avatars.githubusercontent.com/u/207005519?s=48&v=4"
+  },
+  {
+    "name": "fastapi_mcp",
+    "desc": "使用 Auth 将您的 FastAPI 端点公开为模型上下文协议 (MCP) 工具！。",
+    "url": "https://github.com/tadata-org/fastapi_mcp",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "full-stack-fastapi-template",
+    "desc": "全栈、现代 Web 应用程序模板。使用 FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub Actions、自动 HTTPS 等。",
+    "url": "https://github.com/fastapi/full-stack-fastapi-template",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
