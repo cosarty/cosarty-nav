@@ -141,5 +141,17 @@
     "desc": "MiniMax是国内领先的拥有文本、语音、视觉三模态融合的千亿参数语言大模型，并打通产品全链路的创业公司。通过搭建超大规模实验平台与推理平台，跑通技术与产品的迭代闭环，实现模型能力与用户交互量的极速增长。",
     "url": "https://agent.minimaxi.com/",
     "icon": "https://agent.minimaxi.com/favicon.ico"
+  },
+  {
+    "name": "speaker",
+    "desc": "Speakr 是一款个人自托管的 Web 应用程序，专为转录录音而设计",
+    "url": "https://github.com/murtaza-nasir/speakr/",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Open Avatar Chat",
+    "desc": "模块化的交互数字人对话实现，能够在单台PC上运行完整功能。",
+    "url": "https://github.com/HumanAIGC-Engineering/OpenAvatarChat",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
