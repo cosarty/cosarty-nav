@@ -22,5 +22,11 @@
     "desc": "小型渐进式客户端 HTTP 请求库，与 Node.js 模块具有相同的 API，支持许多高级 HTTP 客户端功能",
     "url": "https://www.npmjs.com/package/superagent",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "alova",
+    "desc": "alova完美兼容你最喜欢的HTTP client和UI框架，快速开发客户端和服务的应用的业务逻辑，同时让API信息与代码进行交互，像虫洞一样拉近后端协作距离，极致高效地集成你的APIs",
+    "url": "https://alova.js.org/zh-CN/",
+    "icon": "https://alova.js.org/zh-CN/img/favicon.ico"
   }
 ]
