@@ -153,5 +153,17 @@
     "desc": "模块化的交互数字人对话实现，能够在单台PC上运行完整功能。",
     "url": "https://github.com/HumanAIGC-Engineering/OpenAvatarChat",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "xiaozhi-esp32",
+    "desc": "一个基于 MCP 的聊天机器人",
+    "url": "https://github.com/78/xiaozhi-esp32",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "小智后端服务xiaozhi-esp32-server",
+    "desc": "本项目基于人机共生智能理论和技术研发智能终端软硬件体系为开源智能硬件项目 xiaozhi-esp32提供后端服务",
+    "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
