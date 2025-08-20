@@ -165,5 +165,11 @@
     "desc": "本项目基于人机共生智能理论和技术研发智能终端软硬件体系为开源智能硬件项目 xiaozhi-esp32提供后端服务",
     "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "雪梨表单",
+    "desc": "专属的调研，投票、NPS、报名等系统",
+    "url": "https://form.antdv.com/home",
+    "icon": "https://aliyuncdn.antdv.com/form/static/favicon.svg"
   }
 ]
