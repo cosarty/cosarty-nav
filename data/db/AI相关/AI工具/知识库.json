@@ -46,5 +46,17 @@
         "url": "https://github.com/outline/outline"
       }
     ]
+  },
+  {
+    "name": "pandawiki",
+    "desc": "PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。",
+    "url": "https://pandawiki.docs.baizhi.cloud/welcome",
+    "icon": "https://pandawiki.docs.baizhi.cloud/static-file/5ea0f2a0-6c45-4845-93dd-37b8a02b4953/49bcf530-39ca-4970-bfbe-dd16a9fd3a0a.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/chaitin/PandaWiki"
+      }
+    ]
   }
 ]

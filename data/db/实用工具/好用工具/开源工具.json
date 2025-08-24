@@ -37,7 +37,7 @@
     "tags": [
       {
         "id": "-3",
-        "url": "https://github.com/tldr-pages/tldr" 
+        "url": "https://github.com/tldr-pages/tldr"
       }
     ]
   },
@@ -50,6 +50,30 @@
       {
         "id": "-3",
         "url": "https://github.com/dataease/SQLBot"
+      }
+    ]
+  },
+  {
+    "name": "pansou",
+    "desc": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。",
+    "url": "https://so.252035.xyz/",
+    "icon": "https://so.252035.xyz/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/fish2018/pansou"
+      }
+    ]
+  },
+  {
+    "name": "revezone",
+    "desc": "一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。",
+    "url": "https://revezone.com/index.html",
+    "icon": "https://revezone.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/revezone/revezone"
       }
     ]
   }

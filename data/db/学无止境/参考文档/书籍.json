@@ -15,5 +15,11 @@
     "name": "System Design Primer",
     "desc": "学习如何设计大型系统。准备系统设计面试。包含 Anki 抽认卡。",
     "url": "https://github.com/donnemartin/system-design-primer"
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "一人企业方法论",
+    "desc": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
+    "url": "https://github.com/easychen/one-person-businesses-methodology-v2.0"
   }
 ]

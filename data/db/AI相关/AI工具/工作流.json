@@ -16,5 +16,11 @@
     "desc": "2,053 个 n8n 工作流程的专业组织集合，具有闪电般快速的文档系统，可提供即时搜索、分析和浏览功能。",
     "url": "https://github.com/Zie619/n8n-workflows",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Dify Cloud",
+    "desc": "一个在线的Dify平台，可以快速构建AI应用。",
+    "url": "https://cloud.dify.ai/apps",
+    "icon": "https://cloud.dify.ai/favicon.ico"
   }
 ]

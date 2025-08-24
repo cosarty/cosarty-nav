@@ -124,5 +124,17 @@
     "desc": "用于日常对话的生成语音模型。",
     "url": "https://github.com/2noise/ChatTTS",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "TTS-WebUI",
+    "desc": "TTS-WebUI 是一个开源的文本转语音模型，支持多种语言和声音。",
+    "url": "https://github.com/2noise/TTS-WebUI",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "OpenVoice",
+    "desc": "MIT 和 MyShell 即时语音克隆。音频基础模型。",
+    "url": "https://github.com/myshell-ai/OpenVoice",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -171,5 +171,35 @@
     "desc": "专属的调研，投票、NPS、报名等系统",
     "url": "https://form.antdv.com/home",
     "icon": "https://aliyuncdn.antdv.com/form/static/favicon.svg"
+  },
+  {
+    "name": "AIRI",
+    "desc": "模型驱动的灵魂容器，什么都能做一点的桌宠：让 Neuro-sama 这样的虚拟伴侣也成为我们世界中的一份子吧！",
+    "url": "https://airi.moeru.ai/docs/zh-Hans/",
+    "icon": "https://airi.moeru.ai/favicon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/moeru-ai/airi"
+      }
+    ]
+  },
+  {
+    "name": "AutoClip",
+    "desc": "智能视频切片一条视频，多个高光 你的AI剪辑搭子",
+    "url": "https://zhouxiaoka.github.io/autoclip_intro/",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/zhouxiaoka/autoclip_mvp"
+      }
+    ]
+  },
+  {
+    "name": "Duix.Avatar",
+    "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
+    "url": "https://github.com/duixcom/Duix.Avatar",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

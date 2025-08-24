@@ -76,6 +76,17 @@
     "desc": "VUE后台管理系统模板",
     "url": "http://vue.easydo.work/",
     "icon": "http://vue.easydo.work/images/logo.svg"
+  },
+  {
+    "name": "Fes.js",
+    "desc": "一个好用的前端应用解决方案",
+    "url": "http://fesjs.mumblefe.cn/",
+    "icon": "http://fesjs.mumblefe.cn/logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/WeBankFinTech/fes.js"
+      }
+    ]
   }
-
 ]
