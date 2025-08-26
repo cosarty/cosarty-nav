@@ -1,0 +1,26 @@
+[
+  {
+    "name": "livekit",
+    "desc": "构建能够看听说的应用程序",
+    "url": "https://livekit.io/",
+    "icon": "https://livekit.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/livekit/livekit"
+      }
+    ]
+  },
+  {
+    "name": "memU",
+    "desc": "MemU 是一个为人工智能伴侣提供的开源记忆框架。",
+    "url": "https://memu.pro/",
+    "icon": "https://memu.pro/local/memu-logo-u.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/NevaMind-AI/memU"
+      }
+    ]
+  }
+]

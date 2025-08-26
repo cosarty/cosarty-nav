@@ -8,6 +8,7 @@ import KnowledgeBase from './知识库.json'
 import Workflow from './工作流.json'
 import Material from './资料.json'
 import ModelDownloader from './模型下载器.json'
+import Framework from './框架.json'
 
 export default {
   title: 'AI工具',
@@ -47,6 +48,10 @@ export default {
     {
       title: 'AI创新产品',
       nav: AIInnovationProduct,
+    },
+    {
+      title: '框架',
+      nav: Framework,
     },
     {
       title:'资料',
