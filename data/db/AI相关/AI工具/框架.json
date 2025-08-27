@@ -22,5 +22,17 @@
         "url": "https://github.com/NevaMind-AI/memU"
       }
     ]
+  },
+  {
+    "name": "LangChain",
+    "desc": "LangChain 是一个由大型语言模型 (LLM) 驱动的应用程序开发框架。",
+    "url": "https://python.langchain.com/docs/introduction/",
+    "icon": "https://python.langchain.com/img/brand/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/langchain-ai/langchain"
+      }
+    ]
   }
 ]
