@@ -448,6 +448,11 @@
         "url": "https://github.com/fullcalendar/fullcalendar"
       }
     ]
+  },
+  {
+    "name": "json-server",
+    "desc": "在不到 30 秒的时间内获得一个完整的、零编码的仿制 REST API。",
+    "url": "https://github.com/typicode/json-server",
+    "icon": "https://github.com/favicon.ico"
   }
-
 ]
