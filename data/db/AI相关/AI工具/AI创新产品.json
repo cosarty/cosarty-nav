@@ -201,5 +201,11 @@
     "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
     "url": "https://github.com/duixcom/Duix.Avatar",
     "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name": "intrascribe",
+    "desc": "私有化部署，内网适用的语音转录总结工具，完整的前后端代码。",
+    "url": "https://github.com/weynechen/intrascribe",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -136,5 +136,17 @@
     "desc": "MIT 和 MyShell 即时语音克隆。音频基础模型。",
     "url": "https://github.com/myshell-ai/OpenVoice",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "VibeVoice",
+    "desc": "微软开源的前沿的长对话文本转语音模型",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "WhisperLiveKit",
+    "desc": "实时语音转录直接发送到您的浏览器，带有可立即使用的后端+服务器和简单的前端。",
+    "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

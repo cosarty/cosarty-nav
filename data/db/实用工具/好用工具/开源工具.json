@@ -76,5 +76,14 @@
         "url": "https://github.com/revezone/revezone"
       }
     ]
+  },
+  {
+    "name": "Pake",
+    "desc": "Pake 是一款开源的桌面应用打包工具，可以将网页或本地文件打包成桌面应用。",
+    "url": "https://github.com/tw93/Pake",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/tw93/Pake" }
+    ]
   }
 ]
