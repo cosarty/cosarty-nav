@@ -148,5 +148,11 @@
     "desc": "实时语音转录直接发送到您的浏览器，带有可立即使用的后端+服务器和简单的前端。",
     "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Step-Audio2",
+    "desc": "Step-Audio 2 是一种端到端多模态大型语言模型，专为行业强度的音频理解和语音对话而设计。",
+    "url": "https://github.com/stepfun-ai/Step-Audio2",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
