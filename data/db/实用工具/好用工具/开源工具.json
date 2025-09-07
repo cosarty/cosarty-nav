@@ -85,5 +85,30 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/tw93/Pake" }
     ]
+  },
+  {
+    "name": "hoppscotch",
+    "desc": "开源 API 开发生态系统（Postman、Insomnia 的开源替代品）",
+    "url": "https://hoppscotch.io/",
+    "icon": "https://hoppscotch.io/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/hoppscotch/hoppscotch" }
+    ]
+  },
+  {
+    "name": "Xget",
+    "desc": "超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 。",
+    "url": "https://xuc.xi-xu.me/",
+    "icon": "https://xuc.xi-xu.me/Xget.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/xixu-me/Xget" }
+    ]
+  },
+  {
+    "name": "open-lovable",
+    "desc": "在几秒钟内克隆并重新创建任何网站作为现代 React 应用程序。",
+    "url": "https://github.com/firecrawl/open-lovable",
+    "icon": "https://github.com/favicon.ico"
+    
   }
 ]

@@ -207,5 +207,14 @@
     "desc": "私有化部署，内网适用的语音转录总结工具，完整的前后端代码。",
     "url": "https://github.com/weynechen/intrascribe",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "nekro-agent",
+    "desc": "集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态;",
+    "url": "https://nekro.ai/products/nekro-edge",
+    "icon": "https://nekro.ai/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/KroMiose/nekro-agent" }
+    ]
   }
 ]

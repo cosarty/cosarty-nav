@@ -103,5 +103,17 @@
         "url": "https://github.com/xinliangnote/go-gin-api"
       }
     ]
+  },
+  {
+    "icon": "https://transfer.52python.cn/favicon.ico",
+    "name": "file-transfer-go",
+    "desc": "Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。",
+    "url": "https://transfer.52python.cn/",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/MatrixSeven/file-transfer-go"
+      }
+    ]
   }
 ]

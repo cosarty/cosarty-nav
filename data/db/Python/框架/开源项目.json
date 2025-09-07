@@ -22,5 +22,20 @@
     "desc": "基于 LMM 的轻量级文档解析模型。",
     "url": "https://github.com/Yuliang-Liu/MonkeyOCR",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "f2",
+    "desc": "适用于多个平台的高速下载器",
+    "url": "https://f2.wiki/",
+    "icon": "https://f2.wiki/f2-logo-with-shadow-mini.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/yuleyan/f2" }
+    ]
+  },
+  {
+    "name": "DouyinLiveRecorder",
+    "desc": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制。",
+    "url": "https://github.com/ihmily/DouyinLiveRecorder",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
