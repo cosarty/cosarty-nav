@@ -17,6 +17,12 @@
     "desc": "免费注册一个临时的谷歌邮箱",
     "url":"https://www.emailtick.com/",
     "icon":"https://www.emailtick.com/favicon.ico"
+  },
+  {
+    "name": "fileunzip",
+    "desc": "解压 ZIP、RAR、TAR、TGZ、7Z 等文件 - 文件解压,您需要使用的解压缩工具都触手可及。 全部 100% 免费且易于使用！",
+    "url":"https://cn.fileunzip.com/",
+    "icon":"https://cn.fileunzip.com/favicon/apple-touch-icon.png"
   }
 
 
