@@ -154,5 +154,11 @@
     "desc": "Step-Audio 2 是一种端到端多模态大型语言模型，专为行业强度的音频理解和语音对话而设计。",
     "url": "https://github.com/stepfun-ai/Step-Audio2",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "FireRedTTS2",
+    "desc": "用于生成多说话人对话的长格式流式 TTS 系统。",
+    "url": "https://github.com/FireRedTeam/FireRedTTS2",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
