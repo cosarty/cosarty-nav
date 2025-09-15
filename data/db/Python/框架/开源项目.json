@@ -37,5 +37,11 @@
     "desc": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Live、Twitch、Acfun、CHZZK、shopee等40+平台直播录制。",
     "url": "https://github.com/ihmily/DouyinLiveRecorder",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "crawl4ai",
+    "desc": "Crawl4AI：面向法学硕士 (LLM) 的开源网络爬虫和抓取工具。别犹豫，加入我们吧",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

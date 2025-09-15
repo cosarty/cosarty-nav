@@ -135,5 +135,19 @@
     "breadcrumb": ["学无止境", "参考文档", "其他文档"],
     "id": 176,
     "tags": []
+  },
+  {
+    "icon": "https://www.hello-algo.com/assets/images/favicon.png",
+    "name": "Hello 算法",
+    "desc": "动画图解、一键运行的数据结构与算法教程",
+    "url": "https://www.hello-algo.com/",
+    "tags": [{ "id": "-3", "url": "https://github.com/krahets/hello-algo" }]
+  },
+  {
+    "icon": "https://langshift.dev/favicon.ico",
+    "name": "LangShift",
+    "desc": "通过对比学习，而非从零开始。完全免费，无需注册。帮助您利用现有编程知识，直观地学习新语法和范式。告别从零开始，开始技能转换。100% 免费开源教程，立即开始学习。",
+    "url": "https://langshift.dev/zh-cn",
+    "tags": [{ "id": "-3", "url": "https://github.com/erweixin/langshift.dev" }]
   }
 ]
