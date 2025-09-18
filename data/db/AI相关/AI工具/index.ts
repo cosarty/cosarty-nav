@@ -9,6 +9,7 @@ import Workflow from './工作流.json'
 import Material from './资料.json'
 import ModelDownloader from './模型下载器.json'
 import Framework from './框架.json'
+import VectorDatabase from './向量数据库.json'
 
 export default {
   title: 'AI工具',
@@ -40,6 +41,10 @@ export default {
     {
       title: '第三方接口',
       nav: ThirdPartyAPI,
+    },
+    {
+      title: '向量数据库',
+      nav: VectorDatabase,
     },
     {
       title: 'AI编程',

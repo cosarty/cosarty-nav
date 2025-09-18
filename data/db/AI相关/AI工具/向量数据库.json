@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Milvus",
+    "desc": "Milvus 是一个开源的向量数据库，用于存储和查询向量数据。",
+    "url": "https://milvus.io/zh",
+    "icon": "https://milvus.io/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/milvus-io/milvus" }
+    ]
+  },
+  {
+    "name": "Qdrant",
+    "desc": "Qdrant 是一个开源的向量数据库，用于存储和查询向量数据。",
+    "url": "https://qdrant.tech/",
+    "icon": "https://qdrant.tech/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/qdrant/qdrant" }
+    ]
+  }
+]
