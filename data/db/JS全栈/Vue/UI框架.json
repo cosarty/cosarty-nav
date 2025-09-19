@@ -75,5 +75,17 @@
     "desc": "使用 Vue 创造出色的 3D 体验。",
     "url": "https://tresjs.org/",
     "icon": "https://tresjs.org/favicon.svg"
+  },
+  {
+    "name": "Radix Vue",
+    "desc": "用于在 Vue 中构建高质量设计系统和 Web 应用程序的无样式、可访问的组件。",
+    "url": "https://www.radix-vue.com/",
+    "icon": "https://www.radix-vue.com/favicon.ico"
+  },
+  {
+    "name": "reka ui",
+    "desc": "使用 Vue 制作可访问的 Web 应用程序",
+    "url": "https://reka-ui.com/",
+    "icon": "https://reka-ui.com/favicon.ico"
   }
 ]
