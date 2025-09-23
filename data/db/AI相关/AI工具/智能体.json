@@ -82,5 +82,11 @@
     "desc": "MaxKB 是强大易用的开源企业级智能体平台，致力于解决企业 AI 落地面临的技术门槛高、部署成本高、迭代周期长等问题，助力企业在人工智能时代赢得先机。",
     "url": "https://github.com/1Panel-dev/MaxKB",
     "icon": "https://maxkb.cn/images/favicon.png"
+  },
+  {
+    "name": "openAgent",
+    "desc": "企业级智能体应用平台",
+    "url": "https://github.com/lkpAgent/openAgent",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

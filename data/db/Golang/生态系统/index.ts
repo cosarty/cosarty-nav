@@ -1,5 +1,6 @@
 import Ecology from './生态.json'
 import WebFrameworks from './WEB框架.json'
+import OpenSourceProject from './开源项目.json'
 
 export default {
   title: '生态系统',
@@ -12,6 +13,10 @@ export default {
     {
       title: 'WEB框架',
       nav: WebFrameworks,
+    },
+    {
+      title: '开源项目',
+      nav: OpenSourceProject,
     },
   ],
 }
