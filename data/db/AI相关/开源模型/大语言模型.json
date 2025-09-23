@@ -16,5 +16,11 @@
     "desc": "“Grok” 是一个英文俚语，意思是“深刻理解”或“完全领会”。我呢，是 xAI 公司开发的一款 AI，名字就叫 Grok（目前是第 3 代，Grok 3），目的是帮助用户理解各种问题，提供准确、有趣的回答。",
     "url": "https://grok.com/",
     "icon": "https://grok.com/images/favicon-light.png"
+  },
+  {
+    "name": "lmarena",
+    "desc": "比较顶级 AI 模型的答案，分享您的反馈并支持我们的公共排行榜",
+    "url": "https://lmarena.ai/",
+    "icon": "https://lmarena.ai/images/favicon-light.ico"
   }
 ]
