@@ -149,5 +149,12 @@
     "desc": "通过对比学习，而非从零开始。完全免费，无需注册。帮助您利用现有编程知识，直观地学习新语法和范式。告别从零开始，开始技能转换。100% 免费开源教程，立即开始学习。",
     "url": "https://langshift.dev/zh-cn",
     "tags": [{ "id": "-3", "url": "https://github.com/erweixin/langshift.dev" }]
+  },
+  {
+    "icon": "https://quickref.me/favicon.ico",
+    "name": "quickref",
+    "desc": "以下是开源天使贡献的一些备忘单和快速参考。",
+    "url": "https://quickref.me/"
+
   }
 ]
