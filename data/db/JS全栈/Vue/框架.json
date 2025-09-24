@@ -88,5 +88,17 @@
         "url": "https://github.com/WeBankFinTech/fes.js"
       }
     ]
+  },
+  {
+    "name": "tvt js",
+    "desc": "🎉三维可视化项目快速落地的开源框架 🎉",
+    "url": "https://docs.icegl.cn/",
+    "icon": "https://docs.icegl.cn/logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://gitee.com/ice-gl/icegl-three-vue-tres"
+      }
+    ]
   }
 ]

@@ -88,5 +88,14 @@
     "desc": "企业级智能体应用平台",
     "url": "https://github.com/lkpAgent/openAgent",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "FastbuildAI",
+    "desc": "面向AI开发者 | 创业者设计的开源AI应用框架。",
+    "url": "https://www.fastbuildai.com/",
+    "icon": "https://www.fastbuildai.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/FastbuildAI/FastbuildAI" }
+    ]
   }
 ]

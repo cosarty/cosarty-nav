@@ -81,6 +81,12 @@
     "desc": "Vue 的开源表单框架",
     "url": "https://vueform.com/",
     "icon": "https://vueform.com//favicon.ico"
+  },
+  {
+    "name": "vue-plugins",
+    "desc": "探索并发现最佳的 Vue.js 插件，为您的应用程序提供更强大的功能。由社区精心挑选，由开发者维护。",
+    "url": "https://www.vue-plugins.org/",
+    "icon": "https://www.vue-plugins.org/favicon.ico"
   }
 
 ]

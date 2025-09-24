@@ -82,5 +82,17 @@
     "desc": "Magi 是一款功能强大的 AI 视频生成器，可免费将您的创意转化为精彩的视频。借助尖端的生成式 AI 技术，轻松扩展视频！",
     "url": "https://magi.sand.ai/app/projects",
     "icon": "https://static.magi.world/build/magi/165/favicon.svg"
+  },
+  {
+    "name": "runninghub",
+    "desc": "用 ComfyUI 云平台创作惊艳的AI应用",
+    "url": "https://www.runninghub.ai/",
+    "icon": "https://www.runninghub.ai/favicon.ico"
+  },
+  {
+    "name": "seko",
+    "desc": "Seko 是一个尖端的 AI 视频生成平台，可将您的创意转化为令人惊叹的专业视频。利用先进的 AI 技术创建、编辑和定制视频。加入全球数千名创作者的行列。",
+    "url": "https://seko.sensetime.com/explore",
+    "icon": "https://seko.sensetime.com/logo.svg"
   }
 ]

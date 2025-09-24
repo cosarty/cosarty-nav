@@ -69,5 +69,11 @@
     "desc": "创造流畅、平滑的过渡。在您网站的页面之间。",
     "url": "https://barba.js.org/",
     "icon": "https://barba.js.org/favicon.ico"
+  },
+  {
+    "name": "dora",
+    "desc": "从人工智能开始，使用零代码交付 3D 动画网站。",
+    "url": "https://www.dora.run/",
+    "icon": "https://www.dora.run/favicon.ico"
   }
 ]
