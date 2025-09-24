@@ -58,5 +58,11 @@
         "url": "https://github.com/chaitin/PandaWiki"
       }
     ]
+  },
+  {
+    "name": "langextract",
+    "desc": "一个 Python 库，用于使用具有精确源基础和交互式可视化的 LLM 从非结构化文本中提取结构化信息。",
+    "url": "https://github.com/google/langextract",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

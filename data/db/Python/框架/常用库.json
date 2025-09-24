@@ -62,5 +62,11 @@
     "desc": "全栈、现代 Web 应用程序模板。使用 FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub Actions、自动 HTTPS 等。",
     "url": "https://github.com/fastapi/full-stack-fastapi-template",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "scrapy",
+    "desc": "世界上使用最广泛的开源数据提取框架。",
+    "url": "https://www.scrapy.org/",
+    "icon": "https://www.scrapy.org/favicon/scrapy-favicon.svg"
   }
 ]

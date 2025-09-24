@@ -16,5 +16,20 @@
     "name": "阿里云百炼 MCP",
     "desc": "连接智能，即点即用探索阿里云百炼全周期 MCP 服务",
     "url": "https://bailian.console.aliyun.com/?tab=mcp#/mcp-market"
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "Spec Workflow MCP",
+    "desc": "模型上下文协议 (MCP) 服务器为 AI 辅助软件开发提供结构化的规范驱动开发工作流工具，具有实时 Web 仪表板和 VSCode 扩展，可直接在开发环境中监控和管理项目进度。",
+    "url": "https://github.com/Pimzino/spec-workflow-mcp"
+  },
+  {
+    "icon": "https://gitmcp.io/img/icon_cropped.png",
+    "name": "git mcp",
+    "desc": "告别代码幻觉！GitMCP 是一款免费、开源的远程 MCP 服务器，适用于任何 GitHub 项目",
+    "url": "https://gitmcp.io/",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/idosal/git-mcp" }
+    ]
   }
 ]
