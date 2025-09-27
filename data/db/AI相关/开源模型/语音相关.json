@@ -160,5 +160,11 @@
     "desc": "用于生成多说话人对话的长格式流式 TTS 系统。",
     "url": "https://github.com/FireRedTeam/FireRedTTS2",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "VoxCPM",
+    "desc": "VoxCPM：无需标记器的 TTS，用于上下文感知语音生成和逼真的语音克隆",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
