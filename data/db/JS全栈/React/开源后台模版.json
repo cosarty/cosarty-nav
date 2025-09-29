@@ -16,5 +16,17 @@
     "desc": "几分钟内即可构建终端风格的网站！",
     "url": "https://github.com/Cveinnt/LiveTerm",
     "icon": "https://avatars.githubusercontent.com/u/30604389?s=48&v=4"
+  },
+  {
+    "name": "opencut",
+    "desc": "开源 CapCut 替代品",
+    "url": "https://opencut.app/",
+    "icon": "https://opencut.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/OpenCut-app/OpenCut"
+      }
+    ]
   }
 ]
