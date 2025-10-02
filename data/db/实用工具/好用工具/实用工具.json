@@ -49,5 +49,17 @@
     "desc": "cobalt 让您可以保存您喜欢的内容，而无需广告、跟踪、付费墙或其他无用的东西。只需粘贴链接，您就可以开始摇滚了！",
     "url": "https://cobalt.tools/",
     "icon": "https://cobalt.tools/icons/apple-touch-icon.png"
+  },
+  {
+    "name": "ab download manager",
+    "desc": "通过与浏览器的无缝集成从任何地方轻松下载文件，享受快速、免费的下载体验",
+    "url": "https://abdownloadmanager.com/",
+    "icon": "https://abdownloadmanager.com/assets/app_icon_simple-DyQVbx7O.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/amir1376/ab-download-manager"
+      }
+    ]
   }
 ]
