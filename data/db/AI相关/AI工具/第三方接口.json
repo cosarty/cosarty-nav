@@ -34,5 +34,11 @@
     "desc": "The unified interface for LLMs. Find the best models & prices for your prompts",
     "url": "https://openrouter.ai/",
     "icon": "https://openrouter.ai/favicon.ico"
+  },
+  { 
+    "name": "bigmodel",
+    "desc": "Z智谱·一站式大模型开发平台。从想法到产品，一个平台搞定一切，极速构建变革性AI体验",
+    "url": "https://bigmodel.cn/",
+    "icon": "https://bigmodel.cn/favicon.ico"
   }
 ]
