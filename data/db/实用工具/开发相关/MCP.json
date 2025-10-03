@@ -31,5 +31,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/idosal/git-mcp" }
     ]
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "mcp-chrome",
+    "desc": "Chrome MCP 服务器是一个基于 Chrome 扩展的模型上下文协议 (MCP) 服务器，它将您的 Chrome 浏览器功能公开给 Claude 等 AI 助手，从而实现复杂的浏览器自动化、内容分析和语义搜索。",
+    "url": "https://github.com/hangwin/mcp-chrome"
   }
 ]
