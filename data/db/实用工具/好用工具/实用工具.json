@@ -34,9 +34,7 @@
     "desc": "开源 Loom 替代品。精美且可分享的屏幕录制。",
     "url": "https://cap.so",
     "icon": "https://cap.so/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/CapSoftware/Cap" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/CapSoftware/Cap" }]
   },
   {
     "name": "locallytools",
@@ -59,6 +57,18 @@
       {
         "id": "-3",
         "url": "https://github.com/amir1376/ab-download-manager"
+      }
+    ]
+  },
+  {
+    "name": "pdf2zh",
+    "desc": "保留格式的 PDF 科技论文翻译 - 基于 AI 完整保留版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero",
+    "url": "https://pdf2zh.com/",
+    "icon": "https://pdf2zh.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Byaidu/PDFMathTranslate"
       }
     ]
   }
