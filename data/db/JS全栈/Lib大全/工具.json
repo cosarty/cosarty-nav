@@ -466,5 +466,11 @@
     "desc": "简单的反应钩子来打开浏览器文件选择器。",
     "url": "https://github.com/Jaaneek/useFilePicker",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "mp-html",
+    "desc": "小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用。",
+    "url": "https://github.com/jin-yufeng/mp-html/",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
