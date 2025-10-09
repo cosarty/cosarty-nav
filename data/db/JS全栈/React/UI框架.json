@@ -111,5 +111,11 @@
     "desc": "Lobe Chat - 一个开源、现代设计的 AI 聊天框架。支持多种 AI 提供商（OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen）、知识库（文件上传 / RAG）、一键安装 MCP Marketplace 和 Artifacts / Thinking。一键免费部署您的私人 AI Agent 应用程序。",
     "url": "https://lobechat.com/chat",
     "icon": "https://lobechat.com/favicon.ico"
+  },
+  {
+    "name": "ElevenLabs UI",
+    "desc": "您可以自定义和扩展的开源代理和音频组件的集合。",
+    "url": "https://ui.elevenlabs.io/",
+    "icon": "https://ui.elevenlabs.io/favicon.ico"
   }
 ]
