@@ -22,5 +22,11 @@
     "desc": "GPU云算力平台，提供GPU算力租用服务，支持多种GPU型号，价格实惠，稳定可靠。",
     "url": "https://www.xiangongyun.com/",
     "icon": "https://www.xiangongyun.com/favicon.svg"
+  },
+  {
+    "name": "featurize",
+    "desc": "我们致力于为机器学习研究者提供简单好用、极具性价比的在线实验室。",
+    "url": "https://featurize.cn/",
+    "icon": "https://featurize.cn/images/favicon.svg"
   }
 ]
