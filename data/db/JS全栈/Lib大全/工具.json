@@ -460,5 +460,11 @@
     "desc": "允许在尝试之间以指数延迟重试某个功能的实用程序。",
     "url": "https://github.com/coveooss/exponential-backoff",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "use-file-picker",
+    "desc": "简单的反应钩子来打开浏览器文件选择器。",
+    "url": "https://github.com/Jaaneek/useFilePicker",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
