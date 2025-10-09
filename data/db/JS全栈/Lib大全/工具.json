@@ -454,5 +454,11 @@
     "desc": "在不到 30 秒的时间内获得一个完整的、零编码的仿制 REST API。",
     "url": "https://github.com/typicode/json-server",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "exponential-backoff",
+    "desc": "允许在尝试之间以指数延迟重试某个功能的实用程序。",
+    "url": "https://github.com/coveooss/exponential-backoff",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
