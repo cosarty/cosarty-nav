@@ -234,5 +234,14 @@
     "desc": "GAGA-1: The Holistic AI Actor.Voice, Lipsync, and Performance as One.",
     "url": "https://gaga.art/",
     "icon": "https://static.sandcdn.com/build/gaga/331/_next/static/media/favicon.9e28952c.png"
+  },
+  {
+    "name": "videolingo",
+    "desc": "VideoLingo: 连接世界的每一帧Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组。",
+    "url": "https://docs.videolingo.io/",
+    "icon": "https://docs.videolingo.io/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/Huanshere/VideoLingo" }
+    ]
   }
 ]
