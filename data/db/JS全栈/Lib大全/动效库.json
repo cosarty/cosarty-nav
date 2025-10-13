@@ -75,5 +75,11 @@
     "desc": "从人工智能开始，使用零代码交付 3D 动画网站。",
     "url": "https://www.dora.run/",
     "icon": "https://www.dora.run/favicon.ico"
+  },
+  {
+    "name": "neumorphism",
+    "desc": "好看的阴影样式生成器。",
+    "url": "https://neumorphism.io/#e0e0e0",
+    "icon": "https://neumorphism.io/favicon.ico"
   }
 ]
