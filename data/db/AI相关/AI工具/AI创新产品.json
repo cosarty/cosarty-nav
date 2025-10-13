@@ -228,5 +228,11 @@
     "desc": "AI 语音模型和产品赋能数百万开发者、创作者和企业。从低延迟对话代理到领先的 AI 语音生成器，适用于配音和有声读物。",
     "url": "https://elevenlabs.io/",
     "icon": "https://elevenlabs.io/favicon.ico"
+  },
+  {
+    "name": "gaga",
+    "desc": "GAGA-1: The Holistic AI Actor.Voice, Lipsync, and Performance as One.",
+    "url": "https://gaga.art/",
+    "icon": "https://static.sandcdn.com/build/gaga/331/_next/static/media/favicon.9e28952c.png"
   }
 ]
