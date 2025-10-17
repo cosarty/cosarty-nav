@@ -40,5 +40,17 @@
     "desc": "Z智谱·一站式大模型开发平台。从想法到产品，一个平台搞定一切，极速构建变革性AI体验",
     "url": "https://bigmodel.cn/",
     "icon": "https://bigmodel.cn/favicon.ico"
+  },
+  {
+    "name": "DeepSeek",
+    "desc": "DeepSeek 是一个专注于人工智能技术研究和应用的公司，提供多种 AI 模型和工具。",
+    "url": "https://deepseek.com/",
+    "icon": "https://deepseek.com/favicon.ico"
+  },
+  {
+    "name": "302.ai",
+    "desc": "302.AI是按用量付费的企业级AI平台，提供最新图像、视频、音频及语言模型API，一站式接入无需多供应商付费。享企业级稳定性、无TPM限制、丰富开源应用生态，支持私有化部署。立即体验高效AI开发，适用于企业及爱好者",
+    "url": "https://302.ai/",
+    "icon": "https://302.ai/img/logo.ico"
   }
 ]
