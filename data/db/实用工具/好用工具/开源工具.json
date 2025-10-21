@@ -110,5 +110,17 @@
     "url": "https://github.com/firecrawl/open-lovable",
     "icon": "https://github.com/favicon.ico"
     
+  },
+  {
+    "name": "stremio-web",
+    "desc": "Stremio 是一款现代化的媒体中心，为您提供一站式视频娱乐解决方案。您可以通过易于安装的插件发现、观看和整理视频内容。",
+    "url": "https://github.com/Stremio/stremio-web",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "evershop",
+    "desc": "EverShop 是一个现代化的、以 TypeScript 为先的电商平台，采用 GraphQL 和 React 构建。它专为开发者设计，在模块化、完全可定制的架构中提供必要的商务功能，非常适合自信而快速地构建定制化的购物体验。",
+    "url": "https://github.com/evershopcommerce/evershop",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
