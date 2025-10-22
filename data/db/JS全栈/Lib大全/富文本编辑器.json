@@ -98,5 +98,17 @@
         "url": "https://github.com/ckeditor/ckeditor5"
       }
     ]
+  },
+  {
+    "name": "novel ",
+    "desc": "具有 AI 自动完成功能的 Notion 风格所见即所得编辑器。",
+    "url": "https://novel.sh/",
+    "icon": "https://novel.sh/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/steven-tey/novel"
+      }
+    ]
   }
 ]
