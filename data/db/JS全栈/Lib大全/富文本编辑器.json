@@ -74,5 +74,29 @@
         "url": "https://github.com/opentiny/tiny-editor"
       }
     ]
+  },
+  {
+    "name": "BlockSuite",
+    "desc": "Web 内容编辑技术栈",
+    "url": "https://blocksuite.io/",
+    "icon": "https://raw.githubusercontent.com/toeverything/blocksuite/master/assets/logo.svg"
+  },
+  {
+    "name": "tipTap",
+    "desc": "tipTap 是一个基于 Vue 的富文本编辑器，具有强大的扩展性和可定制性。",
+    "url": "https://tiptap.dev/",
+    "icon": "https://tiptap.dev/favicon.png"
+  },
+  {
+    "name": "ckeditor",
+    "desc": "强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+    "url": "https://ckeditor.com/",
+    "icon": "https://ckeditor.com/assets/images/favicons/96x96.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ckeditor/ckeditor5"
+      }
+    ]
   }
 ]

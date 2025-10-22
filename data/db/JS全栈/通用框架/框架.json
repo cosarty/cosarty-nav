@@ -37,12 +37,6 @@
     "icon": "https://docs.partykit.io/favicon.svg"
   },
   {
-    "name": "BlockSuite",
-    "desc": "Web 内容编辑技术栈",
-    "url": "https://blocksuite.io/",
-    "icon": "https://raw.githubusercontent.com/toeverything/blocksuite/master/assets/logo.svg"
-  },
-  {
     "name": "Slidev",
     "desc": "为开发者打造的演示文稿工具",
     "url": "https://cn.sli.dev/",
