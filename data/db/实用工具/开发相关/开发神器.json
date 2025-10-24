@@ -248,7 +248,10 @@
     "name": "提示词优化器",
     "desc": "提示词优化器，帮助你优化提示词，提高工作效率",
     "url": "https://prompt.always200.com/",
-    "icon": "https://prompt.always200.com/favicon.ico"
+    "icon": "https://prompt.always200.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/linshenkx/prompt-optimizer" }
+    ]
   },
   {
     "name": "Liam ERD",
