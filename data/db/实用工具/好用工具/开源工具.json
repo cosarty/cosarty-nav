@@ -122,5 +122,24 @@
     "desc": "EverShop 是一个现代化的、以 TypeScript 为先的电商平台，采用 GraphQL 和 React 构建。它专为开发者设计，在模块化、完全可定制的架构中提供必要的商务功能，非常适合自信而快速地构建定制化的购物体验。",
     "url": "https://github.com/evershopcommerce/evershop",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "memos",
+    "desc": "一款开源、自托管的云笔记服务替代方案。无追踪、无广告、无订阅费——只需一种简洁、快速的方式来记录和整理你的想法。",
+    "url": "https://usememos.com/",
+    "icon": "https://usememos.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/usememos/memos"
+      }
+    ]
+  },
+  {
+    "name": "AI-Media2Doc",
+    "desc": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
+    "url": "https://github.com/hanshuaikang/AI-Media2Doc",
+    "icon": "https://github.com/favicon.ico"
+    
   }
 ]
