@@ -243,5 +243,17 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/Huanshere/VideoLingo" }
     ]
+  },
+  {
+    "name": "AI-Media2Doc",
+    "desc": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
+    "url": "https://github.com/hanshuaikang/AI-Media2Doc",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ebook2audiobook",
+    "desc": "从电子书、语音克隆和 1107 多种语言生成有声读物！",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
