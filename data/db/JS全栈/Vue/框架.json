@@ -100,5 +100,17 @@
         "url": "https://gitee.com/ice-gl/icegl-three-vue-tres"
       }
     ]
+  },
+  {
+    "name": "nativescript-vue",
+    "desc": "NativeScript 是一个使用 JavaScript 构建真正原生移动应用程序的开源框架。",
+    "url": "https://nativescript-vue.org/",
+    "icon": "https://nativescript-vue.org/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/nativescript-vue/nativescript-vue"
+      }
+    ]
   }
 ]
