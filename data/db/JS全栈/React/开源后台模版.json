@@ -28,5 +28,23 @@
         "url": "https://github.com/OpenCut-app/OpenCut"
       }
     ]
+  },
+  {
+    "name": "shadcntemplates",
+    "desc": "浏览 308 个 Shadcn UI 模板、组件、块、样板等。",
+    "url": "https://shadcntemplates.com/",
+    "icon": "https://shadcntemplates.com/favicon/favicon.ico"
+  },
+  {
+    "name": "nexttemplates",
+    "desc": "发现最佳的 Next.js 模板。",
+    "url": "https://nexttemplates.dev/",
+    "icon": "https://nexttemplates.dev/favicon/favicon.ico"
+  },
+  {
+    "name": "astrothemes",
+    "desc": "375 个 Astro 主题目录。",
+    "url": "https://www.astrothemes.dev/",
+    "icon": "https://www.astrothemes.dev/favicon/favicon.ico"
   }
 ]

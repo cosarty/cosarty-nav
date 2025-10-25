@@ -129,5 +129,11 @@
         "url": "https://github.com/jnsahaj/tweakcn"
       }
     ]
+  },
+  {
+    "name": "Mantine UI",
+    "desc": "使用由 Mantine 维护人员和社区设计和构建的预制响应式组件，更快地构建您的下一个网站。所有组件永久免费，供所有人使用。",
+    "url": "https://ui.mantine.dev/",
+    "icon": "https://ui.mantine.dev/favicon.svg"
   }
 ]
