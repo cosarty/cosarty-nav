@@ -117,5 +117,17 @@
     "desc": "您可以自定义和扩展的开源代理和音频组件的集合。",
     "url": "https://ui.elevenlabs.io/",
     "icon": "https://ui.elevenlabs.io/favicon.ico"
+  },
+  {
+    "name": "Tweak UI",
+    "desc": "设计你的完美 shadcn/ui 主题。",
+    "url": "https://tweakcn.com/",
+    "icon": "https://tweakcn.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jnsahaj/tweakcn"
+      }
+    ]
   }
 ]
