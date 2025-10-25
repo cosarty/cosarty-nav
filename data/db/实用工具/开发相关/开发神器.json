@@ -405,5 +405,17 @@
         "url": "https://github.com/public-apis/public-apis"
       }
     ]
+  },
+  {
+    "name": "komari",
+    "desc": "一个简单的服务器监控工具。",
+    "url": "https://ss.akz.moe/",
+    "icon": "https://ss.akz.moe/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/komari-monitor/komari"
+      }
+    ]
   }
 ]
