@@ -417,5 +417,17 @@
         "url": "https://github.com/komari-monitor/komari"
       }
     ]
+  },
+  {
+    "name": "MooTool",
+    "desc": "开发者常备桌面小工具",
+    "url": "https://mootool.luoboduner.com/",
+    "icon": "https://mootool.luoboduner.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/rememberber/MooTool"
+      }
+    ]
   }
 ]
