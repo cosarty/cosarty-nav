@@ -267,5 +267,11 @@
     "desc": "虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮",
     "url": "https://github.com/Geniusay/ChopperBot",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "pyvideotrans",
+    "desc": "将视频从一种语言翻译成另一种语言，并添加配音。。",
+    "url": "https://github.com/jianchang512/pyvideotrans",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
