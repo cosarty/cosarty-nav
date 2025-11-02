@@ -134,5 +134,12 @@
         "url": "https://github.com/usememos/memos"
       }
     ]
+  },
+  {
+    "name": "BlackHole",
+    "desc": "BlackHole 是一款现代 macOS 音频回环驱动程序，它允许应用程序将音频传递给其他应用程序，且不会产生任何额外延迟。。",
+    "url": "https://github.com/ExistentialAudio/BlackHole",
+    "icon": "https://github.com/favicon.ico"
+    
   }
 ]

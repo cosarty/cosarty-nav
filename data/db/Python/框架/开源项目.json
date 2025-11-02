@@ -70,5 +70,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/nemo2011/bilibili-api" }
     ]
+  },
+  {
+    "name": "blind_watermark",
+    "desc": "Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！。",
+    "url": "https://github.com/guofei9987/blind_watermark",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

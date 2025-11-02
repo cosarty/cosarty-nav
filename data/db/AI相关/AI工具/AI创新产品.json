@@ -273,5 +273,14 @@
     "desc": "将视频从一种语言翻译成另一种语言，并添加配音。。",
     "url": "https://github.com/jianchang512/pyvideotrans",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Handy",
+    "desc": "一款免费、开源、可扩展的语音转文本应用程序，完全离线可用。",
+    "url": "https://handy.computer/",
+    "icon": "https://handy.computer/favicon.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/cjpais/Handy" }
+    ]
   }
 ]
