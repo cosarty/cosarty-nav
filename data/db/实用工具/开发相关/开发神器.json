@@ -429,5 +429,11 @@
         "url": "https://github.com/rememberber/MooTool"
       }
     ]
+  },
+  {
+    "name": "free-font",
+    "desc": "收录可商用的免费英文/汉字字体。",
+    "url": "https://github.com/jaywcjlove/free-font",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

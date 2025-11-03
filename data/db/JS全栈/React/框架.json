@@ -63,5 +63,17 @@
     "desc": "🐻 掌握 React 中状态管理的必要性",
     "url": "https://zustand-demo.pmnd.rs/",
     "icon": "https://zustand-demo.pmnd.rs/favicon.ico"
+  },
+  {
+    "name": "remotion",
+    "desc": "🎥 使用 React 以编程方式制作视频。",
+    "url": "https://www.remotion.dev",
+    "icon": "https://www.remotion.dev/img/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/remotion-dev/remotion"
+      }
+    ]
   }
 ]

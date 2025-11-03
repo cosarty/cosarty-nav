@@ -185,5 +185,11 @@
         "url": "https://github.com/konvajs/konva"
       }
     ]
+  },
+  {
+    "name": "leafletjs",
+    "desc": "一个开源并且对移动端友好的交互式地图 JavaScript 库。",
+    "url": "https://leafletjs.cn/",
+    "icon": "https://sortablejs.github.io/Vue.Draggable/favicon.ico"
   }
 ]
