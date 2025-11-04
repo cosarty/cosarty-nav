@@ -472,5 +472,17 @@
     "desc": "小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用。",
     "url": "https://github.com/jin-yufeng/mp-html/",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "boringavatars",
+    "desc": "Boring avatars 是一个开源 React 库，它可以根据用户名、电子邮件或任何随机字符串生成独特的基于 SVG 的用户个人资料头像。",
+    "url": "https://boringavatars.com/",
+    "icon": "https://boringavatars.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/boringdesigners/boring-avatars"
+      }
+    ]
   }
 ]
