@@ -191,5 +191,17 @@
     "desc": "一个开源并且对移动端友好的交互式地图 JavaScript 库。",
     "url": "https://leafletjs.cn/",
     "icon": "https://sortablejs.github.io/Vue.Draggable/favicon.ico"
+  },
+  {
+    "name": "formilyjs",
+    "desc": "阿里巴巴统一前端表单解决方案。",
+    "url": "https://formilyjs.org/zh-CN",
+    "icon": "https://formilyjs.org/img.alicdn.com/imgextra/i3/O1CN01XtT3Tv1Wd1b5hNVKy_!!6000000002810-55-tps-360-360.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/alibaba/formily"
+      }
+    ]
   }
 ]
