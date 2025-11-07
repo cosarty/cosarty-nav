@@ -282,5 +282,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/cjpais/Handy" }
     ]
+  },
+  {
+    "name": "Lovart",
+    "desc": "Lovart自动完成设计流程,从概念到图像、视频、3D等。",
+    "url": "https://www.lovart.ai/zh",
+    "icon": "https://www.lovart.ai/favicon.ico"
   }
 ]
