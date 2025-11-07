@@ -435,5 +435,11 @@
     "desc": "收录可商用的免费英文/汉字字体。",
     "url": "https://github.com/jaywcjlove/free-font",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "clash-for-linux-install",
+    "desc": "😼 优雅地使用基于 clash/mihomo 的代理环境",
+    "url": "https://github.com/nelvko/clash-for-linux-install",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
