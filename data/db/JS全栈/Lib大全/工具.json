@@ -484,5 +484,17 @@
         "url": "https://github.com/boringdesigners/boring-avatars"
       }
     ]
+  },
+  {
+    "name": "Mediabunny",
+    "desc": "一个用于读取、写入和转换视频和音频文件的 JavaScript 库。直接在浏览器中运行，速度比其他任何库都快。",
+    "url": "https://mediabunny.dev/",
+    "icon": "https://mediabunny.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Vanilagy/mediabunny"
+      }
+    ]
   }
 ]
