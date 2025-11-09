@@ -441,5 +441,11 @@
     "desc": "😼 优雅地使用基于 clash/mihomo 的代理环境",
     "url": "https://github.com/nelvko/clash-for-linux-install",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "esm.sh",
+    "desc": "使用 browser/deno 中的 NPM 包轻松创建现代 (es2015+) Web 应用程序。No build tools needed!  无需任何构建工具！",
+    "url": "https://esm.sh/",
+    "icon": "https://esm.sh/favicon.ico"
   }
 ]
