@@ -203,5 +203,17 @@
         "url": "https://github.com/alibaba/formily"
       }
     ]
+  },
+  {
+    "name": "oplist",
+    "desc": "🗂️ 一个支持多种存储的文件列表程序，使用 Gin 和 SolidJS。",
+    "url": "https://doc.oplist.org/",
+    "icon": "https://doc.oplist.org/favicon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/OpenListTeam/OpenList"
+      }
+    ]
   }
 ]

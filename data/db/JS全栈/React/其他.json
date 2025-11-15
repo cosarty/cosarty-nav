@@ -58,5 +58,17 @@
         "url": "https://github.com/pacocoursey/cmdk"
       }
     ]
+  },
+  {
+    "name": "advanced-cropper",
+    "desc": "这款灵活的 React 裁剪组件让您可以创建几乎任何您想要的裁剪效果。它同样易于使用和自定义。",
+    "url": "https://advanced-cropper.github.io/react-advanced-cropper/",
+    "icon": "https://advanced-cropper.github.io/react-advanced-cropper/img/logo.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/advanced-cropper/react-advanced-cropper"
+      }
+    ]
   }
 ]

@@ -87,6 +87,17 @@
     "desc": "探索并发现最佳的 Vue.js 插件，为您的应用程序提供更强大的功能。由社区精心挑选，由开发者维护。",
     "url": "https://www.vue-plugins.org/",
     "icon": "https://www.vue-plugins.org/favicon.ico"
+  },
+  {
+    "name": "advanced-cropper",
+    "desc": "这款灵活的 Vue 裁剪组件让您可以创建几乎任何您想要的裁剪效果。它同样易于使用和自定义。",
+    "url": "https://advanced-cropper.github.io/vue-advanced-cropper/",
+    "icon": "https://advanced-cropper.github.io/vue-advanced-cropper/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/advanced-cropper/vue-advanced-cropper/"
+      }
+    ]
   }
-
 ]

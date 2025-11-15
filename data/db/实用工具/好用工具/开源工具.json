@@ -140,6 +140,17 @@
     "desc": "BlackHole 是一款现代 macOS 音频回环驱动程序，它允许应用程序将音频传递给其他应用程序，且不会产生任何额外延迟。。",
     "url": "https://github.com/ExistentialAudio/BlackHole",
     "icon": "https://github.com/favicon.ico"
-    
+  },
+  {
+    "name": "cal.com",
+    "desc": "一款完全可定制的日程安排软件，适用于个人、接听电话的企业以及构建用户见面日程安排平台的开发人员。",
+    "url": "https://cal.com/",
+    "icon": "https://cal.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/calcom/cal.com"
+      }
+    ]
   }
 ]
