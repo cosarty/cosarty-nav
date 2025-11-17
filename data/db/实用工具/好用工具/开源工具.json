@@ -152,5 +152,14 @@
         "url": "https://github.com/calcom/cal.com"
       }
     ]
+  },
+  {
+    "name": "pandoc",
+    "desc": "Pandoc 是一个通用文档转换器，可将文档从一种格式转换为另一种格式。它支持多种输入和输出格式，包括 Markdown、HTML、PDF、Word 等。",
+    "url": "https://pandoc.org/",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/jgm/pandoc" }
+    ]
   }
 ]
