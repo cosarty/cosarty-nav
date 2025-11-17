@@ -288,5 +288,23 @@
     "desc": "Lovart自动完成设计流程,从概念到图像、视频、3D等。",
     "url": "https://www.lovart.ai/zh",
     "icon": "https://www.lovart.ai/favicon.ico"
+  },
+  {
+    "name": "Vozo",
+    "desc": "一站式AI视频生成、编辑与本地化,轻松搞定视频翻译、配音、对口型、模特换脸与字幕添加。",
+    "url": "https://www.vozo.ai/zh",
+    "icon": "https://www.vozo.ai/favicon.ico"
+  },
+  {
+    "name": "Vozo",
+    "desc": "一站式AI视频生成、编辑与本地化,轻松搞定视频翻译、配音、对口型、模特换脸与字幕添加。",
+    "url": "https://www.vozo.ai/zh",
+    "icon": "https://static-hb.clipp.ai/static-files/83c1gb7g/eXZc2V17k6jTECg-.png"
+  },
+  {
+    "name": "youmind",
+    "desc": "YouMind 是学习与创作交汇的地方。在 YouMind 中，你可以与 AI 智能体一起学习、思考和创作。一切自然流动，与你共同成长。",
+    "url": "https://youmind.com/zh-CN",
+    "icon": "https://marketing-assets.youmind.com/logo-32.png"
   }
 ]
