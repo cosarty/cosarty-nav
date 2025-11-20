@@ -83,5 +83,11 @@
         "url": "https://github.com/ZuodaoTech/everyone-can-use-english"
       }
     ]
+  },
+  {
+    "name": "jitter",
+    "desc": "使用 Jitter 提供的免费、完全可定制的动态设计模板，即可快速创建专业动画。",
+    "url": "https://jitter.video/templates/",
+    "icon": "https://jitter.video/icons/icon-48x48.png?v=21d28f330028d89e8d5b84bbf64c7c6a"
   }
 ]
