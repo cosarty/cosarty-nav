@@ -94,5 +94,17 @@
     "desc": "Seko 是一个尖端的 AI 视频生成平台，可将您的创意转化为令人惊叹的专业视频。利用先进的 AI 技术创建、编辑和定制视频。加入全球数千名创作者的行列。",
     "url": "https://seko.sensetime.com/explore",
     "icon": "https://seko.sensetime.com/logo.svg"
+  },
+  {
+    "name": "stitch",
+    "desc": "Stitch 可为移动和 Web 应用程序生成用户界面，使设计构思变得快速而轻松。",
+    "url": "https://stitch.withgoogle.com/",
+    "icon": "https://www.gstatic.com/labs-code/favicon-16x16.png"
+  },
+  {
+    "name": "hera",
+    "desc": "您的 AI 动态设计师。",
+    "url": "https://app.hera.video/motions",
+    "icon": "https://app.hera.video/favicon.ico"
   }
 ]
