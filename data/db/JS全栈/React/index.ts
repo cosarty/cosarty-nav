@@ -5,6 +5,7 @@ import Frame from './框架.json'
 import Hooks from './hooks.json'
 import Admin from './开源后台模版.json'
 import Visual from './可视化框架.json'
+import Remotion from './remotion.json'
 
 export default {
   title: 'React',
@@ -32,6 +33,10 @@ export default {
     {
       title: '开源后台模版',
       nav: Admin,
+    },
+    {
+      title: 'remotion编辑框架',
+      nav: Remotion,
     },
     {
       title: '其他',

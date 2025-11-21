@@ -1,0 +1,50 @@
+[
+  {
+    "name": "react-video-editor",
+    "desc": "视频和图形编辑器应用程序的 SDK。",
+    "url": "https://designcombo.dev/",
+    "icon": "https://designcombo.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/designcombo/react-video-editor"
+      }
+    ]
+  },
+  {
+    "name": "losslesscut",
+    "desc": "无损视频/音频编辑的瑞士军刀",
+    "url": "https://mifi.no/losslesscut/",
+    "icon": "https://mifi.no/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/mifi/lossless-cut"
+      }
+    ]
+  },
+  {
+    "name": "videoeditor",
+    "desc": "您的视频剪辑创意助手",
+    "url": "https://trykimu.com/",
+    "icon": "https://trykimu.com/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/trykimu/videoeditor"
+      }
+    ]
+  },
+  {
+    "name": "clipjs",
+    "desc": "直接在电脑或手机上编辑视频，无需下载、无需注册、无水印。在线、免费、开源。",
+    "url": "https://clipjs.vercel.app/",
+    "icon": "https://clipjs.vercel.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/mohyware/clip-js"
+      }
+    ]
+  }
+]
