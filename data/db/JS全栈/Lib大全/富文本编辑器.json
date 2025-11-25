@@ -110,5 +110,17 @@
         "url": "https://github.com/steven-tey/novel"
       }
     ]
+  },
+  {
+    "name": "shadcn-editor",
+    "desc": "一款易于使用、可自定义的富文本编辑器。基于 Lexical 和 Shadcn/UI 开发。开源。开源代码。",
+    "url": "https://shadcn-editor.vercel.app/",
+    "icon": "https://shadcn-editor.vercel.app/favicon-16x16.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/htmujahid/shadcn-editor"
+      }
+    ] 
   }
 ]

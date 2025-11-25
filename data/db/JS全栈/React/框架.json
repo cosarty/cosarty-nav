@@ -75,5 +75,11 @@
         "url": "https://github.com/remotion-dev/remotion"
       }
     ]
+  },
+  {
+    "name": "DS shadcn",
+    "desc": "用于构建 Framer、Canva 等设计工具的组件。无限画布。图层。拖放。调整大小。样式。可组合。高性能。Developer-friendly.",
+    "url": "https://ds.shadcn.com/",
+    "icon": "https://ds.shadcn.com/favicon.ico"
   }
 ]
