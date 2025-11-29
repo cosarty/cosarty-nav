@@ -161,5 +161,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/jgm/pandoc" }
     ]
+  },
+  {
+    "name": "Speedy",
+    "desc": "modifier.[一款开源的游戏变速器]",
+    "url": "https://github.com/game1024/Speedy",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -166,5 +166,11 @@
     "desc": "VoxCPM：无需标记器的 TTS，用于上下文感知语音生成和逼真的语音克隆",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "SoulX-Podcast",
+    "desc": "SoulX-Podcast 是 Soul AI 团队开发的推理代码库，用于从文本生成高保真播客。",
+    "url": "https://github.com/Soul-AILab/SoulX-Podcast",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

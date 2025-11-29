@@ -88,5 +88,11 @@
     "desc": "利用 Remotion 进行 AI 视频生成——一种以设计系统为先导的专业多平台视频创建方法",
     "url": "https://github.com/chrishayuk/chuk-motion",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "fogsight",
+    "desc": "Fogsight 是一个由大型语言模型驱动的 AI 代理和动画引擎。",
+    "url": "https://github.com/fogsightai/fogsight",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
