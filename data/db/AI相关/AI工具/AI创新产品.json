@@ -306,5 +306,11 @@
     "desc": "YouMind 是学习与创作交汇的地方。在 YouMind 中，你可以与 AI 智能体一起学习、思考和创作。一切自然流动，与你共同成长。",
     "url": "https://youmind.com/zh-CN",
     "icon": "https://marketing-assets.youmind.com/logo-32.png"
+  },
+  {
+    "name": "gling",
+    "desc": "专为 YouTube 用户打造的 AI 内容创作工具，可轻松将原始视频转化为引人入胜的内容。",
+    "url": "https://www.gling.ai/",
+    "icon": "https://cdn.prod.website-files.com/661e4b87a937b4e02f561ea5/661e5bee79a9308eeb304aa5_favicon.svg"
   }
 ]
