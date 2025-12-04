@@ -167,5 +167,14 @@
     "desc": "modifier.[一款开源的游戏变速器]",
     "url": "https://github.com/game1024/Speedy",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Social-Auto-Upload",
+    "desc": "一站式解决方案，支持抖音、小红书、视频号、TikTok、YouTube、Bilibili等平台的视频自动上传与发布。",
+    "url": "https://sap-doc.nasdaddy.com/",
+    "icon": "https://sap-doc.nasdaddy.com/img/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/dreammis/social-auto-upload" }
+    ]
   }
 ]
