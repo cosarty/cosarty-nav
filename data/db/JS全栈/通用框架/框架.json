@@ -215,5 +215,17 @@
         "url": "https://github.com/OpenListTeam/OpenList"
       }
     ]
+  },
+  {
+    "name": "ai-sdk",
+    "desc": "TypeScript AI 工具包。该 AI SDK 由 Next.js 的创建者开发，是一个免费的开源库，用于构建 AI 应用和代理。。",
+    "url": "https://ai-sdk.dev/",
+    "icon": "https://ai-sdk.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/vercel/ai"
+      }
+    ]
   }
 ]
