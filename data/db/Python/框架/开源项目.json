@@ -94,5 +94,11 @@
     "desc": "Fogsight 是一个由大型语言模型驱动的 AI 代理和动画引擎。",
     "url": "https://github.com/fogsightai/fogsight",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "RedInk",
+    "desc": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌",
+    "url": "https://github.com/HisMax/RedInk",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

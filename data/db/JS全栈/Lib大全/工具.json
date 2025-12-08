@@ -496,5 +496,17 @@
         "url": "https://github.com/Vanilagy/mediabunny"
       }
     ]
+  },
+  {
+    "name": "axios-cache-interceptor",
+    "desc": "Axios 缓存拦截器",
+    "url": "https://axios-cache-interceptor.js.org/",
+    "icon": "https://axios-cache-interceptor.js.org/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/arthurfiorette/axios-cache-interceptor"
+      }
+    ]
   }
 ]
