@@ -227,5 +227,11 @@
         "url": "https://github.com/vercel/ai"
       }
     ]
+  },
+  {
+    "name":"revealjs",
+    "desc": "HTML 演示框架",
+    "url": "https://revealjs.com/",
+    "icon": "https://revealjs.com/images/favicon.svg"
   }
 ]

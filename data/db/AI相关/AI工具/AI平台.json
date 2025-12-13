@@ -106,5 +106,11 @@
     "desc": "您的 AI 动态设计师。",
     "url": "https://app.hera.video/motions",
     "icon": "https://app.hera.video/favicon.ico"
+  },
+  { 
+    "name": "keevx",
+    "desc": "粘贴任何产品或应用商店的网址，即可立即生成视频广告。利用人工智能自动创建广告，提升您在 TikTok、Shopify、Facebook 等平台上的转化率。。",
+    "url": "https://www.keevx.com/main/home",
+    "icon": "https://www.keevx.com/digital-human-web-new-base/img/favicon.png?v=3"
   }
 ]

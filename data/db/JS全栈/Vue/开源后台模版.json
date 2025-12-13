@@ -76,5 +76,11 @@
     "desc": "快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。",
     "url": "https://github.com/ikuaitu/vue-fabric-editor",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "vue-admin-better",
+    "desc": "致力于成为开源社区中运行速度最快、打包等待时间最短、上手难度最低的中后台前端框架",
+    "url": "https://github.com/zxwk1998/vue-admin-better",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

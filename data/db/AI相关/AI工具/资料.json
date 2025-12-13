@@ -51,5 +51,20 @@
     "desc": "提示词大全",
     "url": "https://dye87dshnj.feishu.cn/wiki/V9yRwhugsiHhuokVodAcCbMWnef",
     "icon": "https://www.feishu.cn/favicon.ico"
+  },
+  {
+    "name": "vibe-coding-cn",
+    "desc": "vibe coding 至尊超级终极无敌指南 V114514",
+    "url": "https://github.com/tukuaiai/vibe-coding-cn",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "awesome-nano-banana",
+    "desc": "精选图片和提示语，由gemini-2.5-flash-image（又名 Nano Banana）——一款先进的图像生成和编辑模型——生成。探索使用 Gemini 创建的 AI 生成视觉作品，展现谷歌先进的图像生成能力。",
+    "url": "https://www.chatimg.ai/zh/gallery",
+    "icon": "https://www.chatimg.ai/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/JimmyLv/awesome-nano-banana" }
+    ]
   }
 ]

@@ -22,5 +22,35 @@
     "desc": "Prompt, run, edit & deploy web apps",
     "url": "https://bolt.new/",
     "icon": "https://bolt.new/static/favicon.svg"
+  }, 
+  {
+    "name":"spec-kit",
+    "desc": "💫 帮助您入门规范驱动开发的工具包",
+    "url": "https://github.com/github/spec-kit",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"v0.dev",
+    "desc": "AI编程",
+    "url": "https://v0.dev",
+    "icon": "https://v0.dev/assets/icon.svg"
+  },
+  {
+    "name":"spec-workflow-mcp",
+    "desc": "模型上下文协议 (MCP) 服务器为 AI 辅助软件开发提供结构化的规范驱动开发工作流工具，具有实时 Web 仪表板和 VSCode 扩展，可直接在开发环境中监控和管理项目进度。",
+    "url": "https://github.com/Pimzino/spec-workflow-mcp",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"kiro",
+    "desc": "亚马逊出的ai coding工具",
+    "url": "https://kiro.dev/",
+    "icon": "https://kiro.dev/favicon.ico"
+  },
+  {
+    "name":"claude-mem",
+    "desc": "一个 Claude Code 插件，可以自动捕获 Claude 在您的编码会话期间所做的一切，使用 AI（使用 Claude 的 agent-sdk）对其进行压缩，并将相关的上下文注入到未来的会话中。",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

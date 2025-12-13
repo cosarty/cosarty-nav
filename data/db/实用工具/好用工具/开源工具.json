@@ -176,5 +176,12 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/dreammis/social-auto-upload" }
     ]
+  },
+  {
+    "name": "reinstall",
+    "desc": "一键DD/重装脚本 (One-click reinstall OS on VPS)。",
+    "url": "https://github.com/bin456789/reinstall",
+    "icon": "https://github.com/favicon.ico"
+   
   }
 ]
