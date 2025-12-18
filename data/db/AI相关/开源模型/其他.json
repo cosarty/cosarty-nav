@@ -88,5 +88,23 @@
     "desc": "🆙 Upscayl - 适用于 Linux、MacOS 和 Windows 的排名第一的免费开源 AI 图像升级器。",
     "url": "https://github.com/upscayl/upscayl",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "InfiniteTalk",
+    "desc": "无限长度的对话视频生成​​，支持图像转视频、视频转视频!",
+    "url": "https://github.com/MeiGen-AI/InfiniteTalk",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MultiTalk",
+    "desc": "让他们说话：基于音频的多人对话视频生成（NeurIPS 2025）.",
+    "url": "https://github.com/MeiGen-AI/MultiTalk",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "LongCat-Video-Avatar",
+    "desc": "这是一个统一的模型，可提供富有表现力且高度动态的音频驱动角色动画，支持包括音频文本转视频、音频文本图像转视频和视频连续播放在内的原生任务，并无缝兼容单流和多流音频输入。",
+    "url": "https://github.com/MeiGen-AI/LongCat-Video-Avatar",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

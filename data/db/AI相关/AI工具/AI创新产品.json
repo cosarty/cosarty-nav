@@ -257,12 +257,6 @@
     "icon": "https://github.com/favicon.ico"
   },
   {
-    "name": "InfiniteTalk",
-    "desc": "无限长度的对话视频生成​​，支持图像转视频、视频转视频!",
-    "url": "https://github.com/MeiGen-AI/InfiniteTalk",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
     "name": "ChopperBot",
     "desc": "虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮",
     "url": "https://github.com/Geniusay/ChopperBot",
