@@ -22,5 +22,11 @@
     "desc": "由社区制作的美观且一致的图标工具包。",
     "url": "https://lucide.dev/icons/",
     "icon": "https://lucide.dev/favicon.ico"
+  },
+  {
+    "name": "Lucide-animated",
+    "desc": "精美制作的动画图标 *",
+    "url": "https://lucide-animated.com/",
+    "icon": "https://lucide-animated.com/icon?f65901712075763a"
   }
 ]
