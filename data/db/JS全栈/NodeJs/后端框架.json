@@ -40,5 +40,17 @@
     "desc": "人体工程学框架。",
     "url": "https://elysiajs.com/",
     "icon": "https://elysiajs.com/assets/elysia.png"
+  },
+  {
+    "name": "motia",
+    "desc": "后端工程的新范式。",
+    "url": "https://motia.dev/",
+    "icon": "https://cdn.prod.website-files.com/68ac358911ebdce85872236d/691c5748f547a06b8d894525_Frame%20628733.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/MotiaDev/motia"
+      }
+    ]
   }
 ]

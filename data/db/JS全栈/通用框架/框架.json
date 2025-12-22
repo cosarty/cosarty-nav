@@ -233,5 +233,29 @@
     "desc": "HTML 演示框架",
     "url": "https://revealjs.com/",
     "icon": "https://revealjs.com/images/favicon.svg"
+  },
+  {
+    "name": "better-auth",
+    "desc": "最全面的 TypeScript 身份验证框架。",
+    "url": "https://www.better-auth.com/",
+    "icon": "https://www.better-auth.com/favicon/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/better-auth/better-auth"
+      }
+    ]
+  },
+  {
+    "name": "next-auth",
+    "desc": "Auth.js 是一组基于标准 Web API 构建的开源软件包，用于在任何平台上使用任何框架和任何 JS 运行时对现代应用程序进行身份验证。。",
+    "url": "https://next-auth.js.org/",
+    "icon": "https://next-auth.js.org/img/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "http://github.com/nextauthjs/next-auth"
+      }
+    ]
   }
 ]

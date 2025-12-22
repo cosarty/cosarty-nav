@@ -22,6 +22,12 @@
     "desc": "CSS 奇技淫巧，在这里，都有。",
     "url": "https://github.com/chokcoco/iCSS",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "hackathon-starter",
+    "desc": "Node.js Web 应用程序的样板。",
+    "url": "https://github.com/sahat/hackathon-starter",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
 
