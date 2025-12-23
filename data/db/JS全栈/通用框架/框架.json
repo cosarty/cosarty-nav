@@ -269,5 +269,17 @@
         "url": "https://github.com/nextauthjs/next-auth"
       }
     ]
+  },
+  {
+    "name": "nuxt-auth",
+    "desc": "Nuxt 的身份验证！通过 authjs 进行用户身份验证和会话！。",
+    "url": "https://auth.sidebase.io/",
+    "icon": "https://auth.sidebase.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/sidebase/nuxt-auth"
+      }
+    ]
   }
 ]
