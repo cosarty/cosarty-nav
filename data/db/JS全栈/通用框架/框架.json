@@ -257,5 +257,17 @@
         "url": "http://github.com/nextauthjs/next-auth"
       }
     ]
+  },
+  {
+    "name": "authjs",
+    "desc": "Auth.js 是一个与运行时无关的库，它基于标准的 Web API，并与多个现代 JavaScript 框架深度集成，提供易于上手、易于扩展且始终私密安全的身份验证体验！",
+    "url": "https://authjs.dev/",
+    "icon": "https://authjs.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/nextauthjs/next-auth"
+      }
+    ]
   }
 ]
