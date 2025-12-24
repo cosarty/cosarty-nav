@@ -106,5 +106,11 @@
     "desc": "将任何 PDF 或图像文档转换为结构化数据，供您的 AI 使用。这是一款功能强大、轻量级的 OCR 工具包，能够弥合图像/PDF 与语言语言模型 (LLM) 之间的鸿沟。支持 100 多种语言。",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"PasteMD",
+    "desc":"一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek 等）完美粘贴到 Word、WPS 和 Excel 的效率工具 |一键将 Markdown 和 AI 回复（ChatGPT/DeepSeek）完美粘贴到 Word、WPS 和 Excel 中。",
+    "url":"https://github.com/RICHQAQ/PasteMD",
+    "icon":"https://github.com/favicon.ico"
   }
 ]
