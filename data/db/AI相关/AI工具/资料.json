@@ -66,5 +66,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/JimmyLv/awesome-nano-banana" }
     ]
+  },
+  {
+    "name": "OSSInsight",
+    "desc": "GitHub 数据浏览器",
+    "url": "https://ossinsight.io/explore/",
+    "icon": "https://ossinsight.io/img/favicon-1.png"
   }
 ]
