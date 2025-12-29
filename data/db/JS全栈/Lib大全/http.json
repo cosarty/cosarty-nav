@@ -28,5 +28,23 @@
     "desc": "alova完美兼容你最喜欢的HTTP client和UI框架，快速开发客户端和服务的应用的业务逻辑，同时让API信息与代码进行交互，像虫洞一样拉近后端协作距离，极致高效地集成你的APIs",
     "url": "https://alova.js.org/zh-CN/",
     "icon": "https://alova.js.org/zh-CN/img/favicon.ico"
+  },
+  {
+    "name": "ky",
+    "desc": "🌳 基于 Fetch API 的轻量级优雅 JavaScript HTTP 客户端",
+    "url": "https://github.com/sindresorhus/ky",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "swr",
+    "desc": "专为 React 构建的现代化数据获取机制",
+    "url": "https://swr.vercel.app/",
+    "icon": "https://swr.vercel.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/vercel/swr"
+      }
+    ]
   }
 ]
