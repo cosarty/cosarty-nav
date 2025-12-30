@@ -112,5 +112,17 @@
     "desc":"一键将 Markdown 和网页 AI 对话（ChatGPT/DeepSeek 等）完美粘贴到 Word、WPS 和 Excel 的效率工具 |一键将 Markdown 和 AI 回复（ChatGPT/DeepSeek）完美粘贴到 Word、WPS 和 Excel 中。",
     "url":"https://github.com/RICHQAQ/PasteMD",
     "icon":"https://github.com/favicon.ico"
+  },
+  {
+    "name":"agno",
+    "desc":"Agno 提供唯一端到端的代理解决方案。",
+    "url":"https://www.agno.com/",
+    "icon":"https://cdn.prod.website-files.com/6796d350b8c706e4533e7e32/68a85cff903ee6514fac3a97_32.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/agno-agi/agno"
+      }
+    ]
   }
 ]
