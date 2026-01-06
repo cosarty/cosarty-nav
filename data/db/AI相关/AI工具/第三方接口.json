@@ -52,5 +52,11 @@
     "desc": "302.AI是按用量付费的企业级AI平台，提供最新图像、视频、音频及语言模型API，一站式接入无需多供应商付费。享企业级稳定性、无TPM限制、丰富开源应用生态，支持私有化部署。立即体验高效AI开发，适用于企业及爱好者",
     "url": "https://302.ai/",
     "icon": "https://302.ai/img/logo.ico"
+  },
+  {
+    "name": "KieAI",
+    "desc": "一站式访问最佳的视频、图像和音乐模型。",
+    "url": "https://kie.ai/zh-CN",
+    "icon": "https://kie.ai/favicon.ico"
   }
 ]
