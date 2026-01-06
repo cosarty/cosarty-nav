@@ -508,5 +508,11 @@
         "url": "https://github.com/arthurfiorette/axios-cache-interceptor"
       }
     ]
+  },
+  {
+    "name": "flexsearch",
+    "desc": "FlexSearch 是一个用于在 JavaScript 中进行全文搜索的库。",
+    "url": "https://github.com/nextapps-de/flexsearch",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
