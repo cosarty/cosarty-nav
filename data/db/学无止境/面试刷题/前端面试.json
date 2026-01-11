@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "https://q.shanyue.tech/favicon.ico",
+    "name": "大厂面试每日一题",
+    "desc": "大厂面试每日一题，每天五分钟，准备大厂中",
+    "url": "https://q.shanyue.tech"
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "前端面试题",
+    "desc": "语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题",
+    "url": "https://github.com/febobo/web-interview"
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "vue3源码学习",
+    "desc": "vue3源码学习",
+    "url": "https://github.com/vue3-club/vue3-docs"
+  },
+  {
+    "icon": "https://senior-frontend.pages.dev/logo.png",
+    "name": "web全栈体系",
+    "desc": "web全栈体系",
+    "url": "https://senior-frontend.pages.dev/"
+  },
+  {
+    "icon": "https://sunzsh.gitbook.io/xiaoshan.bug/~gitbook/image?url=https%3A%2F%2F679498229-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fb6ozx3btwKcgZi8bqOyB%252Ficon%252FLDsfbbzEsNl2CbnAYEgZ%252Fheader_margin.JPG%3Falt%3Dmedia%26token%3D23ceea1e-08cd-41bb-967d-1f301fedd8b9&width=32&dpr=4&quality=100&sign=6df1ce50&sv=2",
+    "name": "小山Bug",
+    "desc": "小山Bug",
+    "url": "https://sunzsh.gitbook.io/xiaoshan.bug/"
+  },
+  {
+    "icon": "Learn-Vue-Source-Code",
+    "name": "vue源码学习",
+    "desc": "vue源码学习",
+    "url": "https://github.com/NLRX-WJC/Learn-Vue-Source-Code"
+  }
+]

@@ -1,16 +1,5 @@
 [
   {
-    "icon": "https://refactoringguru.cn/favicon.ico",
-    "name": "Refactoring.Guru",
-    "desc": "22种常用设计模式",
-    "url": "https://refactoringguru.cn/design-patterns",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["学无止境", "参考文档", "书籍"],
-    "id": 163,
-    "tags": []
-  },
-  {
     "icon": "https://github.com/favicon.ico",
     "name": "System Design Primer",
     "desc": "学习如何设计大型系统。准备系统设计面试。包含 Anki 抽认卡。",

@@ -3,11 +3,54 @@
     "icon": "https://www.imooc.com/static/img/common/touch-icon-ipad.png",
     "name": "慕课网",
     "desc": "慕课网-程序员的梦工厂",
-    "url": "https://www.imooc.com/",
-    "createdAt": "2021-01-23 09:32",
-    "rate": 5,
-    "breadcrumb": ["学无止境", "教程相关"],
-    "id": 178,
-    "tags": []
+    "url": "https://www.imooc.com/"
+  },
+  {
+    "icon": "https://liaoxuefeng.com/favicon.ico",
+    "name": "廖雪峰的官方网站",
+    "desc": "廖雪峰的官方网站",
+    "url": "https://liaoxuefeng.com/index.html"
+  },
+  {
+    "icon": "https://template-explorer.vuejs.org/favicon.ico",
+    "name": "Vue Template Explorer",
+    "desc": "vue 源码学习",
+    "url": "https://template-explorer.vuejs.org/#eyJzcmMiOiI8ZGl2PkhlbGxvIFdvcmxkPC9kaXY+Iiwib3B0aW9ucyI6e319"
+  },
+  {
+    "icon": "https://www.zhangxinxu.com/favicon.ico",
+    "name": "张鑫旭-鑫空间-鑫生活",
+    "desc": "张鑫旭-鑫空间-鑫生活",
+    "url": "https://www.zhangxinxu.com/"
+  },
+  {
+    "icon": "https://magic.iswbm.com/favicon.ico",
+    "name": "Python黑魔法手册",
+    "desc": "Python黑魔法手册",
+    "url": "https://magic.iswbm.com/"
+  },
+  {
+    "icon": "https://github.com/favicon.ico",
+    "name": "nodebestpractices",
+    "desc": "✅ Node.js 最佳实践列表（2024 年 7 月）",
+    "url": "https://github.com/goldbergyoni/nodebestpractices"
+  },
+  {
+    "icon": "https://weijunext.com/favicon.ico",
+    "name": "J实验室",
+    "desc": "全栈工程师，Next.js开源手艺人，掘金签约作者，折腾才有未来",
+    "url": "https://weijunext.com/"
+  },
+  {
+    "icon": "https://www.feishu.cn/favicon.ico",
+    "name": "飞书社区",
+    "desc": "飞书社区",
+    "url": "https://www.feishu.cn/community/articles/wiki"
+  },
+  {
+    "icon": "https://coffeetea.top/favicon.ico",
+    "name": "Obsidian文档咖啡豆版",
+    "desc": "Obsidian文档咖啡豆版",
+    "url": "https://coffeetea.top/zh/"
   }
 ]

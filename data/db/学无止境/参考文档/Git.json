@@ -20,5 +20,11 @@
     "breadcrumb": ["学无止境", "参考文档", "Git"],
     "id": 152,
     "tags": []
+  },
+  {
+    "icon": "https://learngitbranching.js.org/assets/favicon.ico",
+    "name": "learnGitBranching",
+    "desc": "git 学习网站",
+    "url": "https://learngitbranching.js.org/?locale=zh_CN"
   }
 ]

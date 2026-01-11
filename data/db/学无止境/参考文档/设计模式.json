@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "https://refactoringguru.cn/favicon.ico",
+    "name": "Refactoring.Guru",
+    "desc": "22种常用设计模式",
+    "url": "https://refactoringguru.cn/design-patterns"
+  },
+  {
+    "icon": "https://www.patterns.dev/img/favicon/favicon.ico",
+    "name": "Patterns",
+    "desc": "改进 Web 应用程序的架构设计",
+    "url": "https://www.patterns.dev/"
+  }
+]
