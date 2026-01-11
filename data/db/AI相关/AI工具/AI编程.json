@@ -52,5 +52,11 @@
     "desc": "一个 Claude Code 插件，可以自动捕获 Claude 在您的编码会话期间所做的一切，使用 AI（使用 Claude 的 agent-sdk）对其进行压缩，并将相关的上下文注入到未来的会话中。",
     "url": "https://github.com/thedotmack/claude-mem",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"superpowers",
+    "desc": "claude 核心技能库",
+    "url": "https://github.com/obra/superpowers",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
