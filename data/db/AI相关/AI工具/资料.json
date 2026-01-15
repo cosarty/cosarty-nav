@@ -72,5 +72,14 @@
     "desc": "GitHub 数据浏览器",
     "url": "https://ossinsight.io/explore/",
     "icon": "https://ossinsight.io/img/favicon-1.png"
+  },
+  {
+    "name": "🐟 鱼皮的 AI 知识库",
+    "desc": "🐟 鱼皮的 AI 知识库",
+    "url": "https://ai.codefather.cn/library/2010994846520700929",
+    "icon": "https://ai.codefather.cn/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/liyupi/ai-guide" }
+    ]
   }
 ]
