@@ -58,5 +58,17 @@
     "desc": "claude 核心技能库",
     "url": "https://github.com/obra/superpowers",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"opencode.ai",
+    "desc": "开源人工智能编码代理",
+    "url": "https://opencode.ai/",
+    "icon": "https://opencode.ai/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/anomalyco/opencode"
+      }
+    ]
   }
 ]
