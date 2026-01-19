@@ -52,5 +52,11 @@
         "url": "https://github.com/MotiaDev/motia"
       }
     ]
+  },
+  {
+    "name": "adonisjs",
+    "desc": "Create bespoke backend applications in record time。",
+    "url": "https://adonisjs.com/",
+    "icon": "https://adonisjs.com/icons/favicon-32x32.png"
   }
 ]

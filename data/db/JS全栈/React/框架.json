@@ -93,5 +93,11 @@
         "url": "https://github.com/vercel/streamdown"
       }
     ]
+  },
+  {
+    "name": "embla-carousel",
+    "desc": "一款轻量级的轮播图库，拥有流畅的动画效果和极佳的滑动精度。。",
+    "url": "https://www.embla-carousel.com/",
+    "icon": "https://www.embla-carousel.com/favicon-32x32.png?v=438bb8af91f59256d3cb36c30e91b51e"
   }
 ]
