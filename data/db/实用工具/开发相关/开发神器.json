@@ -459,5 +459,17 @@
     "desc": "为下一代高效企业构建完善的金融基础设施。",
     "url": "https://www.creem.io/",
     "icon": "https://www.creem.io/favicon.ico"
+  },
+  {
+    "name": "Dify",
+    "desc": "Dify 是一个开源的 AI 应用开发平台，支持多种 AI 模型，如 OpenAI、DeepSeek、Claude 等。",
+    "url": "https://dify.ai/",
+    "icon": "https://dify.ai/favicon.ico"
+  },
+  {
+    "name": "paddle",
+    "desc": "让您的计费操作自动化,作为记录商家，我们管理您的付款、税收和合规需求，以便您可以专注于增长。",
+    "url": "https://www.paddle.com/",
+    "icon": "https://www.paddle.com/favicon.ico"
   }
 ]
