@@ -1,0 +1,14 @@
+[
+  {
+    "icon": "https://www.cloudflare.com/favicon.ico",
+    "name": "Cloudflare",
+    "desc": "Cloudflare 是一个全球性的 CDN 和 DNS 服务提供商，提供网站加速、安全防护、DDoS 保护等功能。",
+    "url": "https://www.cloudflare.com/"
+  },
+  {
+    "icon": "https://edgeone.ai/favicon.ico",
+    "name": "EdgeOne",
+    "desc": "作为亚洲领先的CDN提供商，腾讯EdgeOne利用腾讯庞大的边缘计算节点，提供先进的加速和安全解决方案。这些服务为电子商务、零售、金融服务、内容分发和游戏等行业提供保障，显著提升了整个地区的用户体验。",
+    "url": "https://edgeone.ai/zh"
+  }
+]
