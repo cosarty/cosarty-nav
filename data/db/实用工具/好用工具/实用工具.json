@@ -101,5 +101,11 @@
     "desc": "这是一个基于 Next.js 的 Web 应用程序，它将 AI 功能与 draw.io 图表集成在一起。该应用程序允许您通过自然语言命令和 AI 辅助可视化来创建、修改和增强图表。。",
     "url": "https://github.com/DayuanJiang/next-ai-draw-io",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "shots.so",
+    "desc": "Create Amazing Mockups",
+    "url": "https://shots.so/",
+    "icon": "https://shots.so/image/favicon.png"
   }
 ]
