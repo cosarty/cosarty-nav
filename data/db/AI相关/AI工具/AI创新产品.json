@@ -360,5 +360,11 @@
     "desc": "火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 Huobao Drama - An AI-Powered End-to-End Short Drama Generator 《One Sentence to Complete Drama: Fully Automated from Script to Final Video》",
     "url": "https://github.com/chatfire-AI/huobao-drama",
     "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"ViNote",
+    "desc": "ViNoter超级智能体是一个基于ANP协议的开源对话式AI工具，通过自然语言对话自动化视频处理全流程，包括跨平台搜索、转录、笔记生成和翻译。也能离线处理视频笔记，让你轻松获取视频价值！打造个人笔记助手！",
+    "url": "https://github.com/zrt-ai-lab/ViNote",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

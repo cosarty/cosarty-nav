@@ -81,5 +81,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/liyupi/ai-guide" }
     ]
+  },
+  {
+    "name": "Jason的主页",
+    "desc": "爱摸鱼的Web全栈开发者，效率工具的狂热爱好者。持续分享Notion | Obsidian | AI | 计算机相关内容。",
+    "url": "https://jason-effi-lab.notion.site/",
+    "icon": "https://jason-effi-lab.notion.site/icons/notion_gray.svg?mode=light"
   }
 ]
