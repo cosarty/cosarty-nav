@@ -124,5 +124,11 @@
     "desc": "ImagineArt 是一款顶尖的 AI 创意套件，可根据文本提示生成图像、视频、短片和语音。该平台包含高级编辑工具、背景移除器、图像放大器和自定义模型。拥有超过 3000 万用户和 1 亿次下载量，支持网页和移动端。无需任何经验！",
     "url": "https://www.imagine.art/image?prompt=Stylish+woman+in+black+and+white+outfit+with+lace+details+and+bold+platform+boots%2C+posing+confidently+against+a+neutral+gray+background.%0A&aspectRatio=3%3A4&modelListId=1080",
     "icon": "https://www.imagine.art/favicon.ico"
+  },
+  {
+    "name": "vivago",
+    "desc": "通过vivago.ai免费创作AI艺术与视频：文生图、图生视频、4K编辑工具。立即加入社区！🚀",
+    "url": "https://vivago.ai/zh/studio",
+    "icon": "https://vivago.ai/favicon.ico"
   }
 ]
