@@ -1,7 +1,6 @@
 import AIWriting from './AI写作.json'
 import ThirdPartyAPI from './第三方接口.json'
 import AIInnovationProduct from './AI创新产品.json'
-import AIProgramming from './AI编程.json'
 import AIPlatform from './AI平台.json'
 import AIAgent from './智能体.json'
 import KnowledgeBase from './知识库.json'
@@ -45,10 +44,6 @@ export default {
     {
       title: '向量数据库',
       nav: VectorDatabase,
-    },
-    {
-      title: 'AI编程',
-      nav: AIProgramming,
     },
     {
       title: 'AI创新产品',

@@ -1,6 +1,7 @@
 import AIWriting from './AI工具'
-import AIProgramming from './开源模型'
+import OpenSourceModel from './开源模型'
+import AIProgramming from './AI编程'
 export default {
   title: 'AI相关',
-  nav: [AIWriting, AIProgramming],
+  nav: [AIWriting, AIProgramming, OpenSourceModel],
 }
