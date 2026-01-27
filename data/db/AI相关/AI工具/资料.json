@@ -87,5 +87,11 @@
     "desc": "爱摸鱼的Web全栈开发者，效率工具的狂热爱好者。持续分享Notion | Obsidian | AI | 计算机相关内容。",
     "url": "https://jason-effi-lab.notion.site/",
     "icon": "https://jason-effi-lab.notion.site/icons/notion_gray.svg?mode=light"
+  },
+  {
+    "name": "OpenCode 中文实战课",
+    "desc": "完全免费 · 零基础学会用 AI 干实际工作",
+    "url": "https://learnopencode.com/",
+    "icon": "https://learnopencode.com/favicon.png"
   }
 ]
