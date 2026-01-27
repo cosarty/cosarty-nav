@@ -366,5 +366,11 @@
     "desc": "ViNoter超级智能体是一个基于ANP协议的开源对话式AI工具，通过自然语言对话自动化视频处理全流程，包括跨平台搜索、转录、笔记生成和翻译。也能离线处理视频笔记，让你轻松获取视频价值！打造个人笔记助手！",
     "url": "https://github.com/zrt-ai-lab/ViNote",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"CookHero",
+    "desc": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”",
+    "url": "https://github.com/Decade-qiu/CookHero",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
