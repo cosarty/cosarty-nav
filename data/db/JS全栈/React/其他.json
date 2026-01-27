@@ -70,5 +70,17 @@
         "url": "https://github.com/advanced-cropper/react-advanced-cropper"
       }
     ]
+  },
+  {
+    "name": "React Timeline Editor",
+    "desc": "基于react开发，用于快速搭建时间线编辑能力的组件。",
+    "url": "https://zdarcy.com/zh/index.html",
+    "icon": "https://zdarcy.com/icon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/xzdarcy/react-timeline-editor"
+      }
+    ]
   }
 ]
