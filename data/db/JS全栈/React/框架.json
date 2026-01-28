@@ -99,5 +99,17 @@
     "desc": "一款轻量级的轮播图库，拥有流畅的动画效果和极佳的滑动精度。。",
     "url": "https://www.embla-carousel.com/",
     "icon": "https://www.embla-carousel.com/favicon-32x32.png?v=438bb8af91f59256d3cb36c30e91b51e"
+  },
+  {
+    "name": "Moveable React",
+    "desc": "可移动的属性包括：可拖动、可调整大小、可缩放、可旋转、可变形、可捏合、可分组、可吸附。",
+    "url": "https://daybrush.com/moveable/storybook/?path=/story/introduction--page",
+    "icon": "https://daybrush.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/daybrush/moveable"
+      }
+    ]
   }
 ]
