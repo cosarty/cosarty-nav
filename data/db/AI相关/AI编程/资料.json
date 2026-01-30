@@ -4,5 +4,11 @@
     "desc": "完全免费 · 零基础学会用 AI 干实际工作",
     "url": "https://learnopencode.com/",
     "icon": "https://learnopencode.com/favicon.png"
+  },
+  {
+    "name": "Opencode Docs",
+    "desc": "源码驱动的AI 全场景教程学完就能用起来",
+    "url": "https://opencodedocs.com/zh/",
+    "icon": "https://opencodedocs.com/favicon.ico"
   }
 ]
