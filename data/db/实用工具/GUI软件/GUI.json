@@ -86,5 +86,11 @@
     "breadcrumb": ["实用工具", "GUI软件", "GUI"],
     "id": 35,
     "tags": []
+  },
+  {
+    "icon": "https://redis.tinycraft.cc/images/logo.svg",
+    "name": "Tiny RDM",
+    "desc": "有颜也有料，多彩更出彩一个更现代化的Redis桌面管理客户端",
+    "url": "https://redis.tinycraft.cc/zh/"
   }
 ]

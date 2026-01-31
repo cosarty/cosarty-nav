@@ -471,5 +471,101 @@
     "desc": "让您的计费操作自动化,作为记录商家，我们管理您的付款、税收和合规需求，以便您可以专注于增长。",
     "url": "https://www.paddle.com/",
     "icon": "https://www.paddle.com/favicon.ico"
+  },
+  {
+    "name": "ShowDoc",
+    "desc": "技术文档协作平台",
+    "url": "https://www.showdoc.com.cn/",
+    "icon": "https://www.showdoc.com.cn/favicon.ico"
+  },
+  {
+    "name": "cubic-bezier",
+    "desc": "cubic-bezier 是一个在线的贝塞尔曲线工具，可以用来生成贝塞尔曲线。",
+    "url": "https://yisibl.github.io/cubic-bezier/#.17,.67,.83,.67",
+    "icon": "https://yisibl.github.io/favicon.ico"
+  },
+  {
+    "name": "codelf",
+    "desc": "在 GitHub、Bitbucket 和 GitLab 上搜索实际应用中的变量名。",
+    "url": "https://unbug.github.io/codelf/",
+    "icon": "https://unbug.github.io/images/codelf_logo.f4ae25bd.png"
+  },
+  {
+    "name": "jwt.io",
+    "desc": "JSON Web Token (JWT) 调试器",
+    "url": "https://www.jwt.io/",
+    "icon": "https://www.jwt.io/favicon.ico"
+  },
+  {
+    "name": "jsdelivr",
+    "desc": "全球 CDN 加速服务",
+    "url": "https://www.jsdelivr.com/",
+    "icon": "https://www.jsdelivr.com/favicon.ico"
+  },
+  {
+    "name": "caniuse",
+    "desc": "提供最新的浏览器支持表，用于说明桌面和移动网络浏览器对前端网络技术的支持情况。",
+    "url": "https://caniuse.com/",
+    "icon": "https://caniuse.com/img/favicon-128.png"
+  },
+  {
+    "name": "stackblitz",
+    "desc": "将文本转化为可运行的 Web 应用程序。Bolt 会处理代码，让您可以专注于您的创意，直接从浏览器创建和启动应用程序。",
+    "url": "https://stackblitz.com/",
+    "icon": "https://stackblitz.com/favicon.ico"
+  },
+  {
+    "name": "prismaliser",
+    "desc": "Visualise your Prisma schema!",
+  "url": "https://prismaliser.app/",
+    "icon": "https://prismaliser.app/favicon.ico"
+  },
+  {
+    "name": "certbot",
+    "desc": "免费的ssh生成器",
+    "url": "https://certbot.eff.org/instructions?ws=nginx&os=pip",
+    "icon": "https://certbot.eff.org/favicon.ico"
+  },
+  {
+    "name": "box-shadow",
+    "desc": "box-shadow 是一个在线的 box-shadow 工具，可以用来生成 box-shadow。",
+    "url": "https://box-shadow.dev/",
+    "icon": "https://box-shadow.dev/favicon.svg"
+  },
+  {
+    "name": "travis-ci",
+    "desc": "开发者如何构建简单、可靠的 CI/CD 流水线",
+    "url": "https://www.travis-ci.com/",
+    "icon": "https://www.travis-ci.com/favicon.ico"
+  },
+  {
+    "name": "indietools",
+    "desc": "发现精选工具与资源，加速您的独立开发之旅",
+    "url": "https://www.indietools.work/",
+    "icon": "https://www.indietools.work/favicon.ico"
+  },
+  {
+    "name": "layout.bradwoods.io", 
+    "desc": "CSS Grid 生成器和 CSS Flexbox 生成器。用于生成 UI 布局组件代码的工具。",
+    "url": "https://layout.bradwoods.io/",
+    "icon": "https://layout.bradwoods.io/favicon.ico"
+  },
+  {
+    "name": "uinotes",
+    "desc": "UI笔记，收集了各种UI设计素材，包括图标、图片、视频、音频、字体、代码等。",
+    "url": "https://uinotes.com/pin",
+    "icon": "https://uinotes.com/favicon.ico"
+  },
+  {
+    "name": "wisprflow",
+    "desc": "语音转文字人工智能，可将语音转换为清晰、流畅的文字，适用于所有应用程序。",
+    "url": "https://wisprflow.ai/",
+    "icon": "https://wisprflow.ai/favicon.ico"
+  },
+  {
+    "name": "xml-sitemaps",
+    "desc": "只需输入您的网站 URL 即可创建站点地图。",
+    "url": "https://www.xml-sitemaps.com/",
+    "icon": "https://www.xml-sitemaps.com/favicon.ico"
   }
 ]

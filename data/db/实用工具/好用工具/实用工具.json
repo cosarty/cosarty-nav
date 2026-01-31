@@ -107,5 +107,59 @@
     "desc": "Create Amazing Mockups",
     "url": "https://shots.so/",
     "icon": "https://shots.so/image/favicon.png"
+  },
+  {
+    "name": "remove bg",
+    "desc": "移除图片背景",
+    "url": "https://www.remove.bg/",
+    "icon": "https://www.remove.bg/favicon.ico"
+  },
+  {
+    "name": "tsfhdq",
+    "desc": "取名字的网站，查看特殊符号的网站",
+    "url": "https://www.tsfhdq.cn/",
+    "icon": "https://www.tsfhdq.cn/favicon.ico"
+  },
+  {
+    "name": "convertio",
+    "desc": "最好的文件转换器，文件转换器将您的文件转换成任意格式",
+    "url": "https://convertio.co/zh/",
+    "icon": "https://convertio.co/favicon.ico"
+  },
+  {
+    "name": "foxirj",
+    "desc": "每天更新大量精品mac应用软件,macOS破解软件,Windows破解软件,音频插件,视频插件,图像插件",
+    "url": "https://foxirj.com/",
+    "icon": "https://foxirj.com/favicon.ico"
+  },
+  {
+    "name": "123fxb",
+    "desc": "mac破解软件下载。",
+    "url": "http://www.123fxb.com/",
+    "icon": "https://www.123fxb.com/favicon.ico"
+  },
+  {
+    "name": "datatool",
+    "desc": "在线视频下载器.",
+    "url": "https://www.datatool.vip/",
+    "icon": "https://www.datatool.vip/favicon.ico"
+  },
+  {
+    "name": "slea",
+    "desc": "免费AI Logo生成器 – 几分钟内定制专属Logo",
+    "url": "https://slea.ai/zh-CN",
+    "icon": "https://slea.ai/favicon.ico"
+  },
+  {
+    "name": "kms",
+    "desc": "一键激活 windows/office。",
+    "url": "https://kms.cx/",
+    "icon": "https://kms.cx/favicon.ico"
+  },
+  {
+    "name": "prompterhub",
+    "desc": "AI 提示词分享社区，收集了各种AI提示词，包括图标、图片、视频、音频、字体、代码等。",
+    "url": "https://www.prompterhub.cn/home",
+    "icon": "https://www.prompterhub.cn/favicon.ico"
   }
 ]

@@ -70,5 +70,11 @@
         "url": "https://github.com/anomalyco/opencode"
       }
     ]
+  },
+  {
+    "name":"v0 app",
+    "desc": "您的协作式 AI 助手，用于设计、迭代和扩展面向 Web 的全栈应用程序。",
+    "url": "https://v0.app/",
+    "icon": "https://v0.app/assets/icon-light-32x32.png"
   }
 ]

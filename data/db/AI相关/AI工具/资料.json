@@ -87,5 +87,11 @@
     "desc": "爱摸鱼的Web全栈开发者，效率工具的狂热爱好者。持续分享Notion | Obsidian | AI | 计算机相关内容。",
     "url": "https://jason-effi-lab.notion.site/",
     "icon": "https://jason-effi-lab.notion.site/icons/notion_gray.svg?mode=light"
+  },
+  {
+    "name": "Toolify",
+    "desc": "发现最好的AI网站和AI工具。AI工具列表和GPTs列表通过ChatGPT每天自动更新。",
+    "url": "https://www.toolify.ai/zh/",
+    "icon": "https://www.toolify.ai/favicon.ico"
   }
 ]
