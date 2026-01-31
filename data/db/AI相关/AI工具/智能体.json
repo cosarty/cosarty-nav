@@ -97,5 +97,17 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/FastbuildAI/FastbuildAI" }
     ]
+  },
+  {
+    "name": "smolagents",
+    "desc": "一个面向以代码方式思考的智能体的极简库。",
+    "url": "https://huggingface.co/docs/smolagents/index",
+    "icon": "https://huggingface.co/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/huggingface/smolagents"
+      }
+    ]
   }
 ]
