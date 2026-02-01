@@ -1,0 +1,26 @@
+[
+  {
+    "name": "leafletjs",
+    "desc": "一个开源并且对移动端友好的交互式地图 JavaScript 库。",
+    "url": "https://leafletjs.cn/",
+    "icon": "https://sortablejs.github.io/Vue.Draggable/favicon.ico"
+  },
+  {
+    "name": "openlayers",
+    "desc": "一个高性能、功能丰富的库，满足您的所有地图绘制需求。",
+    "url": "https://openlayers.org/",
+    "icon": "https://openlayers.org/favicon.ico"
+  },
+  {
+    "name": "mapbox",
+    "desc": "开发商、汽车制造商和创新者的首选位置平台。",
+    "url": "http://mapbox.com/",
+    "icon": "https://cdn.prod.website-files.com/6050a76fa6a633d5d54ae714/6050ac000ff99b5cdba92d07_mapbox_favicon_32x32%202.png"
+  },
+  {
+    "name": "opensky",
+    "desc": "开放空中交通数据用于研究。。",
+    "url": "https://opensky-network.org/",
+    "icon": "https://opensky-network.org/static/favicon.ico"
+  }
+]
