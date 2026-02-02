@@ -82,5 +82,17 @@
         "url": "https://github.com/xzdarcy/react-timeline-editor"
       }
     ]
+  },
+  {
+    "name": "react-prism",
+    "desc": "React Prism 是一个用于代码高亮的 React 组件。",
+    "url": "https://tomchentw.github.io/react-prism/",
+    "icon": "https://tomchentw.github.io/react-prism/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/tomchentw/react-prism"
+      }
+    ]
   }
 ]
