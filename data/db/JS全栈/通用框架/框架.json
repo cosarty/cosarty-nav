@@ -275,5 +275,17 @@
         "url": "https://github.com/sidebase/nuxt-auth"
       }
     ]
+  },
+  {
+    "name": "blurha",
+    "desc": "非常简洁的图像占位符表示。",
+    "url": "https://blurha.sh/",
+    "icon": "https://blurha.sh/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/woltapp/blurhash"
+      }
+    ]
   }
 ]
