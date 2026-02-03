@@ -130,5 +130,17 @@
     "desc": "通过vivago.ai免费创作AI艺术与视频：文生图、图生视频、4K编辑工具。立即加入社区！🚀",
     "url": "https://vivago.ai/zh/studio",
     "icon": "https://vivago.ai/favicon.ico"
+  },
+  {
+    "name": "v0.dev",
+    "desc": "AI编程",
+    "url": "https://v0.dev",
+    "icon": "https://v0.dev/assets/icon.svg"
+  },
+  {
+    "name": "Pixso",
+    "desc": "一体化在线设计平台。集白板、原型制作、设计、交付和管理于一体，助您打造更优质的设计作品。",
+    "url": "https://pixso.net",
+    "icon": "https://pixso.net/app/favicon.20221114.ico"
   }
 ]
