@@ -142,5 +142,11 @@
     "desc": "一体化在线设计平台。集白板、原型制作、设计、交付和管理于一体，助您打造更优质的设计作品。",
     "url": "https://pixso.net",
     "icon": "https://pixso.net/app/favicon.20221114.ico"
+  },
+  {
+    "name": "chatcut",
+    "desc": "你的超人视频编辑器。",
+    "url": "https://www.chatcut.io",
+    "icon": "https://www.chatcut.io/favicon.ico"
   }
 ]
