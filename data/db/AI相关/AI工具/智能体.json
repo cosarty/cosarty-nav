@@ -109,5 +109,11 @@
         "url": "https://github.com/huggingface/smolagents"
       }
     ]
+  },
+  {
+    "name": "univa",
+    "desc": "UniVA（通用视频代理）官方代码库",
+    "url": "https://github.com/univa-agent/univa",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
