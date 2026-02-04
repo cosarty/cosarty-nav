@@ -287,5 +287,17 @@
         "url": "https://github.com/woltapp/blurhash"
       }
     ]
+  },
+  {
+    "name": "env.t3",
+    "desc": "对类型安全的环境变量进行与框架无关的验证。",
+    "url": "https://env.t3.gg/",
+    "icon": "https://env.t3.gg/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/t3-oss/t3-env"
+      }
+    ]
   }
 ]
