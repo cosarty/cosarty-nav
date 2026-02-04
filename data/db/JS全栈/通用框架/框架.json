@@ -299,5 +299,11 @@
         "url": "https://github.com/t3-oss/t3-env"
       }
     ]
+  },
+  {
+    "name": "biomejs",
+    "desc": "适用于您的 Web 项目的工具链。",
+    "url": "https://biomejs.dev/",
+    "icon": "https://biomejs.dev/img/favicon.ico"
   }
 ]
