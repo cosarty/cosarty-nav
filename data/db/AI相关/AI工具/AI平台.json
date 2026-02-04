@@ -148,5 +148,11 @@
     "desc": "你的超人视频编辑器。",
     "url": "https://www.chatcut.io",
     "icon": "https://www.chatcut.io/favicon.ico"
+  },
+  {
+    "name": "suno",
+    "desc": "Suno 是一款先进的 AI 音乐生成器，可将您的创意转化为令人惊叹的专业音乐。利用先进的 AI 技术创建、编辑和定制音乐。加入全球数千名创作者的行列。",
+    "url": "https://suno.com/home",
+    "icon": "https://suno.com/favicon.ico"
   }
 ]
