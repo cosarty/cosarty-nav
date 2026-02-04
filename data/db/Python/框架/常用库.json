@@ -68,5 +68,11 @@
     "desc": "世界上使用最广泛的开源数据提取框架。",
     "url": "https://www.scrapy.org/",
     "icon": "https://www.scrapy.org/favicon/scrapy-favicon.svg"
+  },
+  {
+    "name": "pydantic",
+    "desc": "Pydantic Stack 为开发者提供工具，用于构建从本地到生产环境、从 AI 到 API 的端到端类型安全应用程序。",
+    "url": "https://pydantic.dev/",
+    "icon": "https://pydantic.dev/favicon/apple-touch-icon.png"
   }
 ]
