@@ -58,5 +58,11 @@
     "desc": "Create bespoke backend applications in record time。",
     "url": "https://adonisjs.com/",
     "icon": "https://adonisjs.com/icons/favicon-32x32.png"
+  },
+  {
+    "name": "hono",
+    "desc": "速度快、重量轻、基于 Web 标准构建。支持任何 JavaScript 运行时环境。",
+    "url": "https://hono.dev",
+    "icon": "https://hono.dev/favicon.ico"
   }
 ]
