@@ -115,5 +115,17 @@
     "desc": "UniVA（通用视频代理）官方代码库",
     "url": "https://github.com/univa-agent/univa",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "BaseAI",
+    "desc": "BaseAI 是首个使用 Node.js 和 TypeScript 构建无服务器 AI 代理的 Web AI 框架。",
+    "url": "https://baseai.dev/docs",
+    "icon": "https://baseai.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/CommandCodeAI/BaseAI"
+      }
+    ]
   }
 ]
