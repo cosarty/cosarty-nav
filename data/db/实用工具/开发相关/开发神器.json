@@ -567,5 +567,11 @@
     "desc": "只需输入您的网站 URL 即可创建站点地图。",
     "url": "https://www.xml-sitemaps.com/",
     "icon": "https://www.xml-sitemaps.com/favicon.ico"
+  },
+  {
+    "name": "typeless",
+    "desc": "自然地说话，Typeless 就能实时将您的文字转换成流畅的信息、电子邮件和文档，读起来就像您精心打字一样。速度比打字快 4 倍。",
+    "url": "https://www.typeless.com/",
+    "icon": "https://www.typeless.com/favicon.ico"
   }
 ]
