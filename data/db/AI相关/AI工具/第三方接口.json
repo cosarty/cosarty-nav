@@ -58,5 +58,17 @@
     "desc": "一站式访问最佳的视频、图像和音乐模型。",
     "url": "https://kie.ai/zh-CN",
     "icon": "https://kie.ai/favicon.ico"
+  },
+  {
+    "name": "serper.dev",
+    "desc": "全球速度最快、价格最便宜的谷歌搜索 API",
+    "url": "https://serper.dev/",
+    "icon": "https://serper.dev/favicon.ico"
+  },
+  {
+    "name": "serpapi",
+    "desc": "通过我们快速、简单、完整的 API 抓取 Google 和其他搜索引擎的数据。",
+    "url": "https://serpapi.com/",
+    "icon": "https://serpapi.com/favicon.ico"
   }
 ]
