@@ -82,5 +82,11 @@
     "desc": "统一的大模型接口网关。",
     "url": "https://api.yixia.ai/",
     "icon": "https://api.yixia.ai/favicon.ico"
+  },
+  {
+    "name": "dmxapi",
+    "desc": "DMX 取自“大模型”的拼音首字母，而 DMXAPI 是由 LangChain 中文网提供的智能API聚合服务平台，旨在帮助 LLM 应用开发的初学者轻松接入多种大模型，快速进入 AI 应用的广阔领域。",
+    "url": "https://www.dmxapi.cn/",
+    "icon": "https://www.dmxapi.cn/favicon.ico"
   }
 ]
