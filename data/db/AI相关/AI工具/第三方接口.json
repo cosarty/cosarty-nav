@@ -88,5 +88,11 @@
     "desc": "DMX 取自“大模型”的拼音首字母，而 DMXAPI 是由 LangChain 中文网提供的智能API聚合服务平台，旨在帮助 LLM 应用开发的初学者轻松接入多种大模型，快速进入 AI 应用的广阔领域。",
     "url": "https://www.dmxapi.cn/",
     "icon": "https://www.dmxapi.cn/favicon.ico"
+  },
+  {
+    "name": "vectorengine",
+    "desc": "向量引擎更强模型 更低价格 更易落地致力于为开发者提供快速、便捷的 Web API 接口调用方案，打造稳定且易于使用的 API 接口平台，一站式集成几乎所有AI大模型。",
+    "url": "https://api.vectorengine.ai/",
+    "icon": "https://api.vectorengine.ai/favicon.ico"
   }
 ]
