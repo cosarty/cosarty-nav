@@ -76,5 +76,11 @@
     "desc": "大模型API聚合平台，国内直连OpenAI、Claude、Gemini，企业级99.9% SLA。按量计费永久有效，全球加速+智能降本+7×24支持，快速接入AI能力。立即体验！",
     "url": "https://jiekou.ai/",
     "icon": "https://jiekou.ai/favicon.ico"
+  },
+  {
+    "name": "yixia",
+    "desc": "统一的大模型接口网关。",
+    "url": "https://api.yixia.ai/",
+    "icon": "https://api.yixia.ai/favicon.ico"
   }
 ]
