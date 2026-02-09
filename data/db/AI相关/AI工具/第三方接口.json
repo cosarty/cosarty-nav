@@ -94,5 +94,11 @@
     "desc": "向量引擎更强模型 更低价格 更易落地致力于为开发者提供快速、便捷的 Web API 接口调用方案，打造稳定且易于使用的 API 接口平台，一站式集成几乎所有AI大模型。",
     "url": "https://api.vectorengine.ai/",
     "icon": "https://api.vectorengine.ai/favicon.ico"
+  },
+  {
+    "name": "Zenmux",
+    "desc": "以禅意清晰指挥人工智能,一个统一的门户，囊括所有模型,结果不理想？我们会补偿！",
+    "url": "https://zenmux.ai/",
+    "icon": "https://zenmux.ai/favicon.ico"
   }
 ]
