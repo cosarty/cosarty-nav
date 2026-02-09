@@ -10,5 +10,17 @@
     "desc": "源码驱动的AI 全场景教程学完就能用起来",
     "url": "https://opencodedocs.com/zh/",
     "icon": "https://opencodedocs.com/favicon.ico"
+  },
+  {
+    "name": "Claude Code 中文站",
+    "desc": "阐释 CLAUDE.md 作为协作契约的权威地位、指令优先级与实践原则，帮助构建一致可预测的协作规则。",
+    "url": "https://www.claude-code-hub.org/docs/foundation/claude-md-supremacy",
+    "icon": "https://www.claude-code-hub.org/favicon.ico"
+  },
+  {
+    "name": "Claude Code 最佳实践",
+    "desc": "编写有效的 CLAUDE.md 最佳实践",
+    "url": "https://code.claude.com/docs/zh-CN/best-practices#%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84-claude-md",
+    "icon": "https://code.claude.com/docs/_mintlify/favicons/claude-code/pLsy-mRpNksna2sx/_generated/favicon/favicon.ico"
   }
 ]
