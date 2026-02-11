@@ -520,5 +520,11 @@
     "desc": "localForage 是一个快速简便的 JavaScript 存储库。它利用异步存储（IndexedDB 或 WebSQL）和类似 localStorage 的简洁 API，提升了 Web 应用的离线体验。",
     "url": "https://www.npmjs.com/package/localforage",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "Dexie.js",
+    "desc": "ndexedDB 的一个极简封装。",
+    "url": "https://github.com/dexie/Dexie.js",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
