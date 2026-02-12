@@ -122,5 +122,11 @@
         "url": "https://github.com/htmujahid/shadcn-editor"
       }
     ] 
+  },
+  {
+    "name": "lexical",
+    "desc": "一个与众不同的可扩展文本编辑器框架",
+    "url": "https://lexical.dev/",
+    "icon": "https://lexical.dev/img/favicon.ico"
   }
 ]

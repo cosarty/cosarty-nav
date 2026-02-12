@@ -305,5 +305,11 @@
     "desc": "适用于您的 Web 项目的工具链。",
     "url": "https://biomejs.dev/",
     "icon": "https://biomejs.dev/img/favicon.ico"
+  },
+  {
+    "name": "payloadcms",
+    "desc": "面向开发者的代码优先，面向营销人员的内容优先。",
+    "url": "https://payloadcms.com/",
+    "icon": "https://payloadcms.com/images/favicon.svg"
   }
 ]
