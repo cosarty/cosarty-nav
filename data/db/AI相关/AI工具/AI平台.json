@@ -160,5 +160,11 @@
     "desc": "Monica 利用尖端人工智能模型，包括 GPT-5、Claude 4.5 Sonnet、 Gemini 3 Pro、Google Nano Banana、Sora 2 和 GPT o4-mini，来提升您的聊天、搜索、写作、图片生成、视频生成和编程体验。可作为 Chrome 和 Edge 浏览器扩展使用，同时提供移动端和桌面端应用程序。",
     "url": "https://monica.im/",
     "icon": "https://monica.im/logo.png"
+  },
+  {
+    "name": "iFlow",
+    "desc": "心流，用 AI 重塑研发范式",
+    "url": "https://platform.iflow.cn/",
+    "icon": "https://platform.iflow.cn/img/favicon.ico"
   }
 ]
