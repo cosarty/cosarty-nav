@@ -34,5 +34,17 @@
         "url": "https://github.com/langchain-ai/langchain"
       }
     ]
+  },
+  {
+    "name": "guardrailsai",
+    "desc": "利用防护措施降低人工智能世代风险",
+    "url": "https://guardrailsai.com/",
+    "icon": "https://guardrailsai.com/favicons/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/guardrails-ai/guardrails"
+      }
+    ]
   }
 ]
