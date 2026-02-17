@@ -372,5 +372,11 @@
     "desc": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”",
     "url": "https://github.com/Decade-qiu/CookHero",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"moyin-creator",
+    "desc": "AI 影视生产级工具 · 支持 Seedance 2.0 · 剧本到成片全流程批量化。",
+    "url": "https://github.com/MemeCalculate/moyin-creator",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

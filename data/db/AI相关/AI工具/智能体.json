@@ -127,5 +127,41 @@
         "url": "https://github.com/CommandCodeAI/BaseAI"
       }
     ]
+  },
+  {
+    "name": "OpenClaw",
+    "desc": "清理收件箱、发送电子邮件、管理日历、办理航班登机手续。所有这些都可以在 WhatsApp、Telegram 或您已经使用的任何聊天应用程序中完成",
+    "url": "https://openclaw.ai/",
+    "icon": "https://openclaw.ai/favicon.ico"
+  },
+  {
+    "name": "ZeroClaw",
+    "desc": "ZeroClaw 是用 Rust 编写的下一代 AI 助手框架。超轻量、极速启动、内存安全，为生产环境而生。",
+    "url": "https://zeroclaw.org/zh",
+    "icon": "https://zeroclaw.org/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/zeroclaw-labs/zeroclaw"
+      }
+    ]
+  },
+  {
+    "name": "nanobot",
+    "desc": "🐈纳米机器人：超轻型 OpenClaw”。",
+    "url": "https://github.com/HKUDS/nanobot",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "nanoclaw",
+    "desc": "🐈纳米机器人：超轻型 OpenClaw”。",
+    "url": "https://nanoclaw.net/zh/",
+    "icon": "https://nanoclaw.net/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/qwibitai/nanoclaw"
+      }
+    ]
   }
 ]

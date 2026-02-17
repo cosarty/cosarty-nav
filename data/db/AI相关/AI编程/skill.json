@@ -4,5 +4,23 @@
     "desc": "代理技能公共存储库",
     "url": "https://github.com/anthropics/skills",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "awesome-openclaw-skills",
+    "desc": "OpenClaw 技能的超棒合集。前身为 Moltbot，最初名为 Clawdbot。",
+    "url": "https://github.com/VoltAgent/awesome-openclaw-skills",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "skills.sh",
+    "desc": "技能是人工智能代理可重用的功能。只需一条命令即可安装技能，从而增强代理对程序知识的访问权限。",
+    "url": "https://skills.sh/",
+    "icon": "https://skills.sh/favicon.ico"
+  },
+  {
+    "name": "skillsmp",
+    "desc": "代理技能市场",
+    "url": "https://skillsmp.com/zh",
+    "icon": "https://skillsmp.com/favicon.svg"
   }
 ]

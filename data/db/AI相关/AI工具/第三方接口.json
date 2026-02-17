@@ -100,5 +100,11 @@
     "desc": "以禅意清晰指挥人工智能,一个统一的门户，囊括所有模型,结果不理想？我们会补偿！",
     "url": "https://zenmux.ai/",
     "icon": "https://zenmux.ai/favicon.ico"
+  },
+  {
+    "name": "aihubmix",
+    "desc": "一站式对接各种大模型。让开发更智能、更高效。",
+    "url": "https://aihubmix.com/?lang=zh-CN",
+    "icon": "https://aihubmix.com/favicon.ico"
   }
 ]
