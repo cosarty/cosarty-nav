@@ -22,5 +22,11 @@
     "desc": "编写有效的 CLAUDE.md 最佳实践",
     "url": "https://code.claude.com/docs/zh-CN/best-practices#%E7%BC%96%E5%86%99%E6%9C%89%E6%95%88%E7%9A%84-claude-md",
     "icon": "https://code.claude.com/docs/_mintlify/favicons/claude-code/pLsy-mRpNksna2sx/_generated/favicon/favicon.ico"
+  },
+  {
+    "name": "Everything Claude Code",
+    "desc": "完整的 Claude Code 配置合集——包括代理、技能、钩子、命令、规则和 MCP。这些配置经过实战检验，出自 Anthropic 黑客马拉松的获胜者之手。",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

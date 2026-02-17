@@ -16,5 +16,11 @@
     "desc": "适用于 NodeJS、TypeScript 和 JavaScript 的无头 ORM 🚀",
     "url": "https://orm.drizzle.team/",
     "icon": "https://orm.drizzle.team/favicon.ico"
+  },
+  {
+    "name": "turso",
+    "desc": "Turso 是一款轻量级数据库，可扩展至数百万个实例。您可以像部署文件一样，将数据库部署到服务器、浏览器和设备上，从而构建智能体、AI 助手和智能应用。Turso 是 SQLite 的完美替代品，专为智能体时代而打造。",
+    "url": "https://turso.tech/",
+    "icon": "https://turso.tech/favicon.ico"
   }
 ]
