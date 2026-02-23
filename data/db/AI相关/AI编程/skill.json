@@ -22,5 +22,17 @@
     "desc": "代理技能市场",
     "url": "https://skillsmp.com/zh",
     "icon": "https://skillsmp.com/favicon.svg"
+  },
+  {
+    "name": "superpowers",
+    "desc": "一套行之有效的智能技能框架和软件开发方法论。",
+    "url": "https://github.com/obra/superpowers",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ui-ux-pro-max-skill",
+    "desc": "一项人工智能技能，可为构建专业的多平台 UI/UX 提供设计智能。",
+    "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -311,5 +311,11 @@
     "desc": "面向开发者的代码优先，面向营销人员的内容优先。",
     "url": "https://payloadcms.com/",
     "icon": "https://payloadcms.com/images/favicon.svg"
+  },
+  {
+    "name": "lynxjs",
+    "desc": "享受 iOS， Android，鸿蒙, Web 原生渲染，或选择在移动和桌面端达到像素级一致的自渲染。",
+    "url": "https://lynxjs.org/zh/",
+    "icon": "https://lynxjs.org/favicon.png"
   }
 ]

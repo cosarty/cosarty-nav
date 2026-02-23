@@ -74,5 +74,11 @@
     "desc": "Pydantic Stack 为开发者提供工具，用于构建从本地到生产环境、从 AI 到 API 的端到端类型安全应用程序。",
     "url": "https://pydantic.dev/",
     "icon": "https://pydantic.dev/favicon/apple-touch-icon.png"
+  },
+  {
+    "name": "scrapegraphai",
+    "desc": "唯一一款专为自主 AI 代理设计的爬虫 API。无需代理，无需维护，即可可靠地提取数据。",
+    "url": "https://scrapegraphai.com/",
+    "icon": "https://scrapegraphai.com/favicon.ico"
   }
 ]

@@ -573,5 +573,11 @@
     "desc": "自然地说话，Typeless 就能实时将您的文字转换成流畅的信息、电子邮件和文档，读起来就像您精心打字一样。速度比打字快 4 倍。",
     "url": "https://www.typeless.com/",
     "icon": "https://www.typeless.com/favicon.ico"
+  },
+  {
+    "name": "waf-ce",
+    "desc": "不让黑客越雷池一步。",
+    "url": "https://waf-ce.chaitin.cn/",
+    "icon": "https://waf-ce.chaitin.cn/favicon.ico"
   }
 ]

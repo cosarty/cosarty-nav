@@ -161,5 +161,11 @@
     "desc": "AI 提示词分享社区，收集了各种AI提示词，包括图标、图片、视频、音频、字体、代码等。",
     "url": "https://www.prompterhub.cn/home",
     "icon": "https://www.prompterhub.cn/favicon.ico"
+  },
+  {
+    "name": "深言答意",
+    "desc": "深言达意是一款写作辅助工具，核心功能包括据意查词、据意查句。根据模糊的描述，找到贴切的词语和名言佳句，支持汉英双语。深言达意基于最先进的人工智能算法实现，由深言科技出品。",
+    "url": "https://www.shenyandayi.com/",
+    "icon": "https://www.shenyandayi.com/favicon.ico"
   }
 ]
