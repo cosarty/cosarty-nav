@@ -526,5 +526,11 @@
     "desc": "ndexedDB 的一个极简封装。",
     "url": "https://github.com/dexie/Dexie.js",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "murmurhash",
+    "desc": "这些算法接受一个 JavaScript 字符串（和一个种子），并能快速地从中生成一个非加密的 32 位哈希值。所谓快速，是指亚毫秒级的性能。",
+    "url": "https://www.npmjs.com/package/murmurhash",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
