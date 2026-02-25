@@ -7,5 +7,32 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/e2b-dev/awesome-ai-agents" }
     ]
+  },
+  {
+    "name": "OpenSandbox",
+    "desc": "OpenSandbox 是一个通用的 AI 应用沙箱平台，提供多语言 SDK、统一的沙箱 API 和 Docker/Kubernetes 运行时，适用于编码代理、GUI 代理、代理评估、AI 代码执行和 RL 训练等场景。",
+    "url": "https://github.com/alibaba/OpenSandbox",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "deepagents",
+    "desc": "Deep Agents 是一个基于 langchain 和 langgraph 构建的代理框架。Deep Agents 配备了规划工具、文件系统后端以及生成子代理的能力，使其能够很好地处理复杂的代理任务。",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "AIO Sandbox",
+    "desc": "面向 AI Agents 的一体化沙盒环境",
+    "url": "https://sandbox.agent-infra.com/zh/",
+    "icon": "https://sandbox.agent-infra.com/aio-icon.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/agent-infra/sandbox" }
+    ]
+  },
+  {
+    "name": "Agent Sandbox",
+    "desc": "agent-sandbox 能够轻松管理隔离的、有状态的、单例工作负载，非常适合 AI 代理运行时等用例。",
+    "url": "https://agent-sandbox.sigs.k8s.io/",
+    "icon": "https://agent-sandbox.sigs.k8s.io/favicons/favicon.ico"
   }
 ]
