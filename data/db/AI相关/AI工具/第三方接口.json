@@ -106,5 +106,11 @@
     "desc": "一站式对接各种大模型。让开发更智能、更高效。",
     "url": "https://aihubmix.com/?lang=zh-CN",
     "icon": "https://aihubmix.com/favicon.ico"
+  },
+  {
+    "name": "foxcode",
+    "desc": "为开发者提供强大的AI编程助手，提升开发效率，释放创意潜能。",
+    "url": "https://foxcode.rjj.cc/",
+    "icon": "https://foxcode.rjj.cc/favicon.ico"
   }
 ]
