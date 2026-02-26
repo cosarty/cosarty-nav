@@ -34,5 +34,29 @@
     "desc": "agent-sandbox 能够轻松管理隔离的、有状态的、单例工作负载，非常适合 AI 代理运行时等用例。",
     "url": "https://agent-sandbox.sigs.k8s.io/",
     "icon": "https://agent-sandbox.sigs.k8s.io/favicons/favicon.ico"
+  },
+  {
+    "name": "Sprites",
+    "desc": "有状态沙箱环境,带有检查点和恢复功能",
+    "url": "https://sprites.dev/",
+    "icon": "https://sprites.dev/images/favicon/favicon-96x96.png"
+  },
+  {
+    "name": "Daytona",
+    "desc": "面向人工智能代理的快速、可扩展、有状态基础设施。",
+    "url": "https://www.daytona.io/",
+    "icon": "https://www.daytona.io/favicon.ico"
+  },
+  {
+    "name": "northflank",
+    "desc": "安全地部署人工智能、服务、数据库和作业。从提交到生产环境及后续阶段。部署在您的虚拟专用服务器 (VPC) 或我们的虚拟专用服务器 (VPC) 中。",
+    "url": "https://northflank.com/",
+    "icon": "https://northflank.com/favicon.ico"
+  },
+  {
+    "name": "llm-sandbox",
+    "desc": "轻量级且可移植的 LLM 沙箱运行时（代码解释器）Python 库。",
+    "url": "https://github.com/vndee/llm-sandbox",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
