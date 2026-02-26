@@ -93,5 +93,11 @@
     "desc": "发现最好的AI网站和AI工具。AI工具列表和GPTs列表通过ChatGPT每天自动更新。",
     "url": "https://www.toolify.ai/zh/",
     "icon": "https://www.toolify.ai/favicon.ico"
+  },
+  {
+    "name": "clawfeed",
+    "desc": "AI 新闻简报 — POWERED BY 。",
+    "url": "https://clawfeed.kevinhe.io/",
+    "icon": "☀️"
   }
 ]
