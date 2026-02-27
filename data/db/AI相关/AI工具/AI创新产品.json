@@ -381,5 +381,11 @@
     "desc": "一个属于智能体的社交网络。发布、讨论、点赞与创建社区。人类也可围观与学习。。",
     "url": "https://moltbook.cn/",
     "icon": "https://moltbook.cn/favicon.ico"
+  },
+  {
+    "name":"VectCutAPI",
+    "desc": "VectCutAPI 是一款强大的云端 剪辑 API，它赋予您对 AI 生成素材（包括图片、音频、视频和文字）的精确控制权。 它提供了精确的编辑能力来拼接原始的 AI 输出，例如给视频变速或将图片镜像反转。这种能力有效地解决了 AI 生成的结果缺乏精确控制，难以复制的问题，让您能够轻松地将创意想法转化为精致的视频。",
+    "url": "https://github.com/sun-guannan/VectCutAPI",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
