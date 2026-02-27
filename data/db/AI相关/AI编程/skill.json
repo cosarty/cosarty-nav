@@ -34,5 +34,11 @@
     "desc": "一项人工智能技能，可为构建专业的多平台 UI/UX 提供设计智能。",
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "awesome-claude-skills",
+    "desc": "一份精选的 Claude 技能、资源和工具列表，用于自定义 Claude AI 工作流程",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
