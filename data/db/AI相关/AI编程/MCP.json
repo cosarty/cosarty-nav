@@ -37,5 +37,17 @@
     "name": "mcp-chrome",
     "desc": "Chrome MCP 服务器是一个基于 Chrome 扩展的模型上下文协议 (MCP) 服务器，它将您的 Chrome 浏览器功能公开给 Claude 等 AI 助手，从而实现复杂的浏览器自动化、内容分析和语义搜索。",
     "url": "https://github.com/hangwin/mcp-chrome"
+  },
+  {
+    "icon": "https://context7.com/favicon.ico",
+    "name": "Context7",
+    "desc": "将最新文档和代码导入 Cursor、Claude 或其他 LLM 系统",
+    "url": "https://context7.com/"
+  },
+  {
+    "icon": "https://www.firecrawl.dev/favicon.ico",
+    "name": "Firecrawl",
+    "desc": "将网站转化为 LLM 适用的数据。最强联网搜索mcp",
+    "url": "https://www.firecrawl.dev/"
   }
 ]
