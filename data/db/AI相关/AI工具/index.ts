@@ -9,6 +9,7 @@ import Material from './资料.json'
 import ModelDownloader from './模型下载器.json'
 import Framework from './框架.json'
 import VectorDatabase from './向量数据库.json'
+import OpenClaw from './OpenClaw.json'
 
 export default {
   title: 'AI工具',
@@ -54,8 +55,12 @@ export default {
       nav: Framework,
     },
     {
-      title:'资料',
-      nav:Material
-    }
+      title: 'OpenClaw',
+      nav: OpenClaw,
+    },
+    {
+      title: '资料',
+      nav: Material,
+    },
   ],
 }

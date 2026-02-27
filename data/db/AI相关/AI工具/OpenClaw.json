@@ -1,0 +1,20 @@
+[
+  {
+    "name": "OpenClaw",
+    "desc": "OpenClaw 是一个开源的AI工具，用于生成和编辑AI模型。",
+    "url": "https://openclaw.ai/",
+    "icon": "https://openclaw.ai/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/openclaw/openclaw" }
+    ]
+  },
+  {
+    "name": "Clawd bot",
+    "desc": "Clawd 是一个开源的AI工具，用于生成和编辑AI模型。",
+    "url": "https://clawd-bot.com/",
+    "icon": "https://clawd-bot.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/openclaw/openclaw" }
+    ]
+  }
+]
