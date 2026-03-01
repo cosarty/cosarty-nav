@@ -16,5 +16,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/openclaw/openclaw" }
     ]
+  },
+  {
+    "name": "clawhub",
+    "desc": "上传 AgentSkills 包，像 npm 一样进行版本控制，并使用向量使其可搜索。无需任何门槛，只需发出信号即可。",
+    "url": "https://clawhub.ai/",
+    "icon": "https://clawhub.ai/clawd-logo.png"
   }
 ]
