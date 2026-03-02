@@ -105,5 +105,11 @@
     "desc": "鱼皮AI导航",
     "url": "https://ai.codefather.cn/",
     "icon": "https://ai.codefather.cn/favicon.ico"
+  },
+  {
+    "name": "hello-agents",
+    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程。",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
