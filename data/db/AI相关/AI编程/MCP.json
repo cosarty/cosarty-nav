@@ -49,5 +49,11 @@
     "name": "Firecrawl",
     "desc": "将网站转化为 LLM 适用的数据。最强联网搜索mcp",
     "url": "https://www.firecrawl.dev/"
+  },
+  {
+    "icon": "https://app.tavily.com/favicon.ico",
+    "name": "Tavily",
+    "desc": "网络搜索mcp",
+    "url": "https://app.tavily.com"
   }
 ]
