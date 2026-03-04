@@ -1,0 +1,14 @@
+[
+  {
+    "name": "BullMQ",
+    "desc": "edis™ 的开源消息队列，深受数千家公司信赖，每天处理数十亿个作业。支持 Node.js、Bun、Python、Elixir 和 PHP.",
+    "url": "https://bullmq.io/",
+    "icon": "https://bullmq.io/favicon.ico"
+  },
+  {
+    "name": "RabitMQ",
+    "desc": "RabbitMQ 是一款功能强大的企业级开源消息和流代理，可为应用程序提供高效、可靠和灵活的通信——非常适合分布式微服务、实时数据和物联网。",
+    "url": "https://www.rabbitmq.com/",
+    "icon": "https://www.rabbitmq.com/favicon.ico"
+  }
+]

@@ -532,5 +532,11 @@
     "desc": "这些算法接受一个 JavaScript 字符串（和一个种子），并能快速地从中生成一个非加密的 32 位哈希值。所谓快速，是指亚毫秒级的性能。",
     "url": "https://www.npmjs.com/package/murmurhash",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "partial-json",
+    "desc": "有时我们需要大型语言模型 (LLM) 来生成结构化信息， 而不是自然语言。最简单的方法是使用 JSON。",
+    "url": "https://www.npmjs.com/package/partial-json",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]

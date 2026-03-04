@@ -1,5 +1,6 @@
 import ORM from './ORM.json'
 import Backend from './后端框架.json'
+import MQ from './MQ.json'
 
 export default {
   title: 'NodeJs',
@@ -11,6 +12,10 @@ export default {
     {
       title: 'ORM框架',
       nav: ORM,
+    },
+    {
+      title: 'MQ框架',
+      nav: MQ,
     },
   ],
 }
