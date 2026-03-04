@@ -64,5 +64,17 @@
     "desc": "速度快、重量轻、基于 Web 标准构建。支持任何 JavaScript 运行时环境。",
     "url": "https://hono.dev",
     "icon": "https://hono.dev/favicon.ico"
+  },
+  {
+    "name": "h3",
+    "desc": "⚡️ 为高性能和可移植性而构建的极简 H(TTP) 框架。",
+    "url": "https://h3.dev/",
+    "icon": "https://h3.dev/icon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/h3js/h3"
+      }
+    ]
   }
 ]
