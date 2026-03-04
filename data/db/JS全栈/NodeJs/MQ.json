@@ -6,7 +6,7 @@
     "icon": "https://bullmq.io/favicon.ico"
   },
   {
-    "name": "RabitMQ",
+    "name": "RabbitMQ",
     "desc": "RabbitMQ 是一款功能强大的企业级开源消息和流代理，可为应用程序提供高效、可靠和灵活的通信——非常适合分布式微服务、实时数据和物联网。",
     "url": "https://www.rabbitmq.com/",
     "icon": "https://www.rabbitmq.com/favicon.ico"
