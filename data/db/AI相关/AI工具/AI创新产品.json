@@ -387,5 +387,11 @@
     "desc": "VectCutAPI 是一款强大的云端 剪辑 API，它赋予您对 AI 生成素材（包括图片、音频、视频和文字）的精确控制权。 它提供了精确的编辑能力来拼接原始的 AI 输出，例如给视频变速或将图片镜像反转。这种能力有效地解决了 AI 生成的结果缺乏精确控制，难以复制的问题，让您能够轻松地将创意想法转化为精致的视频。",
     "url": "https://github.com/sun-guannan/VectCutAPI",
     "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"waoowaoo",
+    "desc": "一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。",
+    "url": "https://github.com/waoowaooAI/waoowaoo",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
