@@ -40,5 +40,11 @@
     "desc": "最先进的JavaScript工具库。",
     "url": "https://es-toolkit.dev/zh_hans/",
     "icon": "https://es-toolkit.dev/favicon-100x100.png"
+  },
+  {
+    "name": "sucrase",
+    "desc": "当您需要面向现代 JS 运行时环境时，Babel 的超快替代方案。",
+    "url": "https://sucrase.io/",
+    "icon": "https://sucrase.io/favicon-32x32.png"
   }
 ]

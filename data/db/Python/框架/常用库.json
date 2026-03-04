@@ -80,5 +80,11 @@
     "desc": "唯一一款专为自主 AI 代理设计的爬虫 API。无需代理，无需维护，即可可靠地提取数据。",
     "url": "https://scrapegraphai.com/",
     "icon": "https://scrapegraphai.com/favicon.ico"
+  },
+  {
+    "name": "noisereduce",
+    "desc": "使用频谱门控技术在 Python 中进行降噪（语音、生物声学、音频、时域信号。",
+    "url": "https://github.com/timsainb/noisereduce",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

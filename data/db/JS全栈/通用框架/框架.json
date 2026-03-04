@@ -317,5 +317,11 @@
     "desc": "享受 iOS， Android，鸿蒙, Web 原生渲染，或选择在移动和桌面端达到像素级一致的自渲染。",
     "url": "https://lynxjs.org/zh/",
     "icon": "https://lynxjs.org/favicon.png"
+  },
+  {
+    "name": "agent-browser",
+    "desc": "专为 AI 代理设计的浏览器自动化 CLI。简洁的文本输出最大限度地减少了上下文的使用。快速的 Rust CLI，并支持 Node.js 作为备选方案。",
+    "url": "https://agent-browser.dev/",
+    "icon": "https://agent-browser.dev/favicon.ico"
   }
 ]
