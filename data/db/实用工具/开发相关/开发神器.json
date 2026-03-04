@@ -579,5 +579,11 @@
     "desc": "不让黑客越雷池一步。",
     "url": "https://waf-ce.chaitin.cn/",
     "icon": "https://waf-ce.chaitin.cn/favicon.ico"
+  },
+  {
+    "name": "autoglm",
+    "desc": "智谱AI输入法是一款智能的AI语音输入工具，通过说话就能实现高效创作，告别繁琐打字，说话即成文",
+    "url": "https://autoglm.zhipuai.cn/autotyper/",
+    "icon": "https://autoglm.zhipuai.cn/favicon.ico"
   }
 ]
