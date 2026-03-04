@@ -182,6 +182,11 @@
     "desc": "一键DD/重装脚本 (One-click reinstall OS on VPS)。",
     "url": "https://github.com/bin456789/reinstall",
     "icon": "https://github.com/favicon.ico"
-   
+  },
+  {
+    "name": "yt-dlp",
+    "desc": "功能丰富的命令行音频/视频下载器",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
