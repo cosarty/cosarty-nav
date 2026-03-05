@@ -111,5 +111,11 @@
         "url": "https://github.com/daybrush/moveable"
       }
     ]
+  },
+  {
+    "name": "llm ui",
+    "desc": "流畅渲染 LLM 输出。 移除错误的 Markdown 语法。",
+    "url": "https://llm-ui.com/",
+    "icon": "https://llm-ui.com/favicon.ico"
   }
 ]
