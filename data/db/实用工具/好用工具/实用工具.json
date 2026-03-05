@@ -167,5 +167,11 @@
     "desc": "深言达意是一款写作辅助工具，核心功能包括据意查词、据意查句。根据模糊的描述，找到贴切的词语和名言佳句，支持汉英双语。深言达意基于最先进的人工智能算法实现，由深言科技出品。",
     "url": "https://www.shenyandayi.com/",
     "icon": "https://www.shenyandayi.com/favicon.ico"
+  },
+  {
+    "name": "wezterm",
+    "desc": "WezTerm 是一个功能强大的跨平台终端模拟器和多路复用器，由 @wez 编写，并使用 Rust 语言实现。",
+    "url": "https://wezterm.org/",
+    "icon": "https://wezterm.org/favicon.png"
   }
 ]
