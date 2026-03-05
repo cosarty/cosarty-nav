@@ -173,5 +173,11 @@
     "desc": "WezTerm 是一个功能强大的跨平台终端模拟器和多路复用器，由 @wez 编写，并使用 Rust 语言实现。",
     "url": "https://wezterm.org/",
     "icon": "https://wezterm.org/favicon.png"
+  },
+  {
+    "name": "WeFlow",
+    "desc": "一个本地的微信聊天记录导出和年度报告应用。",
+    "url": "https://github.com/hicccc77/WeFlow",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

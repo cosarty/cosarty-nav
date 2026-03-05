@@ -175,5 +175,17 @@
     "desc": "本仓库提供了从基础到高级的各种生成式人工智能代理技术的教程和实现，可作为构建智能、交互式人工智能系统的全面指南。",
     "url": "https://github.com/NirDiamant/GenAI_Agents",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "cowagent",
+    "desc": "CowAgent 是基于大模型的超级 AI 助理，能够主动思考和任务规划、操作计算机和外部资源、创造和执行 Skills、拥有长期记忆并不断成长。支持接入网页、飞书、钉钉、企业微信、微信公众号，7×24 小时运行于你的个人电脑或服务器中。。",
+    "url": "https://cowagent.ai/",
+    "icon": "https://cowagent.ai/logo/cow-logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/zhayujie/chatgpt-on-wechat"
+      }
+    ]
   }
 ]
