@@ -82,5 +82,11 @@
     "desc": "致力于成为开源社区中运行速度最快、打包等待时间最短、上手难度最低的中后台前端框架",
     "url": "https://github.com/zxwk1998/vue-admin-better",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "RuoYi-Vue-Plus",
+    "desc": "企业级多租户管理系统，结合了 RuoYi-Vue-Plus 的强大后端功能和 Soybean Admin 的现代化前端特性，为开发者提供了完整的企业管理解决方案。",
+    "url": "https://docs.ruoyi.xlsea.cn/",
+    "icon": "https://docs.ruoyi.xlsea.cn/favicon.ico"
   }
 ]
