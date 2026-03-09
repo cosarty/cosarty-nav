@@ -4,5 +4,11 @@
     "desc": "管理网站监控的各个方面，从初步研究到报告撰写，并最大限度地提高效率。",
     "url": "https://www.semrush.com/home/",
     "icon": "https://www.semrush.com/favicon.ico"
+  },
+  {
+    "name": "traffic.cv",
+    "desc": "免费获取任何网站的流量、来源、趋势、热门关键词和域名信息。",
+    "url": "https://traffic.cv/",
+    "icon": "https://traffic.cv/favicon.ico"
   }
 ]

@@ -4,5 +4,11 @@
     "desc": "触手可及的完整人工智能代理机构——从前端开发高手到 Reddit 社区达人，从创意注入者到现实检验者。每位代理都是拥有独特个性、流程和可靠成果的专业人士。",
     "url": "https://github.com/msitarzewski/agency-agents",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Agent-Reach",
+    "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
