@@ -585,5 +585,11 @@
     "desc": "智谱AI输入法是一款智能的AI语音输入工具，通过说话就能实现高效创作，告别繁琐打字，说话即成文",
     "url": "https://autoglm.zhipuai.cn/autotyper/",
     "icon": "https://autoglm.zhipuai.cn/favicon.ico"
+  },
+  {
+    "name": "tikhub",
+    "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
+    "url": "https://tikhub.io/",
+    "icon": "https://tikhub.io/favicon.ico"
   }
 ]
