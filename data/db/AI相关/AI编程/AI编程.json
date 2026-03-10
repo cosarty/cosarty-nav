@@ -82,5 +82,17 @@
     "desc": "梦想化作画布，落地代码。",
     "url": "https://www.pencil.dev/",
     "icon": "https://www.pencil.dev/favicon.ico"
+  },
+  {
+    "name": "AionUi",
+    "desc": "免费、本地、开源的 24/7 Cowork 和 OpenClaw，支持 Gemini CLI、Claude Code、Codex、OpenCode、Qwen Code、Goose CLI、Auggie 等 | 🌟 喜欢就点赞！",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "claudecodeui",
+    "desc": "您可以使用 CloudCLI（又名 Claude Code UI）在移动设备和网页上使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费的开源 Web UI/GUI，可帮助您远程管理 Claude Code 会话和项目。",
+    "url": "https://github.com/siteboon/claudecodeui",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
