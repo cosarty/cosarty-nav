@@ -188,5 +188,11 @@
     "desc": "功能丰富的命令行音频/视频下载器",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MinerU",
+    "desc": "将 PDF 等复杂文档转换为 LLM 就绪的 markdown/JSON，以便在 Agentic 工作流程中使用。PDF 文档提取工具",
+    "url": "https://github.com/opendatalab/MinerU",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

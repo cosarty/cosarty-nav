@@ -179,5 +179,11 @@
     "desc": "一个本地的微信聊天记录导出和年度报告应用。",
     "url": "https://github.com/hicccc77/WeFlow",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "letmeenglish",
+    "desc": " 我们致力于提供优质免费的内容和练习资源，旨在以最有效的方式帮助你提升英文水平。 不论是掌握语法还是应付日常交流，你的英文学习都能轻松有趣。",
+    "url": "https://letmeenglish.com/zh-hans/",
+    "icon": "https://letmeenglish.com/favicon.ico"
   }
 ]

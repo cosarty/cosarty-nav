@@ -99,5 +99,11 @@
     "desc": "AI Elements Vue 是一个基于 shadcn-vue 构建的组件库，旨在帮助您更快地构建 AI 原生应用程序。",
     "url": "https://www.ai-elements-vue.com/",
     "icon": "https://www.ai-elements-vue.com/favicon.ico"
+  },
+  {
+    "name": "Vuetify",
+    "desc": "一套完整且行之有效的设计系统 。",
+    "url": "https://vuetifyjs.com/zh-Hans/",
+    "icon": "https://vuetifyjs.com/favicon.ico"
   }
 ]
