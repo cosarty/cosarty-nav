@@ -4,18 +4,14 @@
     "desc": "OpenClaw 是一个开源的AI工具，用于生成和编辑AI模型。",
     "url": "https://openclaw.ai/",
     "icon": "https://openclaw.ai/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/openclaw/openclaw" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/openclaw/openclaw" }]
   },
   {
     "name": "Clawd bot",
     "desc": "Clawd 是一个开源的AI工具，用于生成和编辑AI模型。",
     "url": "https://clawd-bot.com/",
     "icon": "https://clawd-bot.com/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/openclaw/openclaw" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/openclaw/openclaw" }]
   },
   {
     "name": "clawhub",
@@ -28,5 +24,12 @@
     "desc": "从零开始，7天掌握你的 AI 私人助理。",
     "url": "https://openclaw101.dev/zh",
     "icon": "https://openclaw101.dev/favicon.png"
+  },
+  {
+    "name": "pinchbench",
+    "desc": "OpenClaw 代理在标准化测试中成功完成任务的百分比。",
+    "url": "https://pinchbench.com/",
+    "icon": "https://pinchbench.com/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/pinchbench/skill" }]
   }
 ]
