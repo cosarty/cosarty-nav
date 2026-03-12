@@ -124,5 +124,11 @@
         "url": "https://github.com/agno-agi/agno"
       }
     ]
+  },
+  { 
+    "name":"capcut-mate",
+    "desc":"CapCut Mate API 是一款完全开源免费、基于 FastAPI构建的剪映草稿自动化助手，支持独立部署。",
+    "url":"https://github.com/Hommy-master/capcut-mate",
+    "icon":"https://github.com/favicon.ico"
   }
 ]
