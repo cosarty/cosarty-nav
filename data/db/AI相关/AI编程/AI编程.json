@@ -94,5 +94,11 @@
     "desc": "您可以使用 CloudCLI（又名 Claude Code UI）在移动设备和网页上使用 Claude Code、Cursor CLI 或 Codex。CloudCLI 是一款免费的开源 Web UI/GUI，可帮助您远程管理 Claude Code 会话和项目。",
     "url": "https://github.com/siteboon/claudecodeui",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "rtk",
+    "desc": "rtk 在命令输出进入上下文窗口之前对其进行压缩。 更好的推理。更长的会话。更低的成本。",
+    "url": "https://github.com/rtk-ai/rtk",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
