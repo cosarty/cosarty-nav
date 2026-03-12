@@ -181,5 +181,11 @@
         "url": "https://github.com/zhayujie/chatgpt-on-wechat"
       }
     ]
+  },
+  {
+    "name": "deer-flow",
+    "desc": "这是一个开源的超级智能体框架，能够进行研究、编码和创建。借助沙箱、记忆库、工具、技能和子智能体，它可以处理耗时从几分钟到几小时不等的各种任务。",
+    "url": "https://github.com/bytedance/deer-flow",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
