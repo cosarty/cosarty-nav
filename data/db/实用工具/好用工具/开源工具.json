@@ -194,5 +194,17 @@
     "desc": "将 PDF 等复杂文档转换为 LLM 就绪的 markdown/JSON，以便在 Agentic 工作流程中使用。PDF 文档提取工具",
     "url": "https://github.com/opendatalab/MinerU",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "magicv",
+    "desc": "Magic Resume 是一个现代化的在线简历编辑器，让创建专业简历变得简单有趣。基于 TanStack Start 和 Motion 构建，支持实时预览和自定义主题。",
+    "url": "https://magicv.art/zh",
+    "icon": "https://magicv.art/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/JOYCEQL/magic-resume"
+      }
+    ]
   }
 ]
