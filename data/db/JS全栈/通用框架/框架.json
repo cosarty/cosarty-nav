@@ -323,5 +323,11 @@
     "desc": "专为 AI 代理设计的浏览器自动化 CLI。简洁的文本输出最大限度地减少了上下文的使用。快速的 Rust CLI，并支持 Node.js 作为备选方案。",
     "url": "https://agent-browser.dev/",
     "icon": "https://agent-browser.dev/favicon.ico"
+  },
+  {
+    "name": "retejs",
+    "desc": "一个可定制的、以 TypeScript 为先导的框架，用于创建面向处理的基于节点的编辑器。",
+    "url": "https://retejs.org/",
+    "icon": "https://retejs.org/favicon.ico"
   }
 ]

@@ -193,5 +193,23 @@
     "desc": "纯 JS 实现的 GUI agent。使用自然语言操作你的 Web 应用。无须后端、客户端、浏览器插件。",
     "url": "https://github.com/alibaba/page-agent",
     "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name": "Building AI",
+    "desc": "模块化开发，可视化安装，人人都可快速搭建自己的私有AI应用系统。",
+    "url": "https://www.buildingai.cc/",
+    "icon": "https://www.buildingai.cc/favicon.ico"
+  },
+  {
+    "name": "copaw",
+    "desc": "你的AI个人助理；安装极简、本地与云上均可部署；支持多端接入、能力轻松扩展。",
+    "url": "https://copaw.agentscope.io/",
+    "icon": "https://copaw.agentscope.io/copaw-symbol.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/agentscope-ai/CoPaw"
+      }
+    ]
   }
 ]

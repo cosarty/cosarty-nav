@@ -31,5 +31,11 @@
     "url": "https://pinchbench.com/",
     "icon": "https://pinchbench.com/favicon.ico",
     "tags": [{ "id": "-3", "url": "https://github.com/pinchbench/skill" }]
+  },
+  {
+    "name": "awesome-openclaw-usecases",
+    "desc": "OpenClaw 使用案例的精选列表。",
+    "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

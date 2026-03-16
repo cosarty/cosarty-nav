@@ -28,5 +28,11 @@
     "desc": "完整的 Claude Code 配置合集——包括代理、技能、钩子、命令、规则和 MCP。这些配置经过实战检验，出自 Anthropic 黑客马拉松的获胜者之手。",
     "url": "https://github.com/affaan-m/everything-claude-code",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Claude Code 免费从入门到精通",
+    "desc": "专为开发者打造的终极文档指南。从环境配置到构建自定义 AI 智能体，这套免费教程将帮助您掌握下一代编程工具，提升 3 倍开发效率。",
+    "url": "https://claudecode.tangshuang.net/",
+    "icon": "https://claudecode.tangshuang.net/favicon.svg"
   }
 ]

@@ -591,5 +591,11 @@
     "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
     "url": "https://tikhub.io/",
     "icon": "https://tikhub.io/favicon.ico"
+  },
+  {
+    "name": "ui-tools",
+    "desc": "一款创意工具箱，包含阴影、SVG、渐变和背景图案生成器以及颜色生成器。开源、快速，专为开发者打造。",
+    "url": "https://github.com/ui-layouts/ui-tools",
+    "icon": "https://tools.ui-layouts.com/favicon.ico"
   }
 ]
