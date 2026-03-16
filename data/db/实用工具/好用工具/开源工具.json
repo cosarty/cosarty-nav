@@ -206,5 +206,17 @@
         "url": "https://github.com/JOYCEQL/magic-resume"
       }
     ]
+  },
+  {
+    "name": "wechat-article-exporter",
+    "desc": "一款 开源 & 免费 的公众号文章下载神器",
+    "url": "https://docs.mptext.top/",
+    "icon": "https://docs.mptext.top/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/wechat-article/wechat-article-exporter"
+      } 
+    ]
   }
 ]
