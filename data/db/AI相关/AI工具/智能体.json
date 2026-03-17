@@ -211,5 +211,17 @@
         "url": "https://github.com/agentscope-ai/CoPaw"
       }
     ]
+  },
+  {
+    "name": "OpenMAIC",
+    "desc": "OpenMAIC（Open Multi-Agent Interactive Classroom）是一个开源的 AI 互动课堂平台，能够将任何主题或文档转化为丰富的互动学习体验。基于多智能体协作引擎，它可以自动生成演示幻灯片、测验、交互式模拟实验和项目制学习活动——由 AI 教师和 AI 同学进行语音讲解、白板绘图，并与你展开实时讨论",
+    "url": "https://open.maic.chat/",
+    "icon": "https://open.maic.chat/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/THU-MAIC/OpenMAIC"
+      }
+    ]
   }
 ]
