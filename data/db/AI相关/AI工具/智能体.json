@@ -223,5 +223,11 @@
         "url": "https://github.com/THU-MAIC/OpenMAIC"
       }
     ]
+  },
+  {
+    "name": "DocFlow",
+    "desc": "DocFlow 是一个由 Tiptap 和 Next.js 构建的 AI 驱动的文档平台，旨在实现实时协作⚡、智能写作辅助🤖和灵活的插件系统🔌。",
+    "url": "https://github.com/xun082/DocFlow",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

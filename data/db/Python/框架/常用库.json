@@ -86,5 +86,11 @@
     "desc": "使用频谱门控技术在 Python 中进行降噪（语音、生物声学、音频、时域信号。",
     "url": "https://github.com/timsainb/noisereduce",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Scrapling",
+    "desc": "一个自适应网络爬虫框架，可以处理从单个请求到全面爬取的一切操作！",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
