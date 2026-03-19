@@ -34,5 +34,14 @@
     "desc": "专为开发者打造的终极文档指南。从环境配置到构建自定义 AI 智能体，这套免费教程将帮助您掌握下一代编程工具，提升 3 倍开发效率。",
     "url": "https://claudecode.tangshuang.net/",
     "icon": "https://claudecode.tangshuang.net/favicon.svg"
+  },
+  {
+    "name": "Learn Claude Code",
+    "desc": "从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制",
+    "url": "https://learn.shareai.run/zh/",
+    "icon": "https://learn.shareai.run/favicon.ico?favicon.0b3bf435.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/shareAI-lab/learn-claude-code" }
+    ]
   }
 ]
