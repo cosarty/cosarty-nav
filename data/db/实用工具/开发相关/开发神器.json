@@ -597,5 +597,17 @@
     "desc": "一款创意工具箱，包含阴影、SVG、渐变和背景图案生成器以及颜色生成器。开源、快速，专为开发者打造。",
     "url": "https://github.com/ui-layouts/ui-tools",
     "icon": "https://tools.ui-layouts.com/favicon.ico"
+  },
+  {
+    "name": "midscenejs",
+    "desc": "AI 驱动、视觉感知，适用于全平台的 UI 自动化。",
+    "url": "https://midscenejs.com/zh/",
+    "icon": "https://midscenejs.com/midscene-icon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/web-infra-dev/midscene"
+      }
+    ]
   }
 ]
