@@ -34,7 +34,7 @@
     "url": "https://github.com/datawhalechina/happy-llm?tab=readme-ov-file",
     "icon": "https://github.com/favicon.ico"
   },
-  { 
+  {
     "name": "一站式AI产品经理入门指南",
     "desc": "一站式AI产品经理入门指南",
     "url": "https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL",
@@ -78,9 +78,7 @@
     "desc": "🐟 鱼皮的 AI 知识库",
     "url": "https://ai.codefather.cn/library/2010994846520700929",
     "icon": "https://ai.codefather.cn/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/liyupi/ai-guide" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/liyupi/ai-guide" }]
   },
   {
     "name": "Jason的主页",
@@ -111,5 +109,14 @@
     "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程。",
     "url": "https://github.com/datawhalechina/hello-agents",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Learn Claude Code",
+    "desc": "从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制",
+    "url": "https://learn.shareai.run/zh/",
+    "icon": "https://learn.shareai.run/favicon.ico?favicon.0b3bf435.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/shareAI-lab/learn-claude-code" }
+    ]
   }
 ]
