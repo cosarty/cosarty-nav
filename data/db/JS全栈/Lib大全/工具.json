@@ -544,5 +544,11 @@
     "desc": "DOMPurify 是一款仅针对 HTML、MathML 和 SVG 的 DOM 专用、超快、超强容错性的 XSS 清理器。",
     "url": "https://www.npmjs.com/package/dompurify",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "lit-html",
+    "desc": "lit-html 模板是纯 JavaScript 代码，它结合了编写 HTML 的便捷性和 JavaScript 的强大功能。lit-html 负责高效地将模板渲染到 DOM，包括高效地使用新值更新 DOM。",
+    "url": "https://www.npmjs.com/package/lit-html",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
