@@ -229,5 +229,11 @@
     "desc": "DocFlow 是一个由 Tiptap 和 Next.js 构建的 AI 驱动的文档平台，旨在实现实时协作⚡、智能写作辅助🤖和灵活的插件系统🔌。",
     "url": "https://github.com/xun082/DocFlow",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "swe-agent",
+    "desc": "SWE-agent 会接收 GitHub 问题并尝试使用您选择的语言模型自动修复它。它还可以用于攻击性网络安全或竞技编程挑战。",
+    "url": "https://github.com/swe-agent/swe-agent",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
