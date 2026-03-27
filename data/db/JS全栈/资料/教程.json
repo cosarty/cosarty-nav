@@ -28,6 +28,12 @@
     "desc": "Node.js Web 应用程序的样板。",
     "url": "https://github.com/sahat/hackathon-starter",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "无线画布教程",
+    "desc": "一个无限画布教程,一步步构建一个可用的无限画布",
+    "url": "https://infinitecanvas.cc/zh/",
+    "icon": "https://infinitecanvas.cc/canvas-mini.png"
   }
 ]
 

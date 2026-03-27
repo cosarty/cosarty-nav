@@ -329,5 +329,11 @@
     "desc": "一个可定制的、以 TypeScript 为先导的框架，用于创建面向处理的基于节点的编辑器。",
     "url": "https://retejs.org/",
     "icon": "https://retejs.org/favicon.ico"
+  },
+  {
+    "name": "tldraw",
+    "desc": "使用 tldraw SDK 在 React 中构建无限画布应用程序",
+    "url": "https://tldraw.dev/",
+    "icon": "https://tldraw.dev/favicon.ico"
   }
 ]
