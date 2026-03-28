@@ -172,5 +172,11 @@
     "desc": "为现代 AI 团队打造的全球分布式托管基础设施分钟级完成模型推理、MCP及全栈 AI 应用的全球化托管交付。",
     "url": "https://gpulink.cc/",
     "icon": "https://gpulink.cc/favicon.ico"
+  },
+  {
+    "name": "capcut",
+    "desc": "人人都能用的 AI 照片Photo與影片Video編輯器。",
+    "url": "https://www.capcut.com/zh-tw/",
+    "icon": "https://www.capcut.com/favicon.ico"
   }
 ]
