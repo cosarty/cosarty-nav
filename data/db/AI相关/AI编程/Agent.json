@@ -10,5 +10,11 @@
     "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
     "url": "https://github.com/Panniantong/Agent-Reach",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "oh-my-claudecode",
+    "desc": "面向 Claude Code 的团队优先多智能体编排。",
+    "url": "https://github.com/yeachan-heo/oh-my-claudecode",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
