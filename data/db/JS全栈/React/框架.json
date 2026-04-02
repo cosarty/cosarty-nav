@@ -117,5 +117,17 @@
     "desc": "流畅渲染 LLM 输出。 移除错误的 Markdown 语法。",
     "url": "https://llm-ui.com/",
     "icon": "https://llm-ui.com/favicon.ico"
+  },
+  {
+    "name": "t3",
+    "desc": "开始的最佳方式 全栈、 类型安全的 Next.js 应用。",
+    "url": "https://create.t3.gg/",
+    "icon": "https://create.t3.gg/images/t3-dark.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/t3-oss/create-t3-app"
+      }
+    ]
   }
 ]
