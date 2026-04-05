@@ -46,5 +46,11 @@
     "desc": "375 个 Astro 主题目录。",
     "url": "https://www.astrothemes.dev/",
     "icon": "https://www.astrothemes.dev/favicon/favicon.ico"
+  },
+  {
+    "name": "opensaas",
+    "desc": "功能强大的免费 SaaS 模板。",
+    "url": "https://opensaas.sh/",
+    "icon": "https://opensaas.sh/favicon.ico"
   }
 ]

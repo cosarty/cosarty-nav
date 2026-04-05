@@ -609,5 +609,42 @@
         "url": "https://github.com/web-infra-dev/midscene"
       }
     ]
+  },
+  {
+    "name": "upstash",
+    "desc": "无服务器数据平台,满足您所有数据需求的单一平台。",
+    "url": "https://upstash.com/",
+    "icon": "https://upstash.com/icons/favicon-32x32.png"
+  },
+  {
+    "name": "railway",
+    "desc": "Railway 是一个现代化的云托管平台 (PaaS)。",
+    "url": "https://railway.com/",
+    "icon": "https://railway.com/favicon-32x32.png"
+  },
+
+  {
+    "name": "render",
+    "desc": "一个现代化的云端应用程序托管平台（Cloud Platform for Builders）。",
+    "url": "https://render.com/",
+    "icon": "https://render.com/icon.svg?e6fbdd2e217c0064"
+  },
+  {
+    "name": "zeabur",
+    "desc": "Zeabur 是一个新兴的、由台湾团队开发的云端应用部署平台（PaaS - Platform as a Service），其核心理念是“一键部署”。它专注于解决开发者在写完代码后，如何将应用快速上线到服务器的难题，特别适用于全栈开发、AI 应用程序以及独立开发）。",
+    "url": "https://zeabur.com/zh-CN/",
+    "icon": "https://zeabur.com/favicon-32x32.png"
+  },
+  {
+    "name": "fly",
+    "desc": "允许开发者将 Docker 容器化的应用（如 Node.js, Go, Python, Rails 等）快速部署到全球多个边缘数据中心。",
+    "url": "https://fly.io/",
+    "icon": "https://fly.io/phx/ui/images/favicon/favicon-595d1312b35dfe32838befdf8505515e.ico?vsn=d"
+  },
+  {
+    "name": "fly",
+    "desc": "直接触达用户而非被归入垃圾邮件箱的最佳方式。大规模发送交易邮件和营销邮件。",
+    "url": "https://resend.com",
+    "icon": "https://resend.com/static/favicons/favicon-marketing.ico?v=1"
   }
 ]

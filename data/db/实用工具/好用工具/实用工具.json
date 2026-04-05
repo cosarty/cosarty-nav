@@ -185,5 +185,12 @@
     "desc": " 我们致力于提供优质免费的内容和练习资源，旨在以最有效的方式帮助你提升英文水平。 不论是掌握语法还是应付日常交流，你的英文学习都能轻松有趣。",
     "url": "https://letmeenglish.com/zh-hans/",
     "icon": "https://letmeenglish.com/favicon.ico"
+  },
+  {
+    "name": "tinywow",
+    "desc": "我们提供 PDF、视频、图像和其他在线工具，让您的生活更轻松。",
+    "url": "https://tinywow.com/",
+    "icon": "https://tinywow.com/v2/img/favicon.png"
   }
+
 ]

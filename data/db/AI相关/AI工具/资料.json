@@ -110,13 +110,18 @@
     "url": "https://github.com/datawhalechina/hello-agents",
     "icon": "https://github.com/favicon.ico"
   },
+
   {
-    "name": "Learn Claude Code",
-    "desc": "从 0 到 1 构建 nano Claude Code-like agent，每次只加一个机制",
-    "url": "https://learn.shareai.run/zh/",
-    "icon": "https://learn.shareai.run/favicon.ico?favicon.0b3bf435.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/shareAI-lab/learn-claude-code" }
-    ]
+    "name": "Seedance 2.0提示词",
+    "desc": "Seedance 2.0提示词",
+    "url": "https://youmind.com/zh-CN/seedance-2-0-prompts?utm_source=nav",
+    "icon": "https://youmind.com/favicon.ico"
+  },
+  {
+    "name":"YouMind OpenLab",
+    "desc": "各种大模型提示词大全",
+    "url":"https://github.com/YouMind-OpenLab",
+    "icon": "https://youmind.com/favicon.ico"
+
   }
 ]
