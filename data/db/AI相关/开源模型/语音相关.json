@@ -172,5 +172,12 @@
     "desc": "SoulX-Podcast 是 Soul AI 团队开发的推理代码库，用于从文本生成高保真播客。",
     "url": "https://github.com/Soul-AILab/SoulX-Podcast",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "OmniVoice",
+    "desc": "支持 600 多种语言的高质量语音克隆 TTS。",
+    "url": "https://github.com/k2-fsa/OmniVoice",
+    "icon": "https://github.com/favicon.ico"
   }
+
 ]
