@@ -43,5 +43,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/shareAI-lab/learn-claude-code" }
     ]
+  },
+  {
+    "name": "学习 Claude，要学会实践，而不是阅读。 ",
+    "desc": "11 个交互式模块，包含终端模拟器、配置构建器和测验。无需设置。",
+    "url": "https://claude.nagdy.me/learn/slash-commands/claude.nagdy.me/learn/slash-commands/",
+    "icon": "https://claude.nagdy.me/favicon.svg"
   }
 ]
