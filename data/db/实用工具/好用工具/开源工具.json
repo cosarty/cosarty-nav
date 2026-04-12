@@ -218,5 +218,23 @@
         "url": "https://github.com/wechat-article/wechat-article-exporter"
       } 
     ]
+  },
+   {
+    "name": "recordly",
+    "desc": "几秒钟内即可创建精美的屏幕录像",
+    "url": "https://recordly.dev/",
+    "icon": "https://framerusercontent.com/images/ppSeB7t0LiV8nvGZDP3642RznA.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/webadderall/Recordly"
+      } 
+    ]
+  },
+   {
+    "name": "markitdown",
+    "desc": "用于将文件和办公文档转换为 Markdown 的 Python 工具。",
+    "url": "https://github.com/microsoft/markitdown",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

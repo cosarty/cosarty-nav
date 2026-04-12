@@ -393,5 +393,11 @@
     "desc": "一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。",
     "url": "https://github.com/waoowaooAI/waoowaoo",
     "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"剧影",
+    "desc": "AI 驱动影视级视频创作平台",
+    "url": "https://iniuma.vip/",
+    "icon": "https://iniuma.vip/favicon.svg"
   }
 ]
