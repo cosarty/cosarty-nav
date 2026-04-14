@@ -197,6 +197,12 @@
     "desc": "一个好用的电影字幕搜索引擎，轻松搜索台词出现的影片和时间点，是视频创作者的必备工具，是帮助英语学习的利器。",
     "url": "https://33tc.net/",
     "icon": "https://33tc.net/favicon.ico"
+  },
+  {
+    "name": "求职方舟·AI",
+    "desc": "一键AI自动填写企业招聘官网的简历表单。",
+    "url": "https://www.qiuzhifangzhou.com",
+    "icon": "https://www.qiuzhifangzhou.com/favicon.ico"
   }
 
 ]

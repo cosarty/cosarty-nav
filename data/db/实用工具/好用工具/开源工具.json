@@ -239,10 +239,17 @@
         "url": "https://github.com/zyronon/TypeWords"
       }
     ]
-  },{
+  },
+  {
     "name": "ytDownloader",
     "desc": "一款桌面应用程序，可从数百个网站下载视频和音频。",
     "url": "https://github.com/aandrew-me/ytDownloader",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "cutcut",
+    "desc": "精准下载与剪辑全网视频，无需安装任何软件。",
+    "url": "https://cutcut.top/",
+    "icon": "https://cutcut.top/favicon.ico"
   }
 ]
