@@ -191,5 +191,12 @@
     "desc": "我们提供 PDF、视频、图像和其他在线工具，让您的生活更轻松。",
     "url": "https://tinywow.com/",
     "icon": "https://tinywow.com/v2/img/favicon.png"
+  },
+  {
+    "name": "33台词",
+    "desc": "一个好用的电影字幕搜索引擎，轻松搜索台词出现的影片和时间点，是视频创作者的必备工具，是帮助英语学习的利器。",
+    "url": "https://33tc.net/",
+    "icon": "https://33tc.net/favicon.ico"
   }
+
 ]

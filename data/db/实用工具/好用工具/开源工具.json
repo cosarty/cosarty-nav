@@ -82,34 +82,27 @@
     "desc": "Pake 是一款开源的桌面应用打包工具，可以将网页或本地文件打包成桌面应用。",
     "url": "https://github.com/tw93/Pake",
     "icon": "https://github.com/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/tw93/Pake" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/tw93/Pake" }]
   },
   {
     "name": "hoppscotch",
     "desc": "开源 API 开发生态系统（Postman、Insomnia 的开源替代品）",
     "url": "https://hoppscotch.io/",
     "icon": "https://hoppscotch.io/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/hoppscotch/hoppscotch" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/hoppscotch/hoppscotch" }]
   },
   {
     "name": "Xget",
     "desc": "超高性能、安全的一站式开源资源访问加速引擎。其性能远超传统加速器，为您提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等 。",
     "url": "https://xuc.xi-xu.me/",
     "icon": "https://xuc.xi-xu.me/Xget.png",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/xixu-me/Xget" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/xixu-me/Xget" }]
   },
   {
     "name": "open-lovable",
     "desc": "在几秒钟内克隆并重新创建任何网站作为现代 React 应用程序。",
     "url": "https://github.com/firecrawl/open-lovable",
     "icon": "https://github.com/favicon.ico"
-    
   },
   {
     "name": "stremio-web",
@@ -158,9 +151,7 @@
     "desc": "Pandoc 是一个通用文档转换器，可将文档从一种格式转换为另一种格式。它支持多种输入和输出格式，包括 Markdown、HTML、PDF、Word 等。",
     "url": "https://pandoc.org/",
     "icon": "https://github.com/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/jgm/pandoc" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/jgm/pandoc" }]
   },
   {
     "name": "Speedy",
@@ -216,10 +207,10 @@
       {
         "id": "-3",
         "url": "https://github.com/wechat-article/wechat-article-exporter"
-      } 
+      }
     ]
   },
-   {
+  {
     "name": "recordly",
     "desc": "几秒钟内即可创建精美的屏幕录像",
     "url": "https://recordly.dev/",
@@ -228,13 +219,30 @@
       {
         "id": "-3",
         "url": "https://github.com/webadderall/Recordly"
-      } 
+      }
     ]
   },
-   {
+  {
     "name": "markitdown",
     "desc": "用于将文件和办公文档转换为 Markdown 的 Python 工具。",
     "url": "https://github.com/microsoft/markitdown",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "typewords",
+    "desc": "学习英语，一次敲击，一点进步，开源单词与文章练习工具",
+    "url": "https://typewords.cc/",
+    "icon": "https://typewords.cc/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/zyronon/TypeWords"
+      }
+    ]
+  },{
+    "name": "ytDownloader",
+    "desc": "一款桌面应用程序，可从数百个网站下载视频和音频。",
+    "url": "https://github.com/aandrew-me/ytDownloader",
     "icon": "https://github.com/favicon.ico"
   }
 ]

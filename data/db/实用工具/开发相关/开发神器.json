@@ -646,5 +646,11 @@
     "desc": "直接触达用户而非被归入垃圾邮件箱的最佳方式。大规模发送交易邮件和营销邮件。",
     "url": "https://resend.com",
     "icon": "https://resend.com/static/favicons/favicon-marketing.ico?v=1"
+  },
+  {
+    "name": "v_jstools",
+    "desc": "一个用于js页面逆向调试的工具。",
+    "url": "https://github.com/cilame/v_jstools",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

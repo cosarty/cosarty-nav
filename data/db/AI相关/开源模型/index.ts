@@ -3,6 +3,7 @@ import Speech from './语音相关.json'
 import LLM from './大语言模型.json'
 import ModelCommunity from './模型社区.json'
 import Avatar from './数字人.json'
+import Video from './视频模型.json'
 export default {
   title: '开源模型',
   nav: [
@@ -13,6 +14,10 @@ export default {
     {
       title: '语音相关',
       nav: Speech,
+    },
+    {
+      title: '视频模型',
+      nav: Video,
     },
     {
       title: '大语言模型',

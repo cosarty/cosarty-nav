@@ -178,6 +178,11 @@
     "desc": "支持 600 多种语言的高质量语音克隆 TTS。",
     "url": "https://github.com/k2-fsa/OmniVoice",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "VoxCPM",
+    "desc": "30国语言8大方言 · 可控声音创意 · 48k高保真 · 一键推理部署",
+    "url": "https://github.com/OpenBMB/VoxCPM",
+    "icon": "https://github.com/favicon.ico"
   }
-
 ]
