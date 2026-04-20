@@ -235,5 +235,17 @@
     "desc": "SWE-agent 会接收 GitHub 问题并尝试使用您选择的语言模型自动修复它。它还可以用于攻击性网络安全或竞技编程挑战。",
     "url": "https://github.com/swe-agent/swe-agent",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "openai-agents-python",
+    "desc": "一个轻量级、功能强大的多智能体工作流框架。",
+    "url": "https://github.com/openai/openai-agents-python",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "cognee",
+    "desc": "Cognee 是一款开源知识引擎，支持以任何格式或结构导入数据，并持续学习，为 AI 代理提供合适的上下文信息。它结合了向量搜索、图数据库和认知科学方法，使您的文档既能按含义搜索，又能随着变化和演进而建立起相互关联。",
+    "url": "https://github.com/topoteretes/cognee",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

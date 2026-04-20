@@ -87,6 +87,12 @@
     "desc": "一个轻量级的基于数学曲线的加载动画库，带有模态预览、公式和可复制的代码片段。",
     "url": "https://github.com/Paidax01/math-curve-loaders",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "particleify",
+    "desc": "将静态资产转为3D粒子",
+    "url": "https://particleify.talizen.com/",
+    "icon": "https://github.com/favicon.ico"
   }
 
 ]

@@ -184,5 +184,18 @@
     "desc": "30国语言8大方言 · 可控声音创意 · 48k高保真 · 一键推理部署",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "voicebox",
+    "desc": "开源语音克隆工作室，支持多种 TTS 引擎。克隆任何语音，生成自然语音，并创建多语音项目——所有操作均可在本地运行。",
+    "url": "https://voicebox.sh/",
+    "icon": "https://voicebox.sh/favicon.ico",
+    "tags":[
+      {
+        "id": "-3",
+        "url": "https://github.com/jamiepine/voicebox"
+      }
+    ]
   }
+
 ]
