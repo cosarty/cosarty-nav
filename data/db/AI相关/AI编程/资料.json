@@ -49,5 +49,11 @@
     "desc": "11 个交互式模块，包含终端模拟器、配置构建器和测验。无需设置。",
     "url": "https://claude.nagdy.me/learn/slash-commands/claude.nagdy.me/learn/slash-commands/",
     "icon": "https://claude.nagdy.me/favicon.svg"
+  },
+  {
+    "name": "AI Agent 开发 × 面试求职",
+    "desc": "对标 JavaGuide 的 AI Agent 学习指南从入门到拿 Offer，系统化 + 实战化 + 求职导向",
+    "url": "https://adongwanai.github.io/AgentGuide/",
+    "icon": "https://adongwanai.github.io/favicon.ico"
   }
 ]
