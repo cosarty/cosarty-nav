@@ -10,13 +10,17 @@ import ModelDownloader from './模型下载器.json'
 import Framework from './框架.json'
 import VectorDatabase from './向量数据库.json'
 import OpenClaw from './OpenClaw.json'
-
+import TranslatorStation from './中转站.json'
 export default {
   title: 'AI工具',
   nav: [
     {
       title: 'AI平台',
       nav: AIPlatform,
+    },
+    {
+      title: '中转站',
+      nav: TranslatorStation,
     },
     {
       title: '智能体',

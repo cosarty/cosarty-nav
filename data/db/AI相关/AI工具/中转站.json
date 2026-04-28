@@ -1,0 +1,14 @@
+[
+  {
+    "name": "newapi",
+    "desc": "一个统一的 AI 模型中心，用于聚合和分发。它支持将各种 LLM（逻辑层级模型）转换为 OpenAI 兼容、Claude 兼容或 Gemini 兼容的格式。一个集中式的个人和企业模型管理门户。",
+    "url": "https://www.newapi.ai/zh",
+    "icon": "https://www.newapi.ai/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/QuantumNous/new-api"
+      }
+    ]
+  }
+]
