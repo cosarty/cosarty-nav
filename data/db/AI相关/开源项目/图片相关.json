@@ -1,0 +1,46 @@
+[
+  {
+    "name": "bg-remove",
+    "desc": "一个轻量级的背景去除模型",
+    "url": "https://bg.addy.ie/",
+    "icon": "https://bg.addy.ie/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/addyosmani/bg-remove"
+      }
+    ]
+  },
+  {
+    "name": "Ultralytics YOLO  文档",
+    "desc": "了解Ultralytics YOLO  - 最新的实时对象检测和图像分割技术。了解其功能，最大限度地发挥其在项目中的潜力。",
+    "url": "https://www.ultralytics.com/zh",
+    "icon": "https://raw.githubusercontent.com/ultralytics/assets/refs/heads/main/logo/favicon-yolo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ultralytics/ultralytics"
+      }
+    ]
+  },
+
+  {
+    "name": "BEN",
+    "desc": "背景擦除网络",
+    "url": "https://backgrounderase.net/home",
+    "icon": "https://backgrounderase.net/apple-touch-icon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/PramaLLC/BEN2"
+      }
+    ]
+  },
+
+  {
+    "name": "upscayl",
+    "desc": "🆙 Upscayl - 适用于 Linux、MacOS 和 Windows 的排名第一的免费开源 AI 图像升级器。",
+    "url": "https://github.com/upscayl/upscayl",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

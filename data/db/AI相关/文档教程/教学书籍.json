@@ -1,0 +1,33 @@
+[
+  {
+    "name": "happy llm",
+    "desc": "本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。",
+    "url": "https://github.com/datawhalechina/happy-llm?tab=readme-ov-file",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "hello-agents",
+    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程。",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "icon": "https://github.com/favicon.ico"
+  },
+
+  {
+    "name": "一站式AI产品经理入门指南",
+    "desc": "一站式AI产品经理入门指南",
+    "url": "https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL",
+    "icon": "https://v11enp9ok1h.feishu.cn/favicon.ico"
+  },
+  {
+    "name": "微软的ai agent课程",
+    "desc": "开始构建 AI 代理的 10 个课程",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners/",
+    "icon": "https://avatars.githubusercontent.com/u/6154722?s=48&v=4"
+  },
+  {
+    "name": "AI Agent 开发 × 面试求职",
+    "desc": "对标 JavaGuide 的 AI Agent 学习指南从入门到拿 Offer，系统化 + 实战化 + 求职导向",
+    "url": "https://adongwanai.github.io/AgentGuide/",
+    "icon": "https://adongwanai.github.io/favicon.ico"
+  }
+]

@@ -599,18 +599,6 @@
     "icon": "https://tools.ui-layouts.com/favicon.ico"
   },
   {
-    "name": "midscenejs",
-    "desc": "AI 驱动、视觉感知，适用于全平台的 UI 自动化。",
-    "url": "https://midscenejs.com/zh/",
-    "icon": "https://midscenejs.com/midscene-icon.png",
-    "tags": [
-      {
-        "id": "-3",
-        "url": "https://github.com/web-infra-dev/midscene"
-      }
-    ]
-  },
-  {
     "name": "upstash",
     "desc": "无服务器数据平台,满足您所有数据需求的单一平台。",
     "url": "https://upstash.com/",

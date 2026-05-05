@@ -1,5 +1,12 @@
 [
   {
+    "name": "YouMind OpenLab",
+    "desc": "YouMind 是学习与创作交汇的地方。在 YouMind 中，你可以与 AI 智能体一起学习、思考和创作。一切自然流动，与你共同成长。",
+    "url": "https://youmind.com/zh-CN",
+    "icon": "https://youmind.com/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/YouMind-OpenLab" }]
+  },
+  {
     "name": "AI开源方案",
     "desc": "一款将您的日常工作应用程序融为一体的新工具。它是您和您的团队的一体化工作空间",
     "url": "https://d.aigclink.ai/?v=8f252a54730e49f4b8caf897b7ae49f6/",
@@ -23,50 +30,19 @@
     "icon": "https://ai-bot.cn/wp-content/uploads/2023/03/ai-bot-square-logo.png"
   },
   {
-    "name": "微软的ai agent课程",
-    "desc": "开始构建 AI 代理的 10 个课程",
-    "url": "https://github.com/microsoft/ai-agents-for-beginners/",
-    "icon": "https://avatars.githubusercontent.com/u/6154722?s=48&v=4"
-  },
-  {
-    "name": "happy llm",
-    "desc": "本项目是一个系统性的 LLM 学习教程，将从 NLP 的基本研究方法出发，根据 LLM 的思路及原理逐层深入，依次为读者剖析 LLM 的架构基础和训练过程。同时，我们会结合目前 LLM 领域最主流的代码框架，演练如何亲手搭建、训练一个 LLM，期以实现授之以鱼，更授之以渔。希望大家能从这本书开始走入 LLM 的浩瀚世界，探索 LLM 的无尽可能。",
-    "url": "https://github.com/datawhalechina/happy-llm?tab=readme-ov-file",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "一站式AI产品经理入门指南",
-    "desc": "一站式AI产品经理入门指南",
-    "url": "https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL",
-    "icon": "https://v11enp9ok1h.feishu.cn/favicon.ico"
-  },
-  {
     "name": "痕继恨迹",
     "desc": "自然语言处理基础知识整理",
     "url": "https://henjihenji.feishu.cn/wiki/BbGWwCytLilAbKktLW8c01ARndb",
     "icon": "https://www.feishu.cn/favicon.ico"
   },
-  {
-    "name": "轻松玩转AIGC",
-    "desc": "提示词大全",
-    "url": "https://dye87dshnj.feishu.cn/wiki/V9yRwhugsiHhuokVodAcCbMWnef",
-    "icon": "https://www.feishu.cn/favicon.ico"
-  },
+
   {
     "name": "vibe-coding-cn",
     "desc": "vibe coding 至尊超级终极无敌指南 V114514",
     "url": "https://github.com/tukuaiai/vibe-coding-cn",
     "icon": "https://github.com/favicon.ico"
   },
-  {
-    "name": "awesome-nano-banana",
-    "desc": "精选图片和提示语，由gemini-2.5-flash-image（又名 Nano Banana）——一款先进的图像生成和编辑模型——生成。探索使用 Gemini 创建的 AI 生成视觉作品，展现谷歌先进的图像生成能力。",
-    "url": "https://www.chatimg.ai/zh/gallery",
-    "icon": "https://www.chatimg.ai/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/JimmyLv/awesome-nano-banana" }
-    ]
-  },
+
   {
     "name": "OSSInsight",
     "desc": "GitHub 数据浏览器",
@@ -104,36 +80,17 @@
     "url": "https://ai.codefather.cn/",
     "icon": "https://ai.codefather.cn/favicon.ico"
   },
+ 
   {
-    "name": "hello-agents",
-    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程。",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "icon": "https://github.com/favicon.ico"
-  },
-
-  {
-    "name": "Seedance 2.0提示词",
-    "desc": "Seedance 2.0提示词",
-    "url": "https://youmind.com/zh-CN/seedance-2-0-prompts?utm_source=nav",
-    "icon": "https://youmind.com/favicon.ico"
-  },
-  {
-    "name":"YouMind OpenLab",
-    "desc": "各种大模型提示词大全",
-    "url":"https://github.com/YouMind-OpenLab",
-    "icon": "https://youmind.com/favicon.ico"
-  },
-  {
-    "name":"ai news",
+    "name": "ai news",
     "desc": "人工智能新闻",
-    "url":"https://news.smol.ai/",
+    "url": "https://news.smol.ai/",
     "icon": "https://news.smol.ai/favicon.ico"
   },
   {
-    "name":"theaivalley",
+    "name": "theaivalley",
     "desc": "5 分钟内更了解人工智能 | 加入来自谷歌、OpenAI、Notion、苹果等公司的 10 万多名用户。",
-    "url":"https://www.theaivalley.com/",
+    "url": "https://www.theaivalley.com/",
     "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/ee48f7c1-5043-493e-afb3-90bcff43c11e/thumb_aivalley__1_.png"
   }
-
 ]

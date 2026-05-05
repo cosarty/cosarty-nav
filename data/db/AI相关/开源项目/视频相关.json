@@ -1,0 +1,60 @@
+[
+
+  {
+    "name": "FunClip",
+    "desc": "FunClip是一款完全开源、本地部署的自动化视频剪辑工具",
+    "url": "https://github.com/modelscope/FunClip",
+    "icon": "https://avatars.githubusercontent.com/u/109945100?s=48&v=4"
+  },
+
+  {
+    "name": "KrillinAI",
+    "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "url": "https://github.com/krillinai/KrillinAI",
+    "icon": "https://avatars.githubusercontent.com/u/2386538?s=48&v=4",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/krillinai/KrillinAI"
+      }
+    ]
+  },
+
+  {
+    "name": "MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "happyhorse",
+    "desc": "HappyHorse 1.0 AI 视频生成器",
+    "url": "https://ai-happyhorse.github.io/",
+    "icon": "https://ai-happyhorse.github.io/Favicon.png"
+  },
+  {
+    "name": "facefusion",
+    "desc": "行业领先的人脸处理平台。",
+    "url": "https://github.com/facefusion/facefusion",
+    "icon": "https://github.com/facefusion/facefusion/blob/main/docs/assets/logo.png"
+  },
+  {
+    "name": "InfiniteTalk",
+    "desc": "无限长度的对话视频生成​​，支持图像转视频、视频转视频!",
+    "url": "https://github.com/MeiGen-AI/InfiniteTalk",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MultiTalk",
+    "desc": "让他们说话：基于音频的多人对话视频生成（NeurIPS 2025）.",
+    "url": "https://github.com/MeiGen-AI/MultiTalk",
+    "icon": "https://github.com/favicon.ico"
+  },
+
+  {
+    "name": "LongCat-Video-Avatar",
+    "desc": "这是一个统一的模型，可提供富有表现力且高度动态的音频驱动角色动画，支持包括音频文本转视频、音频文本图像转视频和视频连续播放在内的原生任务，并无缝兼容单流和多流音频输入。",
+    "url": "https://github.com/MeiGen-AI/LongCat-Video-Avatar",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

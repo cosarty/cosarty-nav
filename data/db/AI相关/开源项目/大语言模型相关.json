@@ -22,5 +22,47 @@
     "desc": "比较顶级 AI 模型的答案，分享您的反馈并支持我们的公共排行榜",
     "url": "https://lmarena.ai/",
     "icon": "https://lmarena.ai/images/favicon-light.ico"
+  },
+  {
+    "name": "ollama",
+    "desc": "本地运行大语言模型工具",
+    "url": "https://ollama.com/",
+    "icon": "https://ollama.com/public/ollama.png"
+  },
+  {
+    "name": "memU",
+    "desc": "MemU 是一个为人工智能伴侣提供的开源记忆框架。",
+    "url": "https://memu.pro/",
+    "icon": "https://memu.pro/local/memu-logo-u.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/NevaMind-AI/memU"
+      }
+    ]
+  },
+  {
+    "name": "LangChain",
+    "desc": "LangChain 是一个由大型语言模型 (LLM) 驱动的应用程序开发框架。",
+    "url": "https://python.langchain.com/docs/introduction/",
+    "icon": "https://python.langchain.com/img/brand/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/langchain-ai/langchain"
+      }
+    ]
+  },
+  {
+    "name": "guardrailsai",
+    "desc": "利用防护措施降低人工智能世代风险",
+    "url": "https://guardrailsai.com/",
+    "icon": "https://guardrailsai.com/favicons/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/guardrails-ai/guardrails"
+      }
+    ]
   }
 ]
