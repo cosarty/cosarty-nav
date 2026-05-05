@@ -64,5 +64,17 @@
         "url": "https://github.com/guardrails-ai/guardrails"
       }
     ]
+  },
+  {
+    "name": "Lite LLM",
+    "desc": "LLM 网关（OpenAI 代理）用于管理 100 多个 LLM 的身份验证、负载均衡和支出跟踪。全部采用 OpenAI 格式。",
+    "url": "https://www.litellm.ai/",
+    "icon": "🚅"
+  },
+  {
+    "name":"parlant",
+    "desc": "专为控制而构建的 LLM 代理。专为实际应用而设计。几分钟内即可完成部署",
+    "url": "https://github.com/emcie-co/parlant",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

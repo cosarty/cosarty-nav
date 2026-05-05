@@ -1,0 +1,87 @@
+[
+  {
+    "name": "AIGCPanel | 开源AI数字人系统",
+    "desc": "AigcPanel是一个可以在本地轻松使用AI模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！",
+    "url": "https://aigcpanel.com/",
+    "icon": "https://aigcpanel.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/modstart-lib/aigcpanel"
+      }
+    ]
+  },
+  {
+    "name": "VectCutAPI",
+    "desc": "轻量、灵活、易上手的矢量图/视频剪辑API工具，构建全自动化视频剪辑/混剪流水线。",
+    "url": "https://github.com/sun-guannan/VectCutAPI",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/sun-guannan/VectCutAPI" }]
+  },
+  {
+    "name": "Open Avatar Chat",
+    "desc": "模块化的交互数字人对话实现，能够在单台PC上运行完整功能。",
+    "url": "https://github.com/HumanAIGC-Engineering/OpenAvatarChat",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "AutoClip",
+    "desc": "智能视频切片一条视频，多个高光 你的AI剪辑搭子",
+    "url": "https://zhouxiaoka.github.io/autoclip_intro/",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/zhouxiaoka/autoclip"
+      }
+    ]
+  },
+  {
+    "name": "Duix.Avatar",
+    "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
+    "url": "https://github.com/duixcom/Duix.Avatar",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "AI-Media2Doc",
+    "desc": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
+    "url": "https://github.com/hanshuaikang/AI-Media2Doc",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ebook2audiobook",
+    "desc": "从电子书、语音克隆和 1107 多种语言生成有声读物！",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"LuoGen-agent",
+    "desc": "一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台。",
+    "url": "https://github.com/LuoGen-AI/LuoGen-agent",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"huobao-drama",
+    "desc": "火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 Huobao Drama - An AI-Powered End-to-End Short Drama Generator 《One Sentence to Complete Drama: Fully Automated from Script to Final Video》",
+    "url": "https://github.com/chatfire-AI/huobao-drama",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"moyin-creator",
+    "desc": "AI 影视生产级工具 · 支持 Seedance 2.0 · 剧本到成片全流程批量化。",
+    "url": "https://github.com/MemeCalculate/moyin-creator",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"Toonflow-app",
+    "desc": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。",
+    "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+    "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"waoowaoo",
+    "desc": "一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。",
+    "url": "https://github.com/waoowaooAI/waoowaoo",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

@@ -50,11 +50,40 @@
     "url": "https://github.com/MeiGen-AI/MultiTalk",
     "icon": "https://github.com/favicon.ico"
   },
-
   {
     "name": "LongCat-Video-Avatar",
     "desc": "这是一个统一的模型，可提供富有表现力且高度动态的音频驱动角色动画，支持包括音频文本转视频、音频文本图像转视频和视频连续播放在内的原生任务，并无缝兼容单流和多流音频输入。",
     "url": "https://github.com/MeiGen-AI/LongCat-Video-Avatar",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "klic suidio",
+    "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
+    "url": "https://www.klic.studio/?utm_source=ai-bot.cn",
+    "icon": "https://www.klic.studio/logo.svg",
+    "tags": [{ "id": "-3", "url": "https://github.com/krillinai/KlicStudio" }]
+  },
+
+  {
+    "name": "skyreels",
+    "desc": "无限长度影片生成模型",
+    "url": "https://www.skyreels.ai/home",
+    "icon": "https://www.skyreels.ai/home/favicon_0217.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/SkyworkAI/SkyReels-V2" }]
+  },
+  {
+    "name": "videolingo",
+    "desc": "VideoLingo: 连接世界的每一帧Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组。",
+    "url": "https://docs.videolingo.io/",
+    "icon": "https://docs.videolingo.io/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/Huanshere/VideoLingo" }
+    ]
+  },
+  {
+    "name": "pyvideotrans",
+    "desc": "将视频从一种语言翻译成另一种语言，并添加配音。。",
+    "url": "https://github.com/jianchang512/pyvideotrans",
     "icon": "https://github.com/favicon.ico"
   }
 ]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "LangBot",
+    "desc": "😎高稳定、🧩支持插件、🦄多模态 - 大模型原生即时通信机器人平台",
+    "url": "https://docs.langbot.app/",
+    "icon": "https://docs.langbot.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/RockChinQ/LangBot"
+      }
+    ]
+  },
+  {
+    "name": "BiliNote",
+    "desc": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
+    "url": "https://github.com/JefferyHcool/BiliNote",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "lmarena",
+    "desc": "ai 模型评估平台",
+    "url": "https://lmarena.ai/?mode=direct",
+    "icon": "https://lmarena.ai/images/favicon-dark.ico?v=1"
+  },
+  { 
+    "name": "intrascribe",
+    "desc": "私有化部署，内网适用的语音转录总结工具，完整的前后端代码。",
+    "url": "https://github.com/weynechen/intrascribe",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "nekro-agent",
+    "desc": "集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态;",
+    "url": "https://nekro.ai/products/nekro-edge",
+    "icon": "https://nekro.ai/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/KroMiose/nekro-agent" }
+    ]
+  },
+  {
+    "name": "ChopperBot",
+    "desc": "虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮",
+    "url": "https://github.com/Geniusay/ChopperBot",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"open-notebook",
+    "desc": "一款开源的 Notebook LM 实现，具有更高的灵活性和更多功能",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"BettaFish",
+    "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+    "url": "https://github.com/666ghj/BettaFish",
+    "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"ViNote",
+    "desc": "ViNoter超级智能体是一个基于ANP协议的开源对话式AI工具，通过自然语言对话自动化视频处理全流程，包括跨平台搜索、转录、笔记生成和翻译。也能离线处理视频笔记，让你轻松获取视频价值！打造个人笔记助手！",
+    "url": "https://github.com/zrt-ai-lab/ViNote",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"CookHero",
+    "desc": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”",
+    "url": "https://github.com/Decade-qiu/CookHero",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"moltbook",
+    "desc": "一个属于智能体的社交网络。发布、讨论、点赞与创建社区。人类也可围观与学习。。",
+    "url": "https://moltbook.cn/",
+    "icon": "https://moltbook.cn/favicon.ico"
+  }
+]

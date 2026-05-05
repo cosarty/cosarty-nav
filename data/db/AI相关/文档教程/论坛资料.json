@@ -92,5 +92,14 @@
     "desc": "5 分钟内更了解人工智能 | 加入来自谷歌、OpenAI、Notion、苹果等公司的 10 万多名用户。",
     "url": "https://www.theaivalley.com/",
     "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/ee48f7c1-5043-493e-afb3-90bcff43c11e/thumb_aivalley__1_.png"
+  },
+  {
+    "name": "awesome-llm-apps",
+    "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
+    "url": "https://www.theunwindai.com/",
+    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
+    ]
   }
 ]

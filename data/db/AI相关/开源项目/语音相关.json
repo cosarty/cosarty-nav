@@ -196,6 +196,20 @@
         "url": "https://github.com/jamiepine/voicebox"
       }
     ]
+  },
+  {
+    "name": "speaker",
+    "desc": "Speakr 是一款个人自托管的 Web 应用程序，专为转录录音而设计",
+    "url": "https://github.com/murtaza-nasir/speakr/",
+    "icon": "https://github.com/favicon.ico"
+  },
+  { 
+    "name":"lattifai",
+    "desc": "重塑音视频内容结构化,基于 Lattice AI 引擎，以极致精度与零延迟，将媒体资产转化为高价值数据。",
+    "url": "https://lattifai.com/zh#features",
+    "icon": "https://lattifai.com/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/lattifai/lattifai-python" }
+    ]
   }
-
 ]

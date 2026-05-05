@@ -204,5 +204,12 @@
         "url": "https://github.com/agno-agi/agno"
       }
     ]
+  },
+  {
+    "name": "Ruoyi AI",
+    "desc": "快速搭建属于自己的 AI 助手平台。",
+    "url": "https://doc.pandarobot.chat/",
+    "icon": "https://doc.pandarobot.chat/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/ageerle/ruoyi-ai" }]
   }
 ]

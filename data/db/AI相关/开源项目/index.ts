@@ -9,10 +9,20 @@ import RAG from './RAG.json'
 import ImageRelated from './图片相关.json'
 import VectorDatabase from './向量数据库.json'
 import Sandbox from './沙箱.json'
+import AIWriting from './AI创作.json'
+import AIProduct from './AI工具.json'
 
 export default {
   title: '开源项目',
   nav: [
+    {
+      title: 'AI创作',
+      nav: AIWriting,
+    },
+    {
+      title: 'AI工具',
+      nav: AIProduct,
+    },
     {
       title: '智能体',
       nav: Agent,

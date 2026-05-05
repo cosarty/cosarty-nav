@@ -18,35 +18,12 @@
     "icon": "https://fish.audio/_next/static/media/logo-circle-64.f94fa468.png"
   },
   {
-    "name": "AIGCPanel | 开源AI数字人系统",
-    "desc": "AigcPanel是一个可以在本地轻松使用AI模型的面板工具，支持模型安装、模型启动、模型调用等一站式便捷体验，让工作更高效！",
-    "url": "https://aigcpanel.com/",
-    "icon": "https://aigcpanel.com/favicon.ico",
-    "tags": [
-      {
-        "id": "-3",
-        "url": "https://github.com/modstart-lib/aigcpanel"
-      }
-    ]
-  },
-  {
     "name": "在线免费文字转语音:生成剪映AI配音",
     "desc": "免费合成剪映中的AI配音，任意文字转语音的在线AI视频配音助手，支持小帅，猴哥，熊二，紫薇，新闻腔等热门AI配音",
     "url": "https://tiktokvoice.net/zh",
     "icon": "https://tiktokvoice.net/favicon.ico"
   },
-  {
-    "name": "LangBot",
-    "desc": "😎高稳定、🧩支持插件、🦄多模态 - 大模型原生即时通信机器人平台",
-    "url": "https://docs.langbot.app/",
-    "icon": "https://docs.langbot.app/favicon.ico",
-    "tags": [
-      {
-        "id": "-3",
-        "url": "https://github.com/RockChinQ/LangBot"
-      }
-    ]
-  },
+
   {
     "name": "OpenCut",
     "desc": "一站式音视频解决剪辑难题，无论您需要视频剪辑、音频剪辑还是图片剪辑都游刃有余。",
@@ -60,43 +37,12 @@
     ]
   },
   {
-    "name": "BiliNote",
-    "desc": "AI 视频笔记生成工具 让 AI 为你的视频做笔记",
-    "url": "https://github.com/JefferyHcool/BiliNote",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
     "name": "Medeo",
     "desc": "ai视频剪辑",
     "url": "https://ai.medeo.app/create",
     "icon": "https://ai.medeo.app/apple-touch-icon.png"
   },
-  {
-    "name": "Lite LLM",
-    "desc": "LLM 网关（OpenAI 代理）用于管理 100 多个 LLM 的身份验证、负载均衡和支出跟踪。全部采用 OpenAI 格式。",
-    "url": "https://www.litellm.ai/",
-    "icon": "🚅"
-  },
-  {
-    "name": "gemini-balance",
-    "desc": "Gemini API 代理和负载均衡器",
-    "url": "https://github.com/snailyp/gemini-balance",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "klic suidio",
-    "desc": "基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容",
-    "url": "https://www.klic.studio/?utm_source=ai-bot.cn",
-    "icon": "https://www.klic.studio/logo.svg",
-    "tags": [{ "id": "-3", "url": "https://github.com/krillinai/KlicStudio" }]
-  },
-  {
-    "name": "skyreels",
-    "desc": "无限长度影片生成模型",
-    "url": "https://www.skyreels.ai/home",
-    "icon": "https://www.skyreels.ai/home/favicon_0217.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/SkyworkAI/SkyReels-V2" }]
-  },
+
   {
     "name": "mem0",
     "desc": "Mem0 是适用于 LLM 应用程序的通用、自我改进的内存层，可提供个性化的 AI 体验，从而降低成本并增强用户满意度。",
@@ -105,69 +51,10 @@
     "tags": [{ "id": "-3", "url": "https://github.com/mem0ai/mem0" }]
   },
   {
-    "name": "Ruoyi AI",
-    "desc": "快速搭建属于自己的 AI 助手平台。",
-    "url": "https://doc.pandarobot.chat/",
-    "icon": "https://doc.pandarobot.chat/favicon.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/ageerle/ruoyi-ai" }]
-  },
-  {
-    "name": "awesome-llm-apps",
-    "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
-    "url": "https://www.theunwindai.com/",
-    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
-    ]
-  },
-  {
-    "name": "CapCutAPI",
-    "desc": "轻量、灵活、易上手的剪映/CapCutAPI工具，构建全自动化视频剪辑/混剪流水线。",
-    "url": "https://www.capcutapi.top/zh-Hans/",
-    "icon": "https://www.capcutapi.top/zh-Hans/img/favicon.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/sun-guannan/CapCutAPI" }]
-  },
-  {
-    "name": "lmarena",
-    "desc": "ai 模型评估平台",
-    "url": "https://lmarena.ai/?mode=direct",
-    "icon": "https://lmarena.ai/images/favicon-dark.ico?v=1"
-  },
-  {
     "name": "minimaxi",
     "desc": "MiniMax是国内领先的拥有文本、语音、视觉三模态融合的千亿参数语言大模型，并打通产品全链路的创业公司。通过搭建超大规模实验平台与推理平台，跑通技术与产品的迭代闭环，实现模型能力与用户交互量的极速增长。",
     "url": "https://agent.minimaxi.com/",
     "icon": "https://agent.minimaxi.com/favicon.ico"
-  },
-  {
-    "name": "speaker",
-    "desc": "Speakr 是一款个人自托管的 Web 应用程序，专为转录录音而设计",
-    "url": "https://github.com/murtaza-nasir/speakr/",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "Open Avatar Chat",
-    "desc": "模块化的交互数字人对话实现，能够在单台PC上运行完整功能。",
-    "url": "https://github.com/HumanAIGC-Engineering/OpenAvatarChat",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "xiaozhi-esp32",
-    "desc": "一个基于 MCP 的聊天机器人",
-    "url": "https://github.com/78/xiaozhi-esp32",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "小智后端服务xiaozhi-esp32-server",
-    "desc": "本项目基于人机共生智能理论和技术研发智能终端软硬件体系为开源智能硬件项目 xiaozhi-esp32提供后端服务",
-    "url": "https://github.com/xinnan-tech/xiaozhi-esp32-server",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "雪梨表单",
-    "desc": "专属的调研，投票、NPS、报名等系统",
-    "url": "https://form.antdv.com/home",
-    "icon": "https://aliyuncdn.antdv.com/form/static/favicon.svg"
   },
   {
     "name": "AIRI",
@@ -181,39 +68,7 @@
       }
     ]
   },
-  {
-    "name": "AutoClip",
-    "desc": "智能视频切片一条视频，多个高光 你的AI剪辑搭子",
-    "url": "https://zhouxiaoka.github.io/autoclip_intro/",
-    "icon": "https://github.com/favicon.ico",
-    "tags": [
-      {
-        "id": "-3",
-        "url": "https://github.com/zhouxiaoka/autoclip"
-      }
-    ]
-  },
-  {
-    "name": "Duix.Avatar",
-    "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
-    "url": "https://github.com/duixcom/Duix.Avatar",
-    "icon": "https://github.com/favicon.ico"
-  },
-  { 
-    "name": "intrascribe",
-    "desc": "私有化部署，内网适用的语音转录总结工具，完整的前后端代码。",
-    "url": "https://github.com/weynechen/intrascribe",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "nekro-agent",
-    "desc": "集代码执行能力/高度可扩展性为一体的多人跨平台聊天机器人：沙盒驱动｜可视化｜高扩展｜多模态;",
-    "url": "https://nekro.ai/products/nekro-edge",
-    "icon": "https://nekro.ai/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/KroMiose/nekro-agent" }
-    ]
-  },
+
   {
     "name": "elevenlabs",
     "desc": "AI 语音模型和产品赋能数百万开发者、创作者和企业。从低延迟对话代理到领先的 AI 语音生成器，适用于配音和有声读物。",
@@ -225,39 +80,6 @@
     "desc": "GAGA-1: The Holistic AI Actor.Voice, Lipsync, and Performance as One.",
     "url": "https://gaga.art/",
     "icon": "https://static.sandcdn.com/build/gaga/331/_next/static/media/favicon.9e28952c.png"
-  },
-  {
-    "name": "videolingo",
-    "desc": "VideoLingo: 连接世界的每一帧Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组。",
-    "url": "https://docs.videolingo.io/",
-    "icon": "https://docs.videolingo.io/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/Huanshere/VideoLingo" }
-    ]
-  },
-  {
-    "name": "AI-Media2Doc",
-    "desc": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
-    "url": "https://github.com/hanshuaikang/AI-Media2Doc",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "ebook2audiobook",
-    "desc": "从电子书、语音克隆和 1107 多种语言生成有声读物！",
-    "url": "https://github.com/DrewThomasson/ebook2audiobook",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "ChopperBot",
-    "desc": "虎牙，斗鱼，抖音，BiliBili，TikTok，Twitch🔥热门🔥智能直播视频剪辑发布AI机器人，自动化🤖，全智能化⚙（智能生成切片，标题，封面，简介），可视化👓，平台热门监控🌡，丰富插件随意扩展🕹，快速部署⚡，视频账号打造自动发布🌟，支持DIY🎮",
-    "url": "https://github.com/Geniusay/ChopperBot",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name": "pyvideotrans",
-    "desc": "将视频从一种语言翻译成另一种语言，并添加配音。。",
-    "url": "https://github.com/jianchang512/pyvideotrans",
-    "icon": "https://github.com/favicon.ico"
   },
   {
     "name": "Handy",
@@ -281,18 +103,6 @@
     "icon": "https://www.vozo.ai/favicon.ico"
   },
   {
-    "name": "Vozo",
-    "desc": "一站式AI视频生成、编辑与本地化,轻松搞定视频翻译、配音、对口型、模特换脸与字幕添加。",
-    "url": "https://www.vozo.ai/zh",
-    "icon": "https://static-hb.clipp.ai/static-files/83c1gb7g/eXZc2V17k6jTECg-.png"
-  },
-  {
-    "name": "youmind",
-    "desc": "YouMind 是学习与创作交汇的地方。在 YouMind 中，你可以与 AI 智能体一起学习、思考和创作。一切自然流动，与你共同成长。",
-    "url": "https://youmind.com/zh-CN",
-    "icon": "https://marketing-assets.youmind.com/logo-32.png"
-  },
-  {
     "name": "gling",
     "desc": "专为 YouTube 用户打造的 AI 内容创作工具，可轻松将原始视频转化为引人入胜的内容。",
     "url": "https://www.gling.ai/",
@@ -306,93 +116,6 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/HeyGen-Official" }
     ]
-  },
-  {
-    "name":"LuoGen-agent",
-    "desc": "一键产出爆款视频：1.自动提取对标文案 2.自动进行文案仿写 3.自动根据文案声音克隆 4.自动生成数字人口播 5.自动添加字幕 6.自动添加背景音乐 7.自动添加视频标题 8.自动生成视频封面 9.自动将视频发布到各平台。",
-    "url": "https://github.com/LuoGen-AI/LuoGen-agent",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"open-notebook",
-    "desc": "一款开源的 Notebook LM 实现，具有更高的灵活性和更多功能",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"parlant",
-    "desc": "专为控制而构建的 LLM 代理。专为实际应用而设计。几分钟内即可完成部署",
-    "url": "https://github.com/emcie-co/parlant",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"BettaFish",
-    "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-    "url": "https://github.com/666ghj/BettaFish",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"Yuxi-Know",
-    "desc": "语析 - 基于大模型的知识库与知识图谱智能体开发平台。",
-    "url": "https://github.com/xerrors/Yuxi-Know",
-    "icon": "https://github.com/favicon.ico"
-  },
-  { 
-    "name":"lattifai",
-    "desc": "重塑音视频内容结构化,基于 Lattice AI 引擎，以极致精度与零延迟，将媒体资产转化为高价值数据。",
-    "url": "https://lattifai.com/zh#features",
-    "icon": "https://lattifai.com/favicon.ico",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/lattifai/lattifai-python" }
-    ]
-  },
-  {
-    "name":"huobao-drama",
-    "desc": "火宝短剧 - 基于AI的一站式短剧生成平台 《一句话生成完整短剧，从剧本到成片全自动化》 Huobao Drama - An AI-Powered End-to-End Short Drama Generator 《One Sentence to Complete Drama: Fully Automated from Script to Final Video》",
-    "url": "https://github.com/chatfire-AI/huobao-drama",
-    "icon": "https://github.com/favicon.ico"
-  },
-  { 
-    "name":"ViNote",
-    "desc": "ViNoter超级智能体是一个基于ANP协议的开源对话式AI工具，通过自然语言对话自动化视频处理全流程，包括跨平台搜索、转录、笔记生成和翻译。也能离线处理视频笔记，让你轻松获取视频价值！打造个人笔记助手！",
-    "url": "https://github.com/zrt-ai-lab/ViNote",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"CookHero",
-    "desc": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”",
-    "url": "https://github.com/Decade-qiu/CookHero",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"moyin-creator",
-    "desc": "AI 影视生产级工具 · 支持 Seedance 2.0 · 剧本到成片全流程批量化。",
-    "url": "https://github.com/MemeCalculate/moyin-creator",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"Toonflow-app",
-    "desc": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。",
-    "url": "https://github.com/HBAI-Ltd/Toonflow-app",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
-    "name":"moltbook",
-    "desc": "一个属于智能体的社交网络。发布、讨论、点赞与创建社区。人类也可围观与学习。。",
-    "url": "https://moltbook.cn/",
-    "icon": "https://moltbook.cn/favicon.ico"
-  },
-  {
-    "name":"VectCutAPI",
-    "desc": "VectCutAPI 是一款强大的云端 剪辑 API，它赋予您对 AI 生成素材（包括图片、音频、视频和文字）的精确控制权。 它提供了精确的编辑能力来拼接原始的 AI 输出，例如给视频变速或将图片镜像反转。这种能力有效地解决了 AI 生成的结果缺乏精确控制，难以复制的问题，让您能够轻松地将创意想法转化为精致的视频。",
-    "url": "https://github.com/sun-guannan/VectCutAPI",
-    "icon": "https://github.com/favicon.ico"
-  },
-  { 
-    "name":"waoowaoo",
-    "desc": "一款基于 AI 技术的短剧/漫画视频制作工具，支持从小说文本自动生成分镜、角色、场景，并制作成完整视频。",
-    "url": "https://github.com/waoowaooAI/waoowaoo",
-    "icon": "https://github.com/favicon.ico"
   },
   { 
     "name":"剧影",
