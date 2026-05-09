@@ -1,0 +1,14 @@
+[
+  {
+    "name": "HaloLight",
+    "desc": "全栈分离管理后台前后端完全解耦 · 12 个前端 × 8 个后端 = 96 种组合 · 企业级 Admin Dashboard",
+    "url": "https://halolight.docs.h7ml.cn/",
+    "icon": "https://halolight.docs.h7ml.cn/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/halolight"
+      }
+    ]
+  }
+]

@@ -11,9 +11,14 @@ import Animation from './动画框架.json'
 import Icon from './图标库.json'
 import Template from './模版库.json'
 import WebGIS from './webgis.json'
+import ScaffoldTemplate from './脚手架模版.json'
 export default {
   title: '通用框架',
   nav: [
+    {
+      title: '脚手架模版',
+      nav: ScaffoldTemplate,
+    },
     {
       title: '运行时',
       nav: Runtime,

@@ -129,5 +129,17 @@
         "url": "https://github.com/t3-oss/create-t3-app"
       }
     ]
+  },
+  {
+    "name": "n-admin",
+    "desc": "基于 Next.js 16、 React 19 和 Shadcn UI 构建的完整后台管理系统模板，帮助你快速搭建 企业级应用。",
+    "url": "https://n-admin.guizimo.com/",
+    "icon": "https://n-admin.guizimo.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Guizimo/n-admin"
+      }
+    ]
   }
 ]
