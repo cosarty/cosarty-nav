@@ -335,5 +335,11 @@
     "desc": "使用 tldraw SDK 在 React 中构建无限画布应用程序",
     "url": "https://tldraw.dev/",
     "icon": "https://tldraw.dev/favicon.ico"
+  },
+  {
+    "name": "ultracite",
+    "desc": "适用于生产环境的零配置预设。",
+    "url": "https://www.ultracite.ai/",
+    "icon": "https://www.ultracite.ai/favicon.ico"
   }
 ]

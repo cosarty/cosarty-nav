@@ -141,5 +141,11 @@
         "url": "https://github.com/Guizimo/n-admin"
       }
     ]
+  },
+  {
+    "name": "swr",
+    "desc": "专为 React 构建的现代化数据获取机制。",
+    "url": "https://swr.vercel.app/",
+    "icon": "https://swr.vercel.app/favicon.ico"
   }
 ]
