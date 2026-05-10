@@ -29,5 +29,20 @@
     "desc": "对标 JavaGuide 的 AI Agent 学习指南从入门到拿 Offer，系统化 + 实战化 + 求职导向",
     "url": "https://adongwanai.github.io/AgentGuide/",
     "icon": "https://adongwanai.github.io/favicon.ico"
+  },
+  {
+    "name": "vibe-coding-cn",
+    "desc": "vibe coding 至尊超级终极无敌指南 V114514",
+    "url": "https://github.com/tukuaiai/vibe-coding-cn",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "awesome-llm-apps",
+    "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
+    "url": "https://www.theunwindai.com/",
+    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
+    ]
   }
 ]

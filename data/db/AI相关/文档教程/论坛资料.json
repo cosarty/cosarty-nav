@@ -35,14 +35,6 @@
     "url": "https://henjihenji.feishu.cn/wiki/BbGWwCytLilAbKktLW8c01ARndb",
     "icon": "https://www.feishu.cn/favicon.ico"
   },
-
-  {
-    "name": "vibe-coding-cn",
-    "desc": "vibe coding 至尊超级终极无敌指南 V114514",
-    "url": "https://github.com/tukuaiai/vibe-coding-cn",
-    "icon": "https://github.com/favicon.ico"
-  },
-
   {
     "name": "OSSInsight",
     "desc": "GitHub 数据浏览器",
@@ -94,12 +86,27 @@
     "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/ee48f7c1-5043-493e-afb3-90bcff43c11e/thumb_aivalley__1_.png"
   },
   {
-    "name": "awesome-llm-apps",
-    "desc": "使用 OpenAI、Anthropic、Gemini 和开源模型的具有 AI 代理和 RAG 的出色 LLM 应用程序集合。",
-    "url": "https://www.theunwindai.com/",
-    "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/84ac330c-894c-4f61-ac66-e747ce8b32eb/thumb_logo.png",
-    "tags": [
-      { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
-    ]
+    "name": "aihot",
+    "desc": "AI热点追踪",
+    "url": "https://aihot.virxact.com/",
+    "icon": "https://aihot.virxact.com/icon.png?563ecdc289c6873d"
+  },
+  {
+    "name": "AIGC Weekly",
+    "desc": "如果你是AI从业人员或者想加入AI领域工作，这个周刊非常适合你。从ChatGPT发布的那周开始更新稳定运营两年，口碑和品质保证，很多看周刊长大的朋友都已经在行业站稳脚跟。免费订阅也可以获得日常内容更新，如果是付费会员可以获得：订阅后可以获得，一份不只有新闻资讯的AIGC周刊：1️⃣记录上周值得关注的AI领...践经验。",
+    "url": "https://quaily.com/op7418",
+    "icon": "https://quaily.com/favicon.ico"
+  },
+  {
+    "name": "bestblogs",
+    "desc": "AI 驱动的个性化高质量阅读工作流。",
+    "url": "https://www.bestblogs.dev/",
+    "icon": "https://www.bestblogs.dev/favicon.ico"
+  },
+  {
+    "name": "tw93",
+    "desc": "Tw93 的个人博客，杭州产品工程师，写一些关于产品工程、AI Coding、开源工具的思考。",
+    "url": "https://tw93.fun/",
+    "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png"
   }
 ]
