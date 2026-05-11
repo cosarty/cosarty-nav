@@ -341,5 +341,17 @@
     "desc": "适用于生产环境的零配置预设。",
     "url": "https://www.ultracite.ai/",
     "icon": "https://www.ultracite.ai/favicon.ico"
+  },
+  {
+    "name": "json-render",
+    "desc": "从提示生成动态、个性化的用户界面，同时不牺牲可靠性。预定义的组件和动作，确保安全、可预测的输出。",
+    "url": "https://json-render.dev/",
+    "icon": "https://json-render.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/vercel-labs/json-render"
+      }
+    ]
   }
 ]
