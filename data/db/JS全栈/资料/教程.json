@@ -34,6 +34,13 @@
     "desc": "一个无限画布教程,一步步构建一个可用的无限画布",
     "url": "https://infinitecanvas.cc/zh/",
     "icon": "https://infinitecanvas.cc/canvas-mini.png"
+  },
+  {
+    "name": "monorepo",
+    "desc": "monorepo 教程",
+    "url": "https://monorepo.tools/",
+    "icon": "https://monorepo.tools/favicon.ico"
+ 
   }
 ]
 
