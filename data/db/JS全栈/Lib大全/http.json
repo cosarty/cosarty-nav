@@ -46,5 +46,11 @@
         "url": "https://github.com/vercel/swr"
       }
     ]
+  },
+  {
+    "name": "ofetch",
+    "desc": "更强大的 fetch API。可在所有平台使用.",
+    "url": "https://github.com/unjs/ofetch",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
