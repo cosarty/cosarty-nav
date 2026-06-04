@@ -46,5 +46,17 @@
         "url": "https://github.com/mohyware/clip-js"
       }
     ]
+  },
+  {
+    "name": "remotion-bits",
+    "desc": "视频制作的基本要素",
+    "url": "https://remotion-bits.dev/",
+    "icon": "https://remotion-bits.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/av/remotion-bits"
+      }
+    ]
   }
 ]
