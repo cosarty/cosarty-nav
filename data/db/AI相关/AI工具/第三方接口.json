@@ -136,5 +136,11 @@
     "desc": "Atlas Cloud 为您提供业界领先的最新创意模型。",
     "url": "https://www.atlascloud.ai/zh",
     "icon": "https://www.atlascloud.ai/favicon.ico?v=2"
+  },
+  {
+    "name": "agnes-ai",
+    "desc": "让世界级AI属于每一个人。",
+    "url": "https://agnes-ai.com/",
+    "icon": "https://agnes-ai.com/images/biglogo.png"
   }
 ]
