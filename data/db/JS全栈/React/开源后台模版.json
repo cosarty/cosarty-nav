@@ -52,5 +52,17 @@
     "desc": "功能强大的免费 SaaS 模板。",
     "url": "https://opensaas.sh/",
     "icon": "https://opensaas.sh/favicon.ico"
+  },
+  {
+    "name": "n-admin",
+    "desc": "应用最新技术栈的后台管理系统，基于 Next.js 15，实现了 RBAC 权限管理。",
+    "url": "https://n-admin.guizimo.com/。",
+    "icon": "https://n-admin.guizimo.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Guizimo/n-admin"
+      }
+    ]
   }
 ]
