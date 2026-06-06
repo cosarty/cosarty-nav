@@ -44,5 +44,20 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/Shubhamsaboo/awesome-llm-apps" }
     ]
+  },
+  {
+    "name": "vibecoder",
+    "desc": "Vibe 程序员缺失的手册。",
+    "url": "https://blog.vibecoder.me/",
+    "icon": "https://blog.vibecoder.me/favicon.ico"
+  },
+  {
+    "name": "vibe-vibe",
+    "desc": "不止写代码，更能把想法变成作品从首个原型到正式上线，放大你的天才创意",
+    "url": "https://www.vibevibe.cn/zh/",
+    "icon": "https://www.vibevibe.cn/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/datawhalechina/vibe-vibe" }
+    ]
   }
 ]
