@@ -211,5 +211,29 @@
     "url": "https://doc.pandarobot.chat/",
     "icon": "https://doc.pandarobot.chat/favicon.ico",
     "tags": [{ "id": "-3", "url": "https://github.com/ageerle/ruoyi-ai" }]
+  },
+  {
+    "name": "LangChain",
+    "desc": "LangChain 是一个由大型语言模型 (LLM) 驱动的应用程序开发框架。",
+    "url": "https://python.langchain.com/docs/introduction/",
+    "icon": "https://python.langchain.com/img/brand/favicon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/langchain-ai/langchain"
+      }
+    ]
+  },
+  {
+    "name": "guardrailsai",
+    "desc": "利用防护措施降低人工智能世代风险",
+    "url": "https://guardrailsai.com/",
+    "icon": "https://guardrailsai.com/favicons/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/guardrails-ai/guardrails"
+      }
+    ]
   }
 ]
