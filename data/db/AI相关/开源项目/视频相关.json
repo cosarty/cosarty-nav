@@ -85,5 +85,11 @@
     "desc": "将视频从一种语言翻译成另一种语言，并添加配音。。",
     "url": "https://github.com/jianchang512/pyvideotrans",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Clypra",
+    "desc": "一款基于 Tauri、React 和 TypeScript 构建的现代视频编辑器。专注于构建 Capcut 高级功能的免费版本。",
+    "url": "https://github.com/AIEraDev/Clypra",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
