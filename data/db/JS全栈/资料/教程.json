@@ -40,7 +40,12 @@
     "desc": "monorepo 教程",
     "url": "https://monorepo.tools/",
     "icon": "https://monorepo.tools/favicon.ico"
- 
+  },
+  {
+    "name": "WebRTC中文网",
+    "desc": "WebRTC 教程",
+    "url": "https://webrtc.org.cn/",
+    "icon": "https://webrtc.org.cn/favicon.ico"
   }
 ]
 

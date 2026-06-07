@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Agora",
+    "desc": "Agora 是一个全栈 WebRTC 框架，提供了一套完整的 WebRTC 解决方案。",
+    "url": "https://agora.io/",
+    "icon": "https://cdn.prod.website-files.com/660affa848e8af81bdd03909/66b3cd94a81a4b1b39300602_favicon-32x32.png"
+  },
+  {
+    "name": "tl-rtc-file",
+    "desc": "基于webrtc的网页在线媒体流传输开源工具。",
+    "url": "https://github.com/tl-open-source/tl-rtc-file",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "FastSend",
+    "desc": "FastSend 是一个基于 WebRTC 技术的点对点文件传输工具，支持快速的目录同步和文件传输。通过浏览器即可实现安全、高效的文件共享。",
+    "url": "https://github.com/ShouChenICU/FastSend",
+    "icon": "https://github.com/favicon.ico"
+  }
+]

@@ -52,5 +52,17 @@
     "desc": "纯 JavaScript/TypeScript 库，用于多行文本测量和布局。速度快、精度高，并且支持许多你可能都不知道的语言。支持渲染到 DOM、Canvas、SVG，不久还将支持服务器端渲染。",
     "url": "https://github.com/chenglou/pretext",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "dicebear",
+    "desc": "同样的种子，同样的头像。 每次都是如此。",
+    "url": "https://www.dicebear.com/",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/dicebear/dicebear"
+      }
+    ]
   }
 ]

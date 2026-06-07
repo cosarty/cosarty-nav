@@ -12,9 +12,14 @@ import Icon from './图标库.json'
 import Template from './模版库.json'
 import WebGIS from './webgis.json'
 import ScaffoldTemplate from './脚手架模版.json'
+import WebRTC from './webRTC.json'
 export default {
   title: '通用框架',
   nav: [
+    {
+      title: 'WebRTC',
+      nav: WebRTC,
+    },
     {
       title: '脚手架模版',
       nav: ScaffoldTemplate,

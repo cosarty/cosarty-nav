@@ -353,5 +353,29 @@
         "url": "https://github.com/vercel-labs/json-render"
       }
     ]
+  },
+  {
+    "name": "openui",
+    "desc": "生成式用户界面的开放标准",
+    "url": "https://www.openui.com/",
+    "icon": "https://www.openui.com/favicon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/thesysdev/openui"
+      }
+    ]
+  },
+  {
+    "name": "assistant-ui",
+    "desc": "在您自己的应用中使用 ChatGPT 的用户体验",
+    "url": "https://www.assistant-ui.com/",
+    "icon": "https://www.assistant-ui.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/assistant-ui/assistant-ui"
+      }
+    ]
   }
 ]

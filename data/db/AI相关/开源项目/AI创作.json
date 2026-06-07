@@ -119,5 +119,11 @@
     "desc": "最佳AI语音识别、翻译和多语言配音解决方案 🚀",
     "url": "https://github.com/abus-aikorea/voice-pro",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ViMax",
+    "desc": "ViMax：智能视频生成（集导演、编剧、制片人和视频生成器于一体）",
+    "url": "https://github.com/HKUDS/ViMax",
+    "icon": "https://github.com/favicon.ico"
   }
 ]

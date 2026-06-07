@@ -235,5 +235,17 @@
         "url": "https://github.com/guardrails-ai/guardrails"
       }
     ]
+  },
+  {
+    "name": "agentscope",
+    "desc": "面向人工智能代理的开源堆栈。",
+    "url": "https://agentscope.io/",
+    "icon": "https://agentscope.io/logo.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/agentscope-ai"
+      }
+    ]
   }
 ]

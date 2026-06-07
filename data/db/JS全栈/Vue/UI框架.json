@@ -105,5 +105,11 @@
     "desc": "一套完整且行之有效的设计系统 。",
     "url": "https://vuetifyjs.com/zh-Hans/",
     "icon": "https://vuetifyjs.com/favicon.ico"
+  },
+  {
+    "name": "uviewpro",
+    "desc": "多平台快速开发UI框架",
+    "url": "https://uviewpro.cn",
+    "icon": "https://uviewpro.cn/favicon.ico"
   }
 ]
