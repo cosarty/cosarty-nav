@@ -556,5 +556,11 @@
     "desc": "Wait for a condition to be true。",
     "url": "https://www.npmjs.com/package/p-wait-for",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "diff-match-patch",
+    "desc": "diff-match-patch 是一个用于计算两个字符串之间差异的库。",
+    "url": "https://www.npmjs.com/package/diff-match-patch",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
