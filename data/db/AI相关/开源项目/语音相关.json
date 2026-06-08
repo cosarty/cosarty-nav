@@ -217,5 +217,11 @@
     "desc": "MOSS-TTS Family 是由 MOSI.AI 和 OpenMOSS 团队开发的开源语音和声音生成模型系列。它专为高保真度、高表现力和复杂的真实世界场景而设计，涵盖稳定的长篇语音、多说话人对话、语音/角色设计、环境音效和实时流式 TTS。",
     "url": "https://github.com/OpenMOSS/MOSS-TTS",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "dots.tts",
+    "desc": "dots.tts 是一个 2B 参数的全连续端到端自回归 (AR) 文本到语音系统 。其主干系统将语义编码器、LLM 和自回归流匹配声学头结合在 48 kHz AudioVAE 上，整个流程中没有任何离散标记。",
+    "url": "https://github.com/rednote-hilab/dots.tts",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
