@@ -46,6 +46,12 @@
     "desc": "WebRTC 教程",
     "url": "https://webrtc.org.cn/",
     "icon": "https://webrtc.org.cn/favicon.ico"
+  },
+  {
+    "name": "60天学会Nodejs",
+    "desc": "60 天学会 Node.js 全栈开发",
+    "url": "https://github.com/crisweb1994/60-days-nodejs",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
 
