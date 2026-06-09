@@ -58,5 +58,11 @@
     "desc": "最大的开源 UI 库",
     "url": "https://uiverse.io/",
     "icon": "https://uiverse.io/favicon.ico"
+  },
+  {
+    "name": "headlessui",
+    "desc": "无头 UI 是一个 React 组件库，用于构建符合可访问性标准的用户界面。",
+    "url": "https://headlessui.com/",
+    "icon": "https://headlessui.com/favicon.ico"
   }
 ]

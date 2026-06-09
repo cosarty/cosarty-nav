@@ -147,5 +147,17 @@
     "desc": "专为 React 构建的现代化数据获取机制。",
     "url": "https://swr.vercel.app/",
     "icon": "https://swr.vercel.app/favicon.ico"
+  },
+  {
+    "name": "librechat",
+    "desc": "🖥️ UI 和体验设计灵感源自 ChatGPT，并增强了设计和功能",
+    "url": "https://www.librechat.ai/",
+    "icon": "https://www.librechat.ai/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/danny-avila/LibreChat"
+      }
+    ]
   }
 ]

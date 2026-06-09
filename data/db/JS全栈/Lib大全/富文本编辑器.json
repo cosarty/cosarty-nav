@@ -140,5 +140,11 @@
     "desc": "开源网页编辑器，支持富文本、块、Markdown 编辑，高效且开箱即用，基于 Prosemirror 和 Tiptap。",
     "url": "https://editor.islenote.com/",
     "icon": "https://editor.islenote.com/favicon.ico"
+  },
+  {
+    "name": "lexical",
+    "desc": "一个与众不同的文本编辑器框架。",
+    "url": "https://lexical.dev/",
+    "icon": "https://lexical.dev/img/favicon.ico"
   }
 ]
