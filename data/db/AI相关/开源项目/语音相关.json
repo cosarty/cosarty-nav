@@ -223,5 +223,11 @@
     "desc": "dots.tts 是一个 2B 参数的全连续端到端自回归 (AR) 文本到语音系统 。其主干系统将语义编码器、LLM 和自回归流匹配声学头结合在 48 kHz AudioVAE 上，整个流程中没有任何离散标记。",
     "url": "https://github.com/rednote-hilab/dots.tts",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "MiniCPM-V",
+    "desc": "一款口袋大小的 MLLM，可在您的手机上实现超高效的图像和视频理解",
+    "url": "https://github.com/OpenBMB/MiniCPM-V",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
