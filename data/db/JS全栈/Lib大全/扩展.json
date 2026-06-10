@@ -64,5 +64,11 @@
         "url": "https://github.com/dicebear/dicebear"
       }
     ]
+  },
+  {
+    "name": "Favorite",
+    "desc": "120 亿个独特的多元文化头像。免费生成您自己的头像，获取您的 Multiavatar 商品。",
+    "url": "https://multiavatar.com/",
+    "icon": "https://multiavatar.com/favicon.ico?v=001"
   }
 ]

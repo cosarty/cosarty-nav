@@ -18,12 +18,6 @@
     "icon": "https://shiki.style/logo.svg"
   },
   {
-    "name": "Favorite",
-    "desc": "120 亿个独特的多元文化头像。免费生成您自己的头像，获取您的 Multiavatar 商品。",
-    "url": "https://multiavatar.com/",
-    "icon": "https://multiavatar.com/favicon.ico?v=001"
-  },
-  {
     "name": "fullPage",
     "desc": "Alvaro Trigo 的 fullPage 插件。快速简单地创建全屏页面。一页滚动部分 jquery 插件。鼠标捕捉。",
     "url": "https://alvarotrigo.com/fullPage/",
