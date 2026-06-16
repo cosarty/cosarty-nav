@@ -247,5 +247,18 @@
         "url": "https://github.com/agentscope-ai"
       }
     ]
+  },
+  {
+    "name": "ms-agent",
+    "desc": "MS-Agent是魔搭社区官方推出的Agent智能体框架。本框架致力于使用一个清晰简单的通用能力框架，解决若干领域的专有问题。",
+    "url": "https://ms-agent.readthedocs.io/zh-cn/latest/index.html",
+    "icon": "https://ms-agent.readthedocs.io/zh-cn/latest/_static/ms_agent_icon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/modelscope/ms-agent"
+      }
+    ]
   }
+
 ]
