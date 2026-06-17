@@ -5,7 +5,6 @@
     "url": "https://agent-tars.com/",
     "icon": "https://github.com/bytedance/UI-TARS-desktop/blob/main/apps/ui-tars/resources/favicon-32x32.png?raw=true"
   },
-
   {
     "name": "openmanus",
     "desc": "用于构建通用 AI 代理的开源框架。",
@@ -18,7 +17,6 @@
       }
     ]
   },
-
   {
     "name": "Coze Studio",
     "desc": "一个集成一体化可视化工具的 AI 代理开发平台，前所未有地简化了代理的创建、调试和部署。轻松创建 AI 代理。",
@@ -49,7 +47,10 @@
     "url": "https://www.fastbuildai.com/",
     "icon": "https://www.fastbuildai.com/favicon.ico",
     "tags": [
-      { "id": "-3", "url": "https://github.com/FastbuildAI/FastbuildAI" }
+      {
+        "id": "-3",
+        "url": "https://github.com/FastbuildAI/FastbuildAI"
+      }
     ]
   },
   {
@@ -70,7 +71,6 @@
     "url": "https://github.com/univa-agent/univa",
     "icon": "https://github.com/favicon.ico"
   },
-
   {
     "name": "BaseAI",
     "desc": "BaseAI 是首个使用 Node.js 和 TypeScript 构建无服务器 AI 代理的 Web AI 框架。",
@@ -101,7 +101,6 @@
     "url": "https://github.com/HKUDS/nanobot",
     "icon": "https://github.com/favicon.ico"
   },
-
   {
     "name": "nanoclaw",
     "desc": "🐈纳米机器人：超轻型 OpenClaw”。",
@@ -114,7 +113,6 @@
       }
     ]
   },
-
   {
     "name": "OpenMAIC",
     "desc": "OpenMAIC（Open Multi-Agent Interactive Classroom）是一个开源的 AI 互动课堂平台，能够将任何主题或文档转化为丰富的互动学习体验。基于多智能体协作引擎，它可以自动生成演示幻灯片、测验、交互式模拟实验和项目制学习活动——由 AI 教师和 AI 同学进行语音讲解、白板绘图，并与你展开实时讨论",
@@ -194,10 +192,10 @@
     ]
   },
   {
-    "name":"agno",
-    "desc":"Agno 提供唯一端到端的代理解决方案。",
-    "url":"https://www.agno.com/",
-    "icon":"https://cdn.prod.website-files.com/6796d350b8c706e4533e7e32/68a85cff903ee6514fac3a97_32.png",
+    "name": "agno",
+    "desc": "Agno 提供唯一端到端的代理解决方案。",
+    "url": "https://www.agno.com/",
+    "icon": "https://cdn.prod.website-files.com/6796d350b8c706e4533e7e32/68a85cff903ee6514fac3a97_32.png",
     "tags": [
       {
         "id": "-3",
@@ -210,7 +208,12 @@
     "desc": "快速搭建属于自己的 AI 助手平台。",
     "url": "https://doc.pandarobot.chat/",
     "icon": "https://doc.pandarobot.chat/favicon.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/ageerle/ruoyi-ai" }]
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ageerle/ruoyi-ai"
+      }
+    ]
   },
   {
     "name": "LangChain",
@@ -259,6 +262,11 @@
         "url": "https://github.com/modelscope/ms-agent"
       }
     ]
+  },
+  {
+    "name": "Agent-Reach",
+    "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "icon": "https://github.com/favicon.ico"
   }
-
 ]
