@@ -640,5 +640,12 @@
     "desc": "一个用于js页面逆向调试的工具。",
     "url": "https://github.com/cilame/v_jstools",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "xcrawl",
+    "desc": "AI 驱动的网页抓取API与智能采集工具",
+    "url": "https://www.xcrawl.com/zh/",
+    "icon": "https://www.xcrawl.com/favicon.ico"
   }
+
 ]
