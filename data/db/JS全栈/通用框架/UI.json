@@ -64,5 +64,17 @@
     "desc": "无头 UI 是一个 React 组件库，用于构建符合可访问性标准的用户界面。",
     "url": "https://headlessui.com/",
     "icon": "https://headlessui.com/favicon.ico"
+  },
+  {
+    "name": "ui-tools",
+    "desc": "一款创意工具箱，包含阴影、SVG、渐变和背景图案生成器以及颜色生成器。开源、快速，专为开发者打造。",
+    "url": "https://github.com/ui-layouts/ui-tools",
+    "icon": "https://tools.ui-layouts.com/favicon.ico"
+  },
+  {
+    "name": "ui-layouts",
+    "desc": "开发者可复制、粘贴 UI 组件和模块。",
+    "url": "https://www.ui-layouts.com/",
+    "icon": "https://tools.ui-layouts.com/favicon.ico"
   }
 ]

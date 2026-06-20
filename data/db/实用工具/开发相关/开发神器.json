@@ -593,12 +593,6 @@
     "icon": "https://tikhub.io/favicon.ico"
   },
   {
-    "name": "ui-tools",
-    "desc": "一款创意工具箱，包含阴影、SVG、渐变和背景图案生成器以及颜色生成器。开源、快速，专为开发者打造。",
-    "url": "https://github.com/ui-layouts/ui-tools",
-    "icon": "https://tools.ui-layouts.com/favicon.ico"
-  },
-  {
     "name": "upstash",
     "desc": "无服务器数据平台,满足您所有数据需求的单一平台。",
     "url": "https://upstash.com/",
