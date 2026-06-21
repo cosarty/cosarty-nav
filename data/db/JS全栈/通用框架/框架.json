@@ -17,7 +17,6 @@
     "url": "https://site.logic-flow.cn/",
     "icon": "https://cdn.jsdelivr.net/gh/Logic-Flow/static@latest/docs/favicon.png"
   },
-
   {
     "name": "swiper",
     "desc": "Swiper 是最现代的免费移动触摸滑块，具有硬件加速转换和惊人的本机行为。",
@@ -223,7 +222,7 @@
     ]
   },
   {
-    "name":"revealjs",
+    "name": "revealjs",
     "desc": "HTML 演示框架",
     "url": "https://revealjs.com/",
     "icon": "https://revealjs.com/images/favicon.svg"
@@ -375,6 +374,18 @@
       {
         "id": "-3",
         "url": "https://github.com/assistant-ui/assistant-ui"
+      }
+    ]
+  },
+  {
+    "name": "飞鱼",
+    "desc": "纯前端多格式文件预览组件。把 Word、Excel、PPT、PDF、OFD、Typst、压缩包、邮件、OLB/DRA、CAD、地理数据、3D 模型、Excalidraw、draw.io、EPUB、UMD、Markdown、代码、图片、音视频、字体、设计资产和结构化数据预览能力放进浏览器端， 同时提供 Vue3、Vue2.7、Vue2.6、React、React Legacy、Pure Web、jQuery 和 Svelte 原生集成路径。",
+    "url": "https://doc.file-viewer.app/",
+    "icon": "https://doc.file-viewer.app/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/flyfish-dev/file-viewer"
       }
     ]
   }
