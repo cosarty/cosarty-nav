@@ -624,7 +624,7 @@
     "icon": "https://fly.io/phx/ui/images/favicon/favicon-595d1312b35dfe32838befdf8505515e.ico?vsn=d"
   },
   {
-    "name": "fly",
+    "name": "resend",
     "desc": "直接触达用户而非被归入垃圾邮件箱的最佳方式。大规模发送交易邮件和营销邮件。",
     "url": "https://resend.com",
     "icon": "https://resend.com/static/favicons/favicon-marketing.ico?v=1"
