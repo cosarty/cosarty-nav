@@ -148,5 +148,11 @@
     "desc": "运行并微调模型。部署自定义模型。所有操作只需一行代码即可完成。",
     "url": "https://replicate.com/home",
     "icon": "https://static.replicateassets.com/fe/2fcfd0133a53fa7f8d1776795da22c460f04ea67/favicon-CKiqAkf2.png"
+  },
+  {
+    "name": "grsai",
+    "desc": "主流 AI 大模型 API 聚合平台",
+    "url": "https://grsai.com/",
+    "icon": "https://grsai.com/favicon.ico"
   }
 ]
