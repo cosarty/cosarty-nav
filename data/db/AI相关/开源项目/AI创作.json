@@ -132,5 +132,11 @@
     "desc": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
     "url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "AiToEarn",
+    "desc": "货币化·发布·参与·创造——一站式平台。",
+    "url": "https://github.com/yikart/AiToEarn",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
