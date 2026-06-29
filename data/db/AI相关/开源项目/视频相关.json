@@ -91,5 +91,11 @@
     "desc": "一款基于 Tauri、React 和 TypeScript 构建的现代视频编辑器。专注于构建 Capcut 高级功能的免费版本。",
     "url": "https://github.com/AIEraDev/Clypra",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "OpenMontage",
+    "desc": "全球首个开源智能视频制作系统。12 条流程、52 种工具、500 多种智能体技能。将您的 AI 编码助手变成一个完整的视频制作工作室。",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
