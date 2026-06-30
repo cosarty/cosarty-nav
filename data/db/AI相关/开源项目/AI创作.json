@@ -37,12 +37,6 @@
     ]
   },
   {
-    "name": "Duix.Avatar",
-    "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
-    "url": "https://github.com/duixcom/Duix.Avatar",
-    "icon": "https://github.com/favicon.ico"
-  },
-  {
     "name": "AI-Media2Doc",
     "desc": "一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。",
     "url": "https://github.com/hanshuaikang/AI-Media2Doc",

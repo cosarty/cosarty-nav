@@ -70,5 +70,23 @@
     "desc": "120 亿个独特的多元文化头像。免费生成您自己的头像，获取您的 Multiavatar 商品。",
     "url": "https://multiavatar.com/",
     "icon": "https://multiavatar.com/favicon.ico?v=001"
+  },
+    {
+    "name": "Duix.Avatar",
+    "desc": "Duix.Avatar 是由 Duix.com 开发的免费开源 AI 头像项目。",
+    "url": "https://github.com/duixcom/Duix.Avatar",
+    "icon": "https://github.com/favicon.ico"
+  },
+   {
+    "name": "boringavatars",
+    "desc": "Boring avatars 是一个开源 React 库，它可以根据用户名、电子邮件或任何随机字符串生成独特的基于 SVG 的用户个人资料头像。",
+    "url": "https://boringavatars.com/",
+    "icon": "https://boringavatars.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/boringdesigners/boring-avatars"
+      }
+    ]
   }
 ]

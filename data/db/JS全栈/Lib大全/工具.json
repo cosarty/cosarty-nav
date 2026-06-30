@@ -468,18 +468,6 @@
     "icon": "https://github.com/favicon.ico"
   },
   {
-    "name": "boringavatars",
-    "desc": "Boring avatars 是一个开源 React 库，它可以根据用户名、电子邮件或任何随机字符串生成独特的基于 SVG 的用户个人资料头像。",
-    "url": "https://boringavatars.com/",
-    "icon": "https://boringavatars.com/favicon.ico",
-    "tags": [
-      {
-        "id": "-3",
-        "url": "https://github.com/boringdesigners/boring-avatars"
-      }
-    ]
-  },
-  {
     "name": "Mediabunny",
     "desc": "一个用于读取、写入和转换视频和音频文件的 JavaScript 库。直接在浏览器中运行，速度比其他任何库都快。",
     "url": "https://mediabunny.dev/",
