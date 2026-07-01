@@ -132,5 +132,11 @@
     "desc": "货币化·发布·参与·创造——一站式平台。",
     "url": "https://github.com/yikart/AiToEarn",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "ppt-master",
+    "desc": "AI 生成原生可编辑 PPTX，支持任意文档输入。",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
