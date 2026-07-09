@@ -94,5 +94,17 @@
     "desc": "为您的下一个 React 项目精心打造的独特头像占位符。",
     "url": "https://avvvatars.com/",
     "icon": "https://framerusercontent.com/modules/Xdpq1pNy3P5diAiufzHk/7NKLr1SdIgX65QjCWxw0/assets/z9TbZqgtkNpARfzCUvGhICg20dI.svg"
+  },
+  {
+    "name": "loro",
+    "desc": "Loro 是一个面向本地优先、实时协作的高性能 CRDT 库。",
+    "url": "https://cn.loro.dev/",
+    "icon": "https://cn.loro.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/loro-dev/loro"
+      }
+    ]
   }
 ]

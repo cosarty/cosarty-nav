@@ -646,5 +646,11 @@
     "desc": "搜索、复制和分发超过 6409 个品牌 SVG 图标。开源库，支持 npm、React、Vue、Svelte、CLI、CDN 和 MCP 服务器。",
     "url": "https://thesvg.org/",
     "icon": "https://thesvg.org/icon.svg"
+  },
+  {
+    "name": "datafa",
+    "desc": "  找出哪些营销渠道能带来客户，从而帮助您快速发展业务。",
+    "url": "https://datafa.st/",
+    "icon": "https://datafa.st/favicon.ico"
   }
 ]
