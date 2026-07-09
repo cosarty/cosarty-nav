@@ -4,7 +4,12 @@
     "desc": "YouMind 是学习与创作交汇的地方。在 YouMind 中，你可以与 AI 智能体一起学习、思考和创作。一切自然流动，与你共同成长。",
     "url": "https://youmind.com/zh-CN",
     "icon": "https://youmind.com/favicon.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/YouMind-OpenLab" }]
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/YouMind-OpenLab"
+      }
+    ]
   },
   {
     "name": "AI开源方案",
@@ -46,7 +51,12 @@
     "desc": "🐟 鱼皮的 AI 知识库",
     "url": "https://ai.codefather.cn/library/2010994846520700929",
     "icon": "https://ai.codefather.cn/favicon.ico",
-    "tags": [{ "id": "-3", "url": "https://github.com/liyupi/ai-guide" }]
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/liyupi/ai-guide"
+      }
+    ]
   },
   {
     "name": "Jason的主页",
@@ -72,7 +82,6 @@
     "url": "https://ai.codefather.cn/",
     "icon": "https://ai.codefather.cn/favicon.ico"
   },
- 
   {
     "name": "ai news",
     "desc": "人工智能新闻",
@@ -108,5 +117,17 @@
     "desc": "Tw93 的个人博客，杭州产品工程师，写一些关于产品工程、AI Coding、开源工具的思考。",
     "url": "https://tw93.fun/",
     "icon": "https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png"
+  },
+  {
+    "name": "datawhale",
+    "desc": "学习AI，从此开始",
+    "url": "https://www.datawhale.cn/home",
+    "icon": "https://assets.datawhale.cn/public/datawhale-logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/datawhalechina"
+      }
+    ]
   }
 ]
