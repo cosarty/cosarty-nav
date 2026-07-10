@@ -159,5 +159,11 @@
         "url": "https://github.com/danny-avila/LibreChat"
       }
     ]
+  },
+  {
+    "name": "create-t3-turbo",
+    "desc": "这是一个简洁明了的入门级仓库，使用了 T3 Stack 和 Expo React Native。",
+    "url": "https://github.com/t3-oss/create-t3-turbo",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
