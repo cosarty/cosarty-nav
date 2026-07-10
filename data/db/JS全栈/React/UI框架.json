@@ -141,5 +141,11 @@
     "desc": "拥有不断增长的即用型 React 组件和微交互库。免费开源。",
     "url": "https://www.fancycomponents.dev/",
     "icon": "https://www.fancycomponents.dev/favicon.ico"
+  },
+  {
+    "name": "better-auth-starter",
+    "desc": "这是一个现代化的 Next.js 样板网站，集成了身份验证、管理后台和用户管理功能，并使用 Better Auth、Drizzle ORM 和 PostgreSQL 构建。",
+    "url": "https://github.com/zexahq/better-auth-starter",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
