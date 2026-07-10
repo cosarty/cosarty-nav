@@ -16,5 +16,14 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/qdrant/qdrant" }
     ]
+  },
+  {
+    "name": "zvec",
+    "desc": "轻量级、低延迟、嵌入式的向量数据库简单易用高性能语义搜索。",
+    "url": "https://zvec.org/zh/",
+    "icon": "https://zvec.org/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/alibaba/zvec" }
+    ]
   }
 ]
