@@ -268,5 +268,11 @@
     "desc": "赋予你的 AI 代理整个互联网的视野。只需一个命令行界面，零 API 费用，即可阅读和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等内容。",
     "url": "https://github.com/Panniantong/Agent-Reach",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "voltagent",
+    "desc": "基于开源 TypeScript AI Agent 框架的 AI Agent 工程平台",
+    "url": "https://github.com/voltagent/voltagent/",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
