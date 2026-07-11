@@ -147,5 +147,11 @@
     "desc": "这是一个现代化的 Next.js 样板网站，集成了身份验证、管理后台和用户管理功能，并使用 Better Auth、Drizzle ORM 和 PostgreSQL 构建。",
     "url": "https://github.com/zexahq/better-auth-starter",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "better-auth-ui",
+    "desc": "为 Better Auth 构建的精美 UI 组件。",
+    "url": "https://github.com/better-auth-ui/better-auth-ui",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
