@@ -20,5 +20,14 @@
     "desc": "提示词大全",
     "url": "https://dye87dshnj.feishu.cn/wiki/V9yRwhugsiHhuokVodAcCbMWnef",
     "icon": "https://www.feishu.cn/favicon.ico"
+  },
+  {
+    "name": "prompts.chat",
+    "desc": "AI 提示词的自由社交平台",
+    "url": "https://prompts.chat/",
+    "icon": "https://prompts.chat/favicon.ico",
+    "tags": [
+      { "id": "-3", "url": "https://github.com/f/prompts.chat" }
+    ]
   }
 ]
