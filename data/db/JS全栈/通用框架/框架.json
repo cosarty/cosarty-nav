@@ -388,5 +388,17 @@
         "url": "https://github.com/flyfish-dev/file-viewer"
       }
     ]
+  },
+  {
+    "name": "embedpdf",
+    "desc": "终极开源 JavaScript PDF 查看器 。选择我们的即插即用组件即可立即获得结果，或使用我们的无头库构建完全自定义的用户界面。",
+    "url": "https://www.embedpdf.com/",
+    "icon": "https://www.embedpdf.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/embedpdf/embed-pdf-viewer"
+      }
+    ]
   }
 ]

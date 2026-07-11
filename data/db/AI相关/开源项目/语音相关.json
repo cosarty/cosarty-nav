@@ -229,5 +229,11 @@
     "desc": "一款口袋大小的 MLLM，可在您的手机上实现超高效的图像和视频理解",
     "url": "https://github.com/OpenBMB/MiniCPM-V",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "chatterbox",
+    "desc": "Chatterbox 是 Resemble AI 开发的一系列最先进的开源文本转语音模型。",
+    "url": "https://github.com/resemble-ai/chatterbox",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
