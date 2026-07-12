@@ -76,5 +76,17 @@
         "url": "https://github.com/h3js/h3"
       }
     ]
+  },
+  {
+    "name": "orpc",
+    "desc": "类型安全 API 化繁为简 🪄",
+    "url": "https://orpc.dev/",
+    "icon": "https://orpc.dev/icon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/middleapi/orpc"
+      }
+    ]
   }
 ]
