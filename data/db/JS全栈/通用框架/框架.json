@@ -400,5 +400,17 @@
         "url": "https://github.com/embedpdf/embed-pdf-viewer"
       }
     ]
+  },
+  {
+    "name": "ts-rest",
+    "desc": "只需一点 TypeScript 魔法，即可轻松实现 API 的跨栈类型安全 ✨",
+    "url": "https://ts-rest.com",
+    "icon": "https://ts-rest.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ts-rest/ts-rest"
+      }
+    ]
   }
 ]
