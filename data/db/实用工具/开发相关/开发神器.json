@@ -649,8 +649,20 @@
   },
   {
     "name": "datafa",
-    "desc": "  找出哪些营销渠道能带来客户，从而帮助您快速发展业务。",
+    "desc": "找出哪些营销渠道能带来客户，从而帮助您快速发展业务。",
     "url": "https://datafa.st/",
     "icon": "https://datafa.st/favicon.ico"
+  },
+  {
+    "name": "dbx",
+    "desc": "DBX 将连接管理、SQL 编辑、数据表格、结构工具、AI 助手和自托管访问放进一个轻量产品里",
+    "url": "https://dbxio.com/cn",
+    "icon": "https://dbxio.com/logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/t8y2/dbx"
+      }
+    ]
   }
 ]
