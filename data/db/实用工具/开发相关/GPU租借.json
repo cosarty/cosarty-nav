@@ -12,6 +12,12 @@
     "icon": "https://autodl.com/favicon.png"
   },
   {
+    "name": "runpod",
+    "desc": "Runpod 拥有超过 100 万开发者，以及我们正在构建的下一个云平台。",
+    "url": "https://www.runpod.io/",
+    "icon": "https://cdn.prod.website-files.com/69ce570adca53340abab8376/69e08b4aed16e020149fc5ec_favicon_www_runpod_io_32x32.png"
+  },
+  {
     "name": "OneThingAI算力云 - 热门GPU算力平台",
     "desc": "OneThingAI算力云是一个提供AI算力、GPU服务的算力平台，为开发者、企业打造集AI训练推理、科学计算、图形图像处理、云渲染等一站式、全方位的算力云服务解决方案。",
     "url": "https://onethingai.com/",
