@@ -88,5 +88,11 @@
         "url": "https://github.com/middleapi/orpc"
       }
     ]
+  },
+  {
+    "name": "puter js",
+    "desc": "Puter.js 无需 API 密钥和基础设施配置，即可访问身份验证、云存储、数据库和人工智能（包括 Claude、GPT、Gemini 以及 500 多个其他模型）。整个库就是一个单独的 <script> 标签或 @heyputer/puter.js npm 模块。",
+    "url": "https://docs.puter.com/",
+    "icon": "https://docs.puter.com/assets/favicon/apple-icon-57x57.png"
   }
 ]
