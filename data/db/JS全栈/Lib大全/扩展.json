@@ -106,5 +106,17 @@
         "url": "https://github.com/loro-dev/loro"
       }
     ]
+  },
+  {
+    "name": "tinykeys",
+    "desc": "一个体积小巧（约 650 字节）且现代化的快捷键库。。",
+    "url": "https://jamiebuilds.github.io/tinykeys/",
+    "icon": "https://github.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jamiebuilds/tinykeys"
+      }
+    ]
   }
 ]
