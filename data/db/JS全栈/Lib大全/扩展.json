@@ -109,7 +109,7 @@
   },
   {
     "name": "tinykeys",
-    "desc": "一个体积小巧（约 650 字节）且现代化的快捷键库。。",
+    "desc": "一个体积小巧（约 650 字节）且现代化的快捷键库。",
     "url": "https://jamiebuilds.github.io/tinykeys/",
     "icon": "https://github.com/favicon.ico",
     "tags": [
@@ -118,5 +118,11 @@
         "url": "https://github.com/jamiebuilds/tinykeys"
       }
     ]
+  },
+  {
+    "name": "tinycolor",
+    "desc": "🎨 颜色处理和转换",
+    "url": "https://github.com/scttcper/tinycolor",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
