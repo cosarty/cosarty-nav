@@ -412,5 +412,17 @@
         "url": "https://github.com/ts-rest/ts-rest"
       }
     ]
+  },
+  {
+    "name": "open-file-viewer",
+    "desc": "一款与框架无关的嵌入式文件查看器，支持原生 JavaScript、React、Vue 和 Svelte。可将 PDF、Office 文件、图像、媒体文件、压缩文件、电子邮件、图纸、3D 模型、GIS 和工程文件放入一个稳定的容器中。",
+    "url": "https://open-file-viewer-workspace.void.app/",
+    "icon": "https://open-file-viewer-workspace.void.app/favicon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/xushanpei/open-file-viewer"
+      }
+    ]
   }
 ]
