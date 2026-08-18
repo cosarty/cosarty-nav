@@ -55,5 +55,11 @@
     "name": "Tavily",
     "desc": "网络搜索mcp",
     "url": "https://app.tavily.com"
+  },
+  {
+    "icon": "https://exa.ai/favicon.ico",
+    "name": "专为人工智能代理构建的网络搜索",
+    "desc": "网络搜索mcp",
+    "url": "https://exa.ai/"
   }
 ]
