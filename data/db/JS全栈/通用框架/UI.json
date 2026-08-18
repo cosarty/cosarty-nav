@@ -76,5 +76,11 @@
     "desc": "开发者可复制、粘贴 UI 组件和模块。",
     "url": "https://www.ui-layouts.com/",
     "icon": "https://tools.ui-layouts.com/favicon.ico"
+  },
+  {
+    "name": "beautifului",
+    "desc": "适用于人工智能原生界面的精美用户界面。",
+    "url": "https://www.beautifului.dev",
+    "icon": "https://beautifului.dev/icon.png"
   }
 ]
