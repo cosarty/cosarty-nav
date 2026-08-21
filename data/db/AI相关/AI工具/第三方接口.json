@@ -154,5 +154,11 @@
     "desc": "主流 AI 大模型 API 聚合平台",
     "url": "https://grsai.com/",
     "icon": "https://grsai.com/favicon.ico"
+  },
+  {
+    "name": "贞贞的平价AI小屋",
+    "desc": "在一张无限画布上，把灵感变成图像、视频与声音。",
+    "url": "https://api.seedance.nz/",
+    "icon": "https://api.seedance.nz/favicon.ico"
   }
 ]
