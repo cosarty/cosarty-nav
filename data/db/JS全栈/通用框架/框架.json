@@ -424,5 +424,12 @@
         "url": "https://github.com/xushanpei/open-file-viewer"
       }
     ]
+  },
+  {
+    "name": "anydoc",
+    "desc": "将 Word、PowerPoint、Excel、OpenDocument、RTF、EPUB、CSV 和 PDF 文件转换为简洁的 Markdown 格式。使用 Rust 编写，并提供 Node.js 和 Python 绑定。",
+    "url": "https://github.com/firecrawl/anydoc",
+    "icon": "https://github.com/favicon.ico"
+    
   }
 ]
