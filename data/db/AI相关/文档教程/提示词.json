@@ -29,5 +29,11 @@
     "tags": [
       { "id": "-3", "url": "https://github.com/f/prompts.chat" }
     ]
+  },
+  {
+    "name": "Canghe AI",
+    "desc": "从爆款图片，到可复用 Prompt。",
+    "url": "https://gpt-image2.canghe.ai",
+    "icon": "https://gpt-image2.canghe.ai/favicon.png"
   }
 ]
