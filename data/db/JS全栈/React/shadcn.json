@@ -1,0 +1,56 @@
+[
+  {
+    "name": "shadcn UI ",
+    "desc": "一组设计精美、易于访问的组件和代码分发平台。可与您喜欢的框架配合使用。开源。开放代码。",
+    "url": "https://ui.shadcn.com/",
+    "icon": "https://ui.shadcn.com/favicon-16x16.png"
+  },
+  {
+    "name": "Tweak UI",
+    "desc": "设计你的完美 shadcn/ui 主题。",
+    "url": "https://tweakcn.com/",
+    "icon": "https://tweakcn.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jnsahaj/tweakcn"
+      }
+    ]
+  },
+  {
+    "name": "reui",
+    "desc": "The agent-ready layer for shadcn/ui. From prompt to production with MCP, skills, and a registry curated by senior design engineers",
+    "url": "https://reui.io/",
+    "icon": "https://reui.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/keenthemes/reui"
+      }
+    ]
+  },
+  {
+    "name": "matos-ui",
+    "desc": "基于 shadcn/ui 构建的强大、易用且风格独特的组件。配备强大的变体和流畅的动画效果。",
+    "url": "https://matos-ui.com/",
+    "icon": "https://matos-ui.com/logo-black-fiv.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/silasmatos/matos-ui"
+      }
+    ]
+  },
+  {
+    "name": "shadcn-form",
+    "desc": "使用 Shadcn 、 react-hook-form 和 zod， 几分钟内即可创建表单。",
+    "url": "https://www.shadcn-form.com/",
+    "icon": "https://www.shadcn-form.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/hasanharman/form-builder"
+      }
+    ]
+  }
+]

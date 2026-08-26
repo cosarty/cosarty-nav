@@ -1,6 +1,7 @@
 import React from './官网.json'
 import Other from './其他.json'
 import UI from './UI框架.json'
+import Shadcn from './shadcn.json'
 import Frame from './框架.json'
 import Hooks from './hooks.json'
 import Admin from './开源后台模版.json'
@@ -19,9 +20,14 @@ export default {
       nav: UI,
     },
     {
+      title: 'shadcn',
+      nav: Shadcn,
+    },
+    {
       title: '可视化框架',
       nav: Visual,
     },
+
     {
       title: 'Hooks',
       nav: Hooks,
