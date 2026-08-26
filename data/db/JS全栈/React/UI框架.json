@@ -153,5 +153,29 @@
     "desc": "为 Better Auth 构建的精美 UI 组件。",
     "url": "https://github.com/better-auth-ui/better-auth-ui",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "reui",
+    "desc": "The agent-ready layer for shadcn/ui. From prompt to production with MCP, skills, and a registry curated by senior design engineers",
+    "url": "https://reui.io/",
+    "icon": "https://reui.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/keenthemes/reui"
+      }
+    ]
+  },
+  {
+    "name": "matos-ui",
+    "desc": "基于 shadcn/ui 构建的强大、易用且风格独特的组件。配备强大的变体和流畅的动画效果。",
+    "url": "https://matos-ui.com/",
+    "icon": "https://matos-ui.com/logo-black-fiv.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/silasmatos/matos-ui"
+      }
+    ]
   }
 ]
