@@ -68,9 +68,7 @@
     "rate": 5,
     "breadcrumb": ["Golang", "生态系统", "WEB框架"],
     "id": 49,
-    "tags": [
-      { "id": "-3", "url": "https://github.com/kataras/iris" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/kataras/iris" }]
   },
   {
     "icon": "https://avatars1.githubusercontent.com/u/59947262?s=200&v=4",
@@ -81,8 +79,13 @@
     "rate": 5,
     "breadcrumb": ["Golang", "生态系统", "WEB框架"],
     "id": 50,
-    "tags": [
-      { "id": "-3", "url": "https://github.com/gofiber/fiber" }
-    ]
+    "tags": [{ "id": "-3", "url": "https://github.com/gofiber/fiber" }]
+  },
+  {
+    "name": "goframe",
+    "desc": "GoFrame 是一款模块化、高性能的Go 语言开发框架。 如果您想使用 Golang 开发一个业务型项目，无论是小型还是中大型项目，GoFrame 是您的不二之选。如果您想开发一个 Golang 组件库，GoFrame 提供开箱即用、丰富强大的基础组件库也能助您的工作事半功倍。 如果您是团队 Leader， GoFrame 丰富的资料文档、详尽的代码注释、 活跃的社区特点将会极大降低您的指导成本，支持团队快速接入、语言转型与能力提升。",
+    "url": "https://goframe.org/",
+    "icon": "https://goframe.org/favicon.ico",
+    "tags": [{ "id": "-3", "url": "https://github.com/gogf/gf" }]
   }
 ]
