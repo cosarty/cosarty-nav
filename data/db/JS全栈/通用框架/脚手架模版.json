@@ -10,5 +10,11 @@
         "url": "https://github.com/halolight"
       }
     ]
+  },
+  {
+    "name": "allshadcn",
+    "desc": "探索所有的shacn的模板、组件、模块、工具等等……",
+    "url": "https://allshadcn.com/",
+    "icon": "https://allshadcn.com/favicon.ico"
   }
 ]
