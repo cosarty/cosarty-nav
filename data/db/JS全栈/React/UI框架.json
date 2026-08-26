@@ -177,5 +177,17 @@
         "url": "https://github.com/silasmatos/matos-ui"
       }
     ]
+  },
+  {
+    "name": "shadcn-form",
+    "desc": "使用 Shadcn 、 react-hook-form 和 zod， 几分钟内即可创建表单。",
+    "url": "https://www.shadcn-form.com/",
+    "icon": "https://www.shadcn-form.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/hasanharman/form-builder"
+      }
+    ]
   }
 ]
