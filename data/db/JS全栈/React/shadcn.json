@@ -58,5 +58,161 @@
     "desc": "探索所有的shacn的模板、组件、模块、工具等等……",
     "url": "https://allshadcn.com/",
     "icon": "https://allshadcn.com/favicon.ico"
+  },
+  {
+    "name": "uselayouts",
+    "desc": "面向专业人士的微交互用户界面库。",
+    "url": "https://uselayouts.com/",
+    "icon": "https://uselayouts.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/iurvish/uselayouts"
+      }
+    ]
+  },
+  {
+    "name": "terrae",
+    "desc": "可组合且具有动画效果的 React 组件，用简单、声明式的 props 替换数百行命令式 map 代码。",
+    "url": "https://terrae.vercel.app/",
+    "icon": "https://terrae.vercel.app/icon?e891cad5be78f671",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/alamenai/terrae"
+      }
+    ]
+  },
+  {
+    "name": "satisui",
+    "desc": "利用不断增长的生产级 React 组件库，加速您的工作流程。这些组件拥有令人惊艳的、灵感源自 Awwwards 的动画效果，并基于一流的现代技术栈构建，您可以轻松复制、粘贴和部署，尽享便捷。",
+    "url": "https://satisui.xyz/",
+    "icon": "https://satisui.xyz/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/satishkumarsajjan"
+      }
+    ]
+  },
+  {
+    "name": "jolyui",
+    "desc": "Shadcn UI 模板",
+    "url": "https://www.jolyui.dev/",
+    "icon": "https://www.jolyui.dev/icon.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/johuniq/jolyui"
+      }
+    ]
+  },
+  {
+    "name": "justinlevine",
+    "desc": "36 个精加工、可组合的组件，随时可以安装和调整。",
+    "url": "https://ui.justinlevine.me/docs",
+    "icon": "https://ui.justinlevine.me/icon.png?icon.10ce.y78fx8mr.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jal-co/ui"
+      }
+    ]
+  },
+  {
+    "name": "shieldcn",
+    "desc": "你的 readme 和 SKILL.md 文件渴望获得的徽章",
+    "url": "https://shieldcn.dev/",
+    "icon": "https://shieldcn.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/jal-co/shieldcn"
+      }
+    ]
+  },
+  {
+    "name": "componentry",
+    "desc": "适用于 React 的精美动画 UI 组件。",
+    "url": "https://componentry.dev/",
+    "icon": "https://componentry.dev/icon.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/harshjdhv/componentry"
+      }
+    ]
+  },
+  {
+    "name": "loading-ui",
+    "desc": "精选的旋转动画、加载动画和各种动画素材，助您打造下一个项目。永久免费开源。",
+    "url": "https://loading-ui.com/",
+    "icon": "https://loading-ui.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/turbostarter/loading-ui"
+      }
+    ]
+  },
+  {
+    "name": "flagcn",
+    "desc": "所有国家的国旗",
+    "url": "https://flagcn.dev/",
+    "icon": "https://flagcn.dev/favicon-v2.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/shadi-almilhem/flagcn"
+      }
+    ]
+  },
+  {
+    "name": "spectrum-ui",
+    "desc": "您的 AI 代理缺少组件库。",
+    "url": "https://ui.spectrumhq.in/",
+    "icon": "https://ui.spectrumhq.in/icon.svg?icon.0notamh8x-v8b.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/arihantcodes/spectrum-ui"
+      }
+    ]
+  },
+  {
+    "name": "iconiqui",
+    "desc": "动态效果恰到好处，不会喧宾夺主——细微的过渡效果只是为了确认发生了什么，而不是为了吸引注意力而进行的装饰。",
+    "url": "https://iconiqui.com/",
+    "icon": "https://iconiqui.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/edwinvakayil/iconiq"
+      }
+    ]
+  },
+  {
+    "name": "shadcnblocks",
+    "desc": "探索我们精心打造的 2018 个模块、2104 个组件和 19 个模板，这些组件专为 shadcn/ui、Tailwind 和 React 定制。这些由我们团队设计和开发的高质量、交互式且完全响应式的组件，可直接复制粘贴到您的项目中，或通过 Shadcn CLI 安装。",
+    "url": "https://www.shadcnblocks.com/",
+    "icon": "https://www.shadcnblocks.com/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/shadcnblocks/shadcn-ui-blocks"
+      }
+    ]
+  },
+  {
+    "name": "limeplay",
+    "desc": "用于构建视频播放器的现代 UI 库",
+    "url": "https://limeplay.winoffrg.dev/",
+    "icon": "https://limeplay.winoffrg.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/winoffrg/limeplay"
+      }
+    ]
   }
 ]

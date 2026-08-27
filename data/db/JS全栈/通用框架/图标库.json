@@ -28,5 +28,11 @@
     "desc": "精美制作的动画图标 *",
     "url": "https://lucide-animated.com/",
     "icon": "https://lucide-animated.com/icon?f65901712075763a"
+  },
+  {
+    "name": "morphicons",
+    "desc": "可为 Lucide、Tabler、Heroicons 或任何描边图标集添加动画效果。采用封闭形式求解最优旋转，结合弹簧物理效果，零依赖。",
+    "url": "https://www.morphicons.com/",
+    "icon": "https://www.morphicons.com/favicon.ico"
   }
 ]
