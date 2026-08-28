@@ -274,5 +274,17 @@
         "url": "https://github.com/Adityakishore0/ScrollX-UI"
       }
     ]
+  },
+  {
+    "name": "heygaia ui",
+    "desc": "隆重推出 GAIA UI，一个用于构建美观人工智能代理的库。",
+    "url": "https://ui.heygaia.io/",
+    "icon": "https://ui.heygaia.io/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/heygaia/ui"
+      }
+    ]
   }
 ]
