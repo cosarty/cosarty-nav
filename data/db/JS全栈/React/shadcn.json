@@ -214,5 +214,65 @@
         "url": "https://github.com/winoffrg/limeplay"
       }
     ]
+  },
+  {
+    "name": "kokonutui",
+    "desc": "100 多个使用 React、Tailwind CSS 和 Motion 构建的开源组件。提供实时预览，以及供您的代理机器可读的注册表。",
+    "url": "https://kokonutui.com/",
+    "icon": "https://kokonutui.com/icon.png?icon.2ek27zfaz6hz0.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/kokonut-labs/kokonutui"
+      }
+    ]
+  },
+  {
+    "name": "eldoraui",
+    "desc": "150 多个使用 React 、 Typescript 、 Tailwind CSS 和 Motion 构建的免费开源动画组件和效果。。",
+    "url": "https://www.eldoraui.site/",
+    "icon": "https://www.eldoraui.site/icon.png?icon.3qo19t9y6v450.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/karthikmudunuri/eldoraui"
+      }
+    ]
+  },
+  {
+    "name": "chanhdai",
+    "desc": "非常好的组件库。",
+    "url": "https://chanhdai.com/",
+    "icon": "https://assets.chanhdai.com/images/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ncdai/chanhdai.com"
+      }
+    ]
+  },
+  {
+    "name": "tripled ui",
+    "desc": "UI 模块、组件和页面。",
+    "url": "https://ui.tripled.work/",
+    "icon": "https://ui.tripled.work/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/moumen-soliman/uitripled"
+      }
+    ]
+  },
+  {
+    "name": "scrollxui",
+    "desc": "适用于现代化组件。",
+    "url": "https://scrollxui.dev/",
+    "icon": "https://scrollxui.dev/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/Adityakishore0/ScrollX-UI"
+      }
+    ]
   }
 ]
