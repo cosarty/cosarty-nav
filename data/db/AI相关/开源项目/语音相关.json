@@ -241,5 +241,11 @@
     "desc": "MOSS-Transcribe-Diarize 0.9B 是一个开源的 SOTA 端到端音频理解模型，用于长篇多说话人转录、人声分割、时间戳和声学事件感知。",
     "url": "https://github.com/OpenMOSS/MOSS-Transcribe-Diarize",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "breeze-tts",
+    "desc": "Breeze TTS 2 的官方 PyTorch 推理。",
+    "url": "https://github.com/breezeblue-ai/breeze-tts",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
