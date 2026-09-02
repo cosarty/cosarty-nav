@@ -286,5 +286,17 @@
         "url": "https://github.com/heygaia/ui"
       }
     ]
+  },
+  {
+    "name": "blocks ui",
+    "desc": "使用 shadcn/ui 和 Tailwind CSS 构建的 React 组件，支持复制粘贴。开源、易于访问、可直接用于生产环境。",
+    "url": "https://blocks.so/",
+    "icon": "https://blocks.so/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/ephraimduncan/blocks"
+      }
+    ]
   }
 ]
