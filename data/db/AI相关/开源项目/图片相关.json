@@ -42,5 +42,11 @@
     "desc": "🆙 Upscayl - 适用于 Linux、MacOS 和 Windows 的排名第一的免费开源 AI 图像升级器。",
     "url": "https://github.com/upscayl/upscayl",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "rembg",
+    "desc": "Rembg 是一款用于去除图像背景的工具。",
+    "url": "https://github.com/danielgatis/rembg",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
