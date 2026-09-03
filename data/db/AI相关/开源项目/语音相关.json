@@ -247,5 +247,11 @@
     "desc": "Breeze TTS 2 的官方 PyTorch 推理。",
     "url": "https://github.com/breezeblue-ai/breeze-tts",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "VoiceStudio",
+    "desc": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创作。",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
