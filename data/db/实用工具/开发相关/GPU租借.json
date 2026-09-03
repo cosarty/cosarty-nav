@@ -34,5 +34,23 @@
     "desc": "我们致力于为机器学习研究者提供简单好用、极具性价比的在线实验室。",
     "url": "https://featurize.cn/",
     "icon": "https://featurize.cn/images/favicon.svg"
+  },
+  {
+    "name": "GPU Cloud",
+    "desc": "GPU Cloud 是一个提供GPU算力租借服务的平台，支持多种GPU型号，价格实惠，稳定可靠。",
+    "url": "https://gpu.cloud/",
+    "icon": "https://gpu.cloud/favicon.ico"
+  },
+  {
+    "name": "replicate",
+    "desc": "运行并微调模型。部署自定义模型。所有操作只需一行代码即可完成。",
+    "url": "https://replicate.com/home",
+    "icon": "https://static.replicateassets.com/fe/2fcfd0133a53fa7f8d1776795da22c460f04ea67/favicon-CKiqAkf2.png"
+  },
+  {
+    "name": "modal",
+    "desc": "在云端部署 AI 应用。无需配置服务器。",
+    "url": "https://modal.com/",
+    "icon": "https://modal.com/favicon.ico"
   }
 ]
