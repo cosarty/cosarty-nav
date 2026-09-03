@@ -51,6 +51,6 @@
     "name": "modal",
     "desc": "在云端部署 AI 应用。无需配置服务器。",
     "url": "https://modal.com/",
-    "icon": "https://modal.com/favicon.ico"
+    "icon": "https://modal.com/assets/favicon.ico"
   }
 ]
