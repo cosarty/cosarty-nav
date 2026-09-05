@@ -280,5 +280,11 @@
     "desc": "Mastra 是一个现代化的 TypeScript 框架，适用于 AI 应用和代理。",
     "url": "https://github.com/mastra-ai/mastra",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "crewAI",
+    "desc": "CrewAI 是一个用于协调角色扮演型自主 AI 代理的框架。通过促进协作智能，CrewAI 使代理能够无缝协作，共同应对复杂任务。",
+    "url": "https://github.com/crewAIInc/crewAI",
+    "icon": "https://crewai.com/favicon.ico"
   }
 ]
