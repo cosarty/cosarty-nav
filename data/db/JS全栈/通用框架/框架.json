@@ -436,5 +436,11 @@
     "desc": "使用 SVG 格式重新制作 x.ai 机器人头像。一个形状依次变换 14 种状态，逐帧参考参考视频。",
     "url": "https://github.com/jeremy-prt/bloub",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "expo",
+    "desc": "Expo 是一个基于 React Native 的开源框架和平台，用于快速构建可在 Android、iOS 和网页（Web）上原生运行的通用应用程序。它类似于 React 生态中的 Next.js，极大地简化了移动端开发流程",
+    "url": "https://expo.dev",
+    "icon": "https://static.expo.dev/static/brand/app-icon-512x512.png"
   }
 ]
