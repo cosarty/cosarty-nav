@@ -203,6 +203,12 @@
     "desc": "一键AI自动填写企业招聘官网的简历表单。",
     "url": "https://www.qiuzhifangzhou.com",
     "icon": "https://www.qiuzhifangzhou.com/favicon.ico"
+  },
+  {   
+    "name": "软仓",
+    "desc": "软仓是一个集合大型专业软件的导航网站，提供软件介绍和软件安装教程，包含Adoebe系列软件、AutoCad系列软件、3dsMax、达芬奇软件、CINEMA 4D、matlab软件等。",
+    "url": "https://www.ruancang.net/",
+    "icon": "https://www.ruancang.net/wp-content/uploads/attachment/2025/04/20250428035000_cang-yuan-512.png"
   }
 
 ]
