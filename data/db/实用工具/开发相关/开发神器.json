@@ -670,5 +670,17 @@
     "desc": "让每一次业务动作，都能稳定产出一条视频",
     "url": "https://massrender.com/",
     "icon": "https://massrender.com/favicon-32.png"
+  },
+  {
+    "name": "openship",
+    "desc": "提交代码——构建、配置和部署均自动完成。使用我们的云平台或连接您自己的服务器。零厂商锁定，完全开源。",
+    "url": "https://openship.io/",
+    "icon": "https://openship.io/favicon.ico"
+  },
+  {
+    "name": "dokploy",
+    "desc": "借助我们面向开发者的一体化平台，您可以轻松管理跨多个服务器的容器化部署和 AI 构建的应用程序。",
+    "url": "https://dokploy.com/",
+    "icon": "https://dokploy.com/favicon.ico"
   }
 ]
