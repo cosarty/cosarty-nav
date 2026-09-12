@@ -298,5 +298,17 @@
         "url": "https://github.com/ephraimduncan/blocks"
       }
     ]
+  },
+  {
+    "name": "microkit",
+    "desc": "MicroKit UI 是一个组件库，专为注重每次交互体验的开发者而设计。",
+    "url": "https://microkit.co/",
+    "icon": "https://microkit.co/favicon.ico",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/henriquegpb/microkit"
+      }
+    ]
   }
 ]
