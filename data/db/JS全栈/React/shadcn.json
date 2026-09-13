@@ -310,5 +310,17 @@
         "url": "https://github.com/henriquegpb/microkit"
       }
     ]
+  },
+  {
+    "name": "rareui",
+    "desc": "Rare UI 是一个免费的开源 React 动画组件集合，其中包含许多独特的动画组件。您可以在下方浏览它们的实际效果，并使用 shadcn CLI 安装任何组件。",
+    "url": "https://www.rareui.com",
+    "icon": "https://www.rareui.com/logos/Rareui.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/swamimalode07/rare-ui"
+      }
+    ]
   }
 ]
