@@ -322,5 +322,11 @@
         "url": "https://github.com/swamimalode07/rare-ui"
       }
     ]
+  },
+  {
+    "name": "beautifului",
+    "desc": "适用于人工智能原生界面的精美用户界面。",
+    "url": "https://www.beautifului.dev",
+    "icon": "https://beautifului.dev/icon.png"
   }
 ]
