@@ -328,5 +328,12 @@
     "desc": "适用于人工智能原生界面的精美用户界面。",
     "url": "https://www.beautifului.dev",
     "icon": "https://beautifului.dev/icon.png"
+  },
+  {
+    "name": "beui",
+    "desc": "使用 Motion 和 Tailwind CSS 构建的 React 组件，支持复制粘贴。免费、开源且完全可定制。",
+    "url": "https://beui.dev",
+    "icon": "https://beui.dev/beui-mark.png"
+    
   }
 ]
