@@ -124,5 +124,11 @@
     "desc": "🎨 颜色处理和转换",
     "url": "https://github.com/scttcper/tinycolor",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "dinero.js",
+    "desc": "使用 JavaScript 和 TypeScript 创建、计算和格式化货币",
+    "url": "https://github.com/dinerojs/dinero.js",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
