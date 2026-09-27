@@ -544,5 +544,11 @@
     "desc": "diff-match-patch 是一个用于计算两个字符串之间差异的库。",
     "url": "https://www.npmjs.com/package/diff-match-patch",
     "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
+  },
+  {
+    "name": "react-use-measure",
+    "desc": "这个小工具可以测量您引用的视图的边界（例如宽度、高度、顶部、左侧）。它具有响应性，能够对尺寸变化、窗口滚动和嵌套区域滚动做出反应。。",
+    "url": "https://www.npmjs.com/package/react-use-measure",
+    "icon": "https://static-production.npmjs.com/58a19602036db1daee0d7863c94673a4.png"
   }
 ]
