@@ -52,5 +52,12 @@
     "desc": "在云端部署 AI 应用。无需配置服务器。",
     "url": "https://modal.com/",
     "icon": "https://modal.com/assets/favicon.ico"
+  },
+  {
+    "name": "优云智算",
+    "desc": "一站式 AI 云服务从开发测试到生产级部署。",
+    "url": "https://www.compshare.cn/",
+    "icon": "https://www.compshare.cn/favicon.ico"
   }
+
 ]
