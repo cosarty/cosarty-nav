@@ -160,5 +160,11 @@
     "desc": "在一张无限画布上，把灵感变成图像、视频与声音。",
     "url": "https://api.seedance.nz/",
     "icon": "https://api.seedance.nz/favicon.ico"
+  },
+  {
+    "name": "EvoLink API",
+    "desc": "通过一个 EvoLink API 接入领先的 LLM、图像和视频模型。比较定价、阅读文档，开始为生产应用、Agent 和工作流构建。",
+    "url": "https://evolink.ai/zh",
+    "icon": "https://evolink.ai/favicon.ico"
   }
 ]
