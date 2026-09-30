@@ -138,5 +138,11 @@
     "desc": "AI 生成原生可编辑 PPTX，支持任意文档输入。",
     "url": "https://github.com/hugohe3/ppt-master",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Easel",
+    "desc": "一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+    "url": "https://github.com/ZJU-REAL/Easel",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
