@@ -1,0 +1,51 @@
+[
+
+  {
+    "name": "memU",
+    "desc": "MemU 是一个为人工智能伴侣提供的开源记忆框架。",
+    "url": "https://memu.pro/",
+    "icon": "https://memu.pro/local/memu-logo-u.svg",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/NevaMind-AI/memU"
+      }
+    ]
+  },
+  {
+    "name": "mem0",
+    "desc": "Mem0 是适用于 LLM 应用程序的通用、自我改进的内存层，可提供个性化的 AI 体验，从而降低成本并增强用户满意度。",
+    "url": "https://mem0.ai/",
+    "icon": "https://framerusercontent.com/images/evsVwEvZsWf4QuiXtNEqwqTVw.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/mem0ai/mem0"
+      }
+    ]
+  },
+  {
+    "name": "cognee",
+    "desc": "Cognee 是一款开源知识引擎，支持以任何格式或结构导入数据，并持续学习，为 AI 代理提供合适的上下文信息。它结合了向量搜索、图数据库和认知科学方法，使您的文档既能按含义搜索，又能随着变化和演进而建立起相互关联。",
+    "url": "https://github.com/topoteretes/cognee",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "claude-mem",
+    "desc": "一个 Claude Code 插件，可以自动捕获 Claude 在您的编码会话期间所做的一切，使用 AI（使用 Claude 的 agent-sdk）对其进行压缩，并将相关的上下文注入到未来的会话中。",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "Hindsight",
+    "desc": "Hindsight 是 Vectorize 开源的 AI 智能体长期记忆系统，自动从对话中提取事实、观察与心智模型，结合语义、关键词、图谱与时间四路并行检索，让智能体跨会话持续记忆与学习。",
+    "url": "https://hindsight.vectorize.io/",
+    "icon": "https://hindsight.vectorize.io/img/logo.png",
+    "tags": [
+      {
+        "id": "-3",
+        "url": "https://github.com/vectorize-io/hindsight"
+      }
+    ]
+  }
+]

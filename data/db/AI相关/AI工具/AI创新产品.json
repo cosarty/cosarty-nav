@@ -44,13 +44,6 @@
   },
 
   {
-    "name": "mem0",
-    "desc": "Mem0 是适用于 LLM 应用程序的通用、自我改进的内存层，可提供个性化的 AI 体验，从而降低成本并增强用户满意度。",
-    "url": "https://mem0.ai/",
-    "icon": "https://framerusercontent.com/images/evsVwEvZsWf4QuiXtNEqwqTVw.png",
-    "tags": [{ "id": "-3", "url": "https://github.com/mem0ai/mem0" }]
-  },
-  {
     "name": "minimaxi",
     "desc": "MiniMax是国内领先的拥有文本、语音、视觉三模态融合的千亿参数语言大模型，并打通产品全链路的创业公司。通过搭建超大规模实验平台与推理平台，跑通技术与产品的迭代闭环，实现模型能力与用户交互量的极速增长。",
     "url": "https://agent.minimaxi.com/",

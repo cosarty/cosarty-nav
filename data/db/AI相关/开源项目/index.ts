@@ -6,6 +6,7 @@ import VideoRelated from './视频相关.json'
 import Agent from './智能体.json'
 import Automation from './自动化测试.json'
 import RAG from './RAG.json'
+import Memory from './memory.json'
 import ImageRelated from './图片相关.json'
 import VectorDatabase from './向量数据库.json'
 import Sandbox from './沙箱.json'
@@ -34,6 +35,10 @@ export default {
     {
       title: 'RAG',
       nav: RAG,
+    },
+    {
+      title: '记忆',
+      nav: Memory,
     },
     {
       title: '模型社区',
