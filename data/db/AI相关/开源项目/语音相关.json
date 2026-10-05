@@ -253,5 +253,11 @@
     "desc": "VoiceStudio 是开源的、完全本地化的 ElevenLabs 替代方案——支持 646 种语言的语音克隆、语音设计、视频配音、听写、转录和有声读物创作。",
     "url": "https://github.com/debpalash/VoiceStudio",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name": "AuK",
+    "desc": "AuK：一个用于语音生成和编辑的开源基础模型",
+    "url": "https://github.com/Tencent-Hunyuan/AuK",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
