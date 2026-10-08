@@ -40,5 +40,11 @@
     "desc": "专为控制而构建的 LLM 代理。专为实际应用而设计。几分钟内即可完成部署",
     "url": "https://github.com/emcie-co/parlant",
     "icon": "https://github.com/favicon.ico"
+  },
+  {
+    "name":"magpie",
+    "desc": "从菜单栏切换即可。所有设备都由一个本地网关提供服务，配额用完后会切换到另一个帐户。",
+    "url": "https://github.com/yetone/magpie",
+    "icon": "https://github.com/favicon.ico"
   }
 ]
