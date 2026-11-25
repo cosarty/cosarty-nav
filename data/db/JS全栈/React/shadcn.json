@@ -334,6 +334,11 @@
     "desc": "使用 Motion 和 Tailwind CSS 构建的 React 组件，支持复制粘贴。免费、开源且完全可定制。",
     "url": "https://beui.dev",
     "icon": "https://beui.dev/beui-mark.png"
-    
+  },
+  {
+    "name": "goodui",
+    "desc": "为 shadcn 打造的 Web 与移动端 UI。真实界面，代码归你。",
+    "url": "https://goodui.dev/zh-CN",
+    "icon": "https://goodui.dev/favicon.ico"
   }
 ]
